@@ -4,7 +4,10 @@ const siteName = '诗笺'
 const siteDescription = '唐诗宋词三百首，逐字注音、译文注释、朗读、检索与收藏'
 const homeTitle = '诗笺 · 诗成笺上，韵在行间'
 const siteUrl = (process.env.SITE_URL || '').replace(/\/+$/, '')
+// 由 SITE_URL 的路径推导部署子路径，本地未设置时使用根路径
 const base = siteUrl ? `${new URL(siteUrl).pathname.replace(/\/+$/, '')}/` : '/'
+const siteOrigin = siteUrl ? new URL(siteUrl).origin : ''
+const siteHref = (value) => `${base}${value.replace(/^\/+/, '')}`
 
 const pagePath = (relativePath) => {
   const clean = relativePath.replace(/index\.md$/, '').replace(/\.md$/, '')
@@ -32,11 +35,14 @@ export default defineConfig({
   // VitePress 运行时支持 light 初始值，类型声明只写了 dark
   // @ts-expect-error
   appearance: { initialValue: 'light' },
-  base: '/shijian-poetry/',
+  // VitePress 只把 hostname 与页面路径拼接，子路径需在这里补上 base
   sitemap: siteUrl
     ? {
-        hostname: siteUrl,
-        transformItems: (items) => items.filter((item) => !/^favorites\/?$/.test(item.url)),
+        hostname: siteOrigin,
+        transformItems: (items) =>
+          items
+            .filter((item) => !/^favorites\/?$/.test(item.url))
+            .map((item) => ({ ...item, url: siteHref(item.url) })),
       }
     : undefined,
   head: [

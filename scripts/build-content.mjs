@@ -5,6 +5,11 @@ import { pinyin } from 'pinyin-pro'
 import * as OpenCC from 'opencc-js'
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
+const siteUrl = (process.env.SITE_URL || '').replace(/\/+$/, '')
+const basePath = siteUrl
+  ? `${new URL(siteUrl).pathname.replace(/\/+$/, '')}/`
+  : '/'
+const siteHref = (value) => `${basePath}${value.replace(/^\/+/, '')}`
 const toSimp = OpenCC.Converter({ from: 't', to: 'cn' })
 
 const readJson = (rel) => JSON.parse(fs.readFileSync(path.join(root, rel), 'utf8'))
@@ -424,7 +429,10 @@ for (const poet of poets) {
 }
 for (const poet of poets) {
   const list = poet.poems
-    .map((poem) => `<li><a href="/poems/${poem.slug}">${escapeHtml(poem.title)}</a></li>`)
+    .map(
+      (poem) =>
+        `<li><a href="${siteHref('/poems/' + poem.slug)}">${escapeHtml(poem.title)}</a></li>`,
+    )
     .join('\n')
   const featured = poet.poems
     .slice(0, 3)
@@ -450,7 +458,7 @@ const poetIndexSections = [...poetsByDynasty.entries()]
     const items = sorted
       .map(
         (poet) =>
-          `<li><a href="/poets/${poet.slug}">${escapeHtml(poet.name)}</a><span>${poet.poems.length} 首</span></li>`,
+          `<li><a href="${siteHref('/poets/' + poet.slug)}">${escapeHtml(poet.name)}</a><span>${poet.poems.length} 首</span></li>`,
       )
       .join('\n')
     return `## ${dynasty}代\n\n<ul class="poem-list poem-list--chips">\n${items}\n</ul>`
@@ -475,7 +483,7 @@ for (const meta of dynastyMeta) {
   const items = list
     .map(
       (poet) =>
-        `<li><a href="/poets/${poet.slug}">${escapeHtml(poet.name)}</a><span>${poet.poems.length} 首</span></li>`,
+        `<li><a href="${siteHref('/poets/' + poet.slug)}">${escapeHtml(poet.name)}</a><span>${poet.poems.length} 首</span></li>`,
     )
     .join('\n')
   const topNames = list.slice(0, 4).map((poet) => poet.name).join('、')

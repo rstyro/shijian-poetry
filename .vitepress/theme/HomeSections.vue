@@ -20,7 +20,7 @@ const stats = home.stats
 
 const randomPoem = () => {
   const slugs = home.randomSlugs
-  router.go('/poems/' + slugs[Math.floor(Math.random() * slugs.length)])
+  router.go(withBase('/poems/' + slugs[Math.floor(Math.random() * slugs.length)]))
 }
 
 const statItems = computed(() => [

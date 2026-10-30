@@ -1,0 +1,68 @@
+# 自动构建 VitePress 站点并发布到 GitHub Pages。
+# 使用前：仓库 Settings → Pages → Build and deployment → Source 选择 “GitHub Actions”。
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main] # 推送到 main 即触发部署
+  workflow_dispatch: # 支持在 Actions 页面手动触发
+
+# Pages 发布所需的最小权限
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# 同一时间只保留一个 Pages 部署，避免并发覆盖；已开始的部署不强制取消
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+env:
+  # 同时决定 canonical、sitemap 与 VitePress base；本项目部署在 /shijian-poetry/ 子路径
+  SITE_URL: https://rstyro.github.io/shijian-poetry
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # 拉取仓库源码
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # 使用与本地一致的 Node 主版本，并按 package-lock.json 启用 npm 缓存
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      # 读取仓库的 Pages 配置，为后续 deploy-pages 准备运行环境
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      # 严格按照 lockfile 安装依赖，保证构建可复现
+      - name: Install dependencies
+        run: npm ci
+
+      # docs:build 会先运行 build-content.mjs，再执行 vitepress build
+      - name: Build site
+        run: npm run docs:build
+
+      # 上传静态产物；路径与 VitePress 的 outDir 保持一致
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .vitepress/dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }} # 部署完成后可在 Actions 中看到访问地址
+    steps:
+      # 将上一步的 artifact 发布到 GitHub Pages
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

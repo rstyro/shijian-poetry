@@ -49,17 +49,21 @@ npm run docs:preview
 npm run docs:preview -- --port 4200
 ```
 
-指定站点域名后再构建，才会输出 canonical、OG URL 与 sitemap：
+指定站点地址后再构建，才会输出 canonical、OG URL 与 sitemap，同时把地址中的路径用作 `base`：
 
 ```bash
-SITE_URL=https://example.com npm run docs:build
+SITE_URL=https://rstyro.github.io/shijian-poetry npm run docs:build
+npm run docs:preview -- --port 4200
+# 打开 http://localhost:4200/shijian-poetry/
 ```
 
 PowerShell：
 
 ```powershell
-$env:SITE_URL = "https://example.com"; npm run docs:build
+$env:SITE_URL = "https://rstyro.github.io/shijian-poetry"; npm run docs:build
 ```
+
+本地开发不设置 `SITE_URL` 时使用根路径 `/`，无需关心子路径。
 
 ## 目录结构
 
@@ -79,6 +83,9 @@ $env:SITE_URL = "https://example.com"; npm run docs:build
 │  └─ search-pinyin.json         # 构建产物（忽略）
 ├─ scripts/
 │  └─ build-content.mjs          # 内容构建脚本
+├─ .github/
+│  └─ workflows/
+│     └─ deploy.yml              # GitHub Pages 自动部署
 ├─ .vitepress/
 │  ├─ config.mts                 # 站点、导航、SEO、主题配置
 │  └─ theme/                     # 自定义主题与四个页面组件
@@ -176,9 +183,27 @@ pinyin-pro 无法覆盖全部多音字，因此 `data/curation/pinyin-overrides.
 ## SEO 与部署
 
 - 设置环境变量 `SITE_URL` 后，构建期会生成 canonical、`og:url`、绝对图片地址与 `sitemap.xml`；未设置时这些绝对地址会被省略。
+- `SITE_URL` 的路径部分会自动作为 VitePress 的 `base`，因此部署到项目子路径时不要遗漏仓库名。
 - 首页输出 WebSite 结构化数据与站内搜索 Action，作品页输出 Poem + 面包屑，诗人页输出 Person。
 - 构建产物为纯静态文件，位于 `.vitepress/dist`，可直接部署到任意静态托管服务；站点启用 `cleanUrls`。
 - `public/robots.txt` 允许抓取全站，仅排除 `/favorites`。
+
+### GitHub Pages
+
+仓库已包含 `.github/workflows/deploy.yml`，推送到 `main` 或手动触发时会自动构建并发布：
+
+1. 在仓库 **Settings → Pages → Build and deployment** 中把 **Source** 设为 **GitHub Actions**。
+2. 推送到 `main`，等待 `Deploy to GitHub Pages` 工作流完成。
+3. 站点地址为 <https://rstyro.github.io/shijian-poetry/>。
+
+工作流中的 `SITE_URL` 同时决定 canonical 与子路径：
+
+```yaml
+env:
+  SITE_URL: https://rstyro.github.io/shijian-poetry
+```
+
+若以后绑定自定义域名或修改仓库名，需要同步修改该值。`actions/configure-pages`、`upload-pages-artifact` 与 `deploy-pages` 已处理 Pages 的静态托管，无需 `gh-pages` 分支。
 
 ## 数据与许可
 
