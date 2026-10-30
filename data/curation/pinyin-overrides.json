@@ -1,0 +1,2257 @@
+{
+  "charDefaults": [
+    {
+      "char": "应",
+      "reading": "yīng",
+      "exceptions": [
+        {
+          "line": "不眠思妇，齐应和、几声砧杵。",
+          "reading": "yìng"
+        },
+        {
+          "line": "露寒人远鸡相应。",
+          "reading": "yìng"
+        },
+        {
+          "line": "酒酣应对燕山雪，正冰河月冻，晓陇云飞。",
+          "reading": "yìng"
+        },
+        {
+          "line": "敲门都不应，倚杖听江声。",
+          "reading": "yìng"
+        },
+        {
+          "line": "正蝉吟败叶，蛩响衰草，相应喧喧。",
+          "reading": "yìng"
+        },
+        {
+          "line": "言迟更速皆应手，将往复旋如有情。",
+          "reading": "yìng"
+        },
+        {
+          "line": "嗟余听鼓应官去，走马兰台类断蓬。",
+          "reading": "yìng"
+        },
+        {
+          "line": "自怜诗酒瘦，难应接、许多春色。",
+          "reading": "yìng"
+        },
+        {
+          "line": "潜心默祷若有应，岂非正直能感通。",
+          "reading": "yìng"
+        }
+      ]
+    },
+    {
+      "char": "重",
+      "reading": "chóng",
+      "exceptions": [
+        {
+          "line": "汉皇重色思倾国，御宇多年求不得。",
+          "reading": "zhòng"
+        },
+        {
+          "line": "鸳鸯瓦冷霜华重，翡翠衾寒谁与共。",
+          "reading": "zhòng"
+        },
+        {
+          "line": "风暖鸟声碎，日高花影重。",
+          "reading": "zhòng"
+        },
+        {
+          "line": "漠漠帆来重，冥冥鸟去迟。",
+          "reading": "zhòng"
+        },
+        {
+          "line": "可以荐嘉客，奈何阻重深。",
+          "reading": "zhòng"
+        },
+        {
+          "line": "大厦如倾要梁栋，万牛回首丘山重。",
+          "reading": "zhòng"
+        },
+        {
+          "line": "句奇语重喻者少，谗之天子言其私。",
+          "reading": "zhòng"
+        },
+        {
+          "line": "昼阴重，霜凋岸草，雾隐城堞。",
+          "reading": "zhòng"
+        },
+        {
+          "line": "商人重利轻别离，前月浮梁买茶去。",
+          "reading": "zhòng"
+        },
+        {
+          "line": "惊粉重、蝶宿西园，喜泥润、燕归南浦。",
+          "reading": "zhòng"
+        },
+        {
+          "line": "艳色天下重，西施宁久微。",
+          "reading": "zhòng"
+        },
+        {
+          "line": "君不见昔时燕家重郭隗，拥篲折节无嫌猜。",
+          "reading": "zhòng"
+        },
+        {
+          "line": "男儿本自重横行，天子非常赐颜色。",
+          "reading": "zhòng"
+        },
+        {
+          "line": "中州盛日，闺门多暇，记得偏重三五。",
+          "reading": "zhòng"
+        },
+        {
+          "line": "露重飞难进，风多响易沈。",
+          "reading": "zhòng"
+        }
+      ]
+    },
+    {
+      "char": "著",
+      "reading": "zhuó",
+      "exceptions": [
+        {
+          "line": "名岂文章著，官因老病休。",
+          "reading": "zhù"
+        },
+        {
+          "line": "旧游忆著山阴，厚盟遂妨上苑。",
+          "reading": "zhe"
+        },
+        {
+          "line": "正年少疏狂，歌笑迷著。",
+          "reading": "zhe"
+        },
+        {
+          "line": "梦阑时，酒醒后，思量著。",
+          "reading": "zhe"
+        },
+        {
+          "line": "守著窗儿，独自怎生得黑。",
+          "reading": "zhe"
+        },
+        {
+          "line": "怨月恨花烦恼，不是不曾经著。",
+          "reading": "zhe"
+        }
+      ]
+    },
+    {
+      "char": "着",
+      "reading": "zhuó",
+      "exceptions": []
+    },
+    {
+      "char": "那",
+      "reading": "nǎ",
+      "exceptions": [
+        {
+          "line": "怅别后华表，那回双鹤。",
+          "reading": "nà"
+        },
+        {
+          "line": "不是暗尘明月，那时元夜。",
+          "reading": "nà"
+        },
+        {
+          "line": "那回归去，荡云雪、孤舟夜发。",
+          "reading": "nà"
+        },
+        {
+          "line": "蓦然回首，那人却在，□□阑珊处。",
+          "reading": "nà"
+        },
+        {
+          "line": "残灯朱幌，淡月纱窗，那时风景。",
+          "reading": "nà"
+        },
+        {
+          "line": "犹记深宫旧事，那人正睡里，飞近蛾绿。",
+          "reading": "nà"
+        },
+        {
+          "line": "长记那回时，邂逅相逢，郊外驻油壁。",
+          "reading": "nà"
+        },
+        {
+          "line": "恐翠袖、正天寒，犹倚梅花那树。",
+          "reading": "nà"
+        },
+        {
+          "line": "那时同唱鹧鸪词。",
+          "reading": "nà"
+        },
+        {
+          "line": "强欲从君无那老，将因卧病解朝衣。",
+          "reading": "nuò"
+        },
+        {
+          "line": "无那。",
+          "reading": "nuò"
+        },
+        {
+          "line": "继周八代争战罢，无人收拾理则那。",
+          "reading": "nuó"
+        }
+      ]
+    },
+    {
+      "char": "咽",
+      "reading": "yè",
+      "exceptions": [
+        {
+          "line": "观经鸿都尚填咽，坐见举国来奔波。",
+          "reading": "yān"
+        }
+      ]
+    },
+    {
+      "char": "裳",
+      "reading": "cháng",
+      "exceptions": []
+    },
+    {
+      "char": "翘",
+      "reading": "qiáo",
+      "exceptions": []
+    },
+    {
+      "char": "塞",
+      "reading": "sài",
+      "exceptions": [
+        {
+          "line": "欲渡黄河冰塞川，将登太行雪满山。",
+          "reading": "sè"
+        }
+      ]
+    },
+    {
+      "char": "省",
+      "reading": "xǐng",
+      "exceptions": [
+        {
+          "line": "禁里疎钟官舍晚，省中啼鸟吏人稀。",
+          "reading": "shěng"
+        }
+      ]
+    },
+    {
+      "char": "系",
+      "reading": "jì",
+      "exceptions": [
+        {
+          "line": "古者世称大手笔，此事不系于职司。",
+          "reading": "xì"
+        },
+        {
+          "line": "玉纤曾擘黄柑，柔香系幽素。",
+          "reading": "xì"
+        }
+      ]
+    }
+  ],
+  "lineRules": [
+    {
+      "line": "少陵野老吞声哭，春日潜行曲江曲。",
+      "fixes": [
+        {
+          "char": "曲",
+          "occurrence": 0,
+          "reading": "qū"
+        },
+        {
+          "char": "曲",
+          "occurrence": 1,
+          "reading": "qū"
+        },
+        {
+          "char": "少",
+          "occurrence": 0,
+          "reading": "shào"
+        }
+      ]
+    },
+    {
+      "line": "夜色催更，清尘收露，小曲幽坊月暗。",
+      "fixes": [
+        {
+          "char": "曲",
+          "occurrence": 0,
+          "reading": "qū"
+        },
+        {
+          "char": "更",
+          "occurrence": 0,
+          "reading": "gēng"
+        }
+      ]
+    },
+    {
+      "line": "看栏曲萦红，檐牙飞翠。",
+      "fixes": [
+        {
+          "char": "曲",
+          "occurrence": 0,
+          "reading": "qū"
+        }
+      ]
+    },
+    {
+      "line": "岭树重遮千里目，江流曲似九廻肠。",
+      "fixes": [
+        {
+          "char": "曲",
+          "occurrence": 0,
+          "reading": "qū"
+        }
+      ]
+    },
+    {
+      "line": "渭水自萦秦塞曲，黄山旧绕汉宫斜。",
+      "fixes": [
+        {
+          "char": "曲",
+          "occurrence": 0,
+          "reading": "qū"
+        }
+      ]
+    },
+    {
+      "line": "当年燕子知何处，但苔深韦曲，草暗斜川。",
+      "fixes": [
+        {
+          "char": "曲",
+          "occurrence": 0,
+          "reading": "qū"
+        }
+      ]
+    },
+    {
+      "line": "薄暮空潭曲，安禅制毒龙。",
+      "fixes": [
+        {
+          "char": "曲",
+          "occurrence": 0,
+          "reading": "qū"
+        }
+      ]
+    },
+    {
+      "line": "帘外谁来推绣户，枉教人、梦断瑶台曲。",
+      "fixes": [
+        {
+          "char": "曲",
+          "occurrence": 0,
+          "reading": "qū"
+        }
+      ]
+    },
+    {
+      "line": "别梦依依到谢家，小廊回合曲阑斜。",
+      "fixes": [
+        {
+          "char": "曲",
+          "occurrence": 0,
+          "reading": "qū"
+        }
+      ]
+    },
+    {
+      "line": "料舟依岸曲，人在天角。",
+      "fixes": [
+        {
+          "char": "曲",
+          "occurrence": 0,
+          "reading": "qū"
+        }
+      ]
+    },
+    {
+      "line": "澹然空水对斜晖，曲岛苍茫接翠微。",
+      "fixes": [
+        {
+          "char": "曲",
+          "occurrence": 0,
+          "reading": "qū"
+        }
+      ]
+    },
+    {
+      "line": "参差连曲陌，迢遰送斜晖。",
+      "fixes": [
+        {
+          "char": "曲",
+          "occurrence": 0,
+          "reading": "qū"
+        }
+      ]
+    },
+    {
+      "line": "最堪爱、一曲银钩小，宝帘挂秋冷。",
+      "fixes": [
+        {
+          "char": "曲",
+          "occurrence": 0,
+          "reading": "qū"
+        }
+      ]
+    },
+    {
+      "line": "曲岸持觞，垂杨系马，此地曾轻别。",
+      "fixes": [
+        {
+          "char": "曲",
+          "occurrence": 0,
+          "reading": "qū"
+        }
+      ]
+    },
+    {
+      "line": "映水曲、翠瓦朱檐，垂杨里、乍见津亭。",
+      "fixes": [
+        {
+          "char": "曲",
+          "occurrence": 0,
+          "reading": "qū"
+        }
+      ]
+    },
+    {
+      "line": "曲曲屏山，夜凉独自甚情绪。",
+      "fixes": [
+        {
+          "char": "曲",
+          "occurrence": 0,
+          "reading": "qū"
+        },
+        {
+          "char": "曲",
+          "occurrence": 1,
+          "reading": "qū"
+        }
+      ]
+    },
+    {
+      "line": "紫曲门荒，沿败井、风摇青蔓。",
+      "fixes": [
+        {
+          "char": "曲",
+          "occurrence": 0,
+          "reading": "qū"
+        }
+      ]
+    },
+    {
+      "line": "当时只记入山深，青溪几曲到云林。",
+      "fixes": [
+        {
+          "char": "曲",
+          "occurrence": 0,
+          "reading": "qū"
+        }
+      ]
+    },
+    {
+      "line": "翠幌娇深，曲屏香暖，争念岁寒飘泊。",
+      "fixes": [
+        {
+          "char": "曲",
+          "occurrence": 0,
+          "reading": "qū"
+        }
+      ]
+    },
+    {
+      "line": "曲港跳鱼，圆荷泻露，寂寞无人见。",
+      "fixes": [
+        {
+          "char": "曲",
+          "occurrence": 0,
+          "reading": "qū"
+        }
+      ]
+    },
+    {
+      "line": "曲阑干外天如水。",
+      "fixes": [
+        {
+          "char": "曲",
+          "occurrence": 0,
+          "reading": "qū"
+        }
+      ]
+    },
+    {
+      "line": "只愁重洒西州泪，问杜曲、人家在否。",
+      "fixes": [
+        {
+          "char": "曲",
+          "occurrence": 0,
+          "reading": "qū"
+        }
+      ]
+    },
+    {
+      "line": "问之不肯道姓名，但道困苦乞为奴。",
+      "fixes": [
+        {
+          "char": "为",
+          "occurrence": 0,
+          "reading": "wéi"
+        }
+      ]
+    },
+    {
+      "line": "问客何为来，采山因买斧。",
+      "fixes": [
+        {
+          "char": "为",
+          "occurrence": 0,
+          "reading": "wéi"
+        }
+      ]
+    },
+    {
+      "line": "十四为君妇，羞颜尚不开。",
+      "fixes": [
+        {
+          "char": "为",
+          "occurrence": 0,
+          "reading": "wéi"
+        }
+      ]
+    },
+    {
+      "line": "在天愿作比翼鸟，在地愿为连理枝。",
+      "fixes": [
+        {
+          "char": "为",
+          "occurrence": 0,
+          "reading": "wéi"
+        }
+      ]
+    },
+    {
+      "line": "今朝此为别，何处还相遇。",
+      "fixes": [
+        {
+          "char": "为",
+          "occurrence": 0,
+          "reading": "wéi"
+        }
+      ]
+    },
+    {
+      "line": "生事且弥漫，愿为持竿叟。",
+      "fixes": [
+        {
+          "char": "为",
+          "occurrence": 0,
+          "reading": "wéi"
+        }
+      ]
+    },
+    {
+      "line": "承恩不在貌，教妾若为容。",
+      "fixes": [
+        {
+          "char": "为",
+          "occurrence": 0,
+          "reading": "wéi"
+        }
+      ]
+    },
+    {
+      "line": "将军魏武之子孙，于今为庶为清门。",
+      "fixes": [
+        {
+          "char": "为",
+          "occurrence": 0,
+          "reading": "wéi"
+        },
+        {
+          "char": "为",
+          "occurrence": 1,
+          "reading": "wéi"
+        }
+      ]
+    },
+    {
+      "line": "可怜后主还祠庙，日暮聊为梁甫吟。",
+      "fixes": [
+        {
+          "char": "为",
+          "occurrence": 0,
+          "reading": "wéi"
+        }
+      ]
+    },
+    {
+      "line": "到今来，海角逢春，天涯为客。",
+      "fixes": [
+        {
+          "char": "为",
+          "occurrence": 0,
+          "reading": "wéi"
+        }
+      ]
+    },
+    {
+      "line": "欣欣此生意，自尔为佳节。",
+      "fixes": [
+        {
+          "char": "为",
+          "occurrence": 0,
+          "reading": "wéi"
+        }
+      ]
+    },
+    {
+      "line": "君臣已与时际会，树木犹为人爱惜。",
+      "fixes": [
+        {
+          "char": "为",
+          "occurrence": 0,
+          "reading": "wéi"
+        }
+      ]
+    },
+    {
+      "line": "今为羗笛出塞声，使我三军泪如雨。",
+      "fixes": [
+        {
+          "char": "为",
+          "occurrence": 0,
+          "reading": "wéi"
+        }
+      ]
+    },
+    {
+      "line": "帝曰汝度功第一，汝从事愈宜为辞。",
+      "fixes": [
+        {
+          "char": "为",
+          "occurrence": 0,
+          "reading": "wéi"
+        }
+      ]
+    },
+    {
+      "line": "愈拜稽首蹈且舞，金石刻画臣能为。",
+      "fixes": [
+        {
+          "char": "为",
+          "occurrence": 0,
+          "reading": "wéi"
+        }
+      ]
+    },
+    {
+      "line": "弹到此，为呜咽。",
+      "fixes": [
+        {
+          "char": "为",
+          "occurrence": 0,
+          "reading": "wéi"
+        }
+      ]
+    },
+    {
+      "line": "江汉曾为客，相逢每醉还。",
+      "fixes": [
+        {
+          "char": "为",
+          "occurrence": 0,
+          "reading": "wéi"
+        },
+        {
+          "char": "还",
+          "occurrence": 0,
+          "reading": "huán"
+        }
+      ]
+    },
+    {
+      "line": "美人胡为隔秋水，焉得置之贡玉堂。",
+      "fixes": [
+        {
+          "char": "为",
+          "occurrence": 0,
+          "reading": "wéi"
+        }
+      ]
+    },
+    {
+      "line": "烹羊宰牛且为乐，会须一饮三百杯。",
+      "fixes": [
+        {
+          "char": "为",
+          "occurrence": 0,
+          "reading": "wéi"
+        }
+      ]
+    },
+    {
+      "line": "主人何为言少钱，径须酤取对君酌。",
+      "fixes": [
+        {
+          "char": "为",
+          "occurrence": 0,
+          "reading": "wéi"
+        }
+      ]
+    },
+    {
+      "line": "夫子何为者？栖栖一代中。",
+      "fixes": [
+        {
+          "char": "为",
+          "occurrence": 0,
+          "reading": "wéi"
+        }
+      ]
+    },
+    {
+      "line": "独在异乡为异客，每逢佳节倍思亲。",
+      "fixes": [
+        {
+          "char": "为",
+          "occurrence": 0,
+          "reading": "wéi"
+        }
+      ]
+    },
+    {
+      "line": "少孤为客早，多难识君迟。",
+      "fixes": [
+        {
+          "char": "少",
+          "occurrence": 0,
+          "reading": "shào"
+        },
+        {
+          "char": "为",
+          "occurrence": 0,
+          "reading": "wéi"
+        }
+      ]
+    },
+    {
+      "line": "冠盖使，纷驰骛，若为情。",
+      "fixes": [
+        {
+          "char": "为",
+          "occurrence": 0,
+          "reading": "wéi"
+        }
+      ]
+    },
+    {
+      "line": "好为庐山谣，兴因庐山发。",
+      "fixes": [
+        {
+          "char": "好",
+          "occurrence": 0,
+          "reading": "hào"
+        },
+        {
+          "char": "为",
+          "occurrence": 0,
+          "reading": "wéi"
+        },
+        {
+          "char": "兴",
+          "occurrence": 0,
+          "reading": "xìng"
+        }
+      ]
+    },
+    {
+      "line": "霓为衣兮风为马，云之君兮纷纷而来下。",
+      "fixes": [
+        {
+          "char": "为",
+          "occurrence": 0,
+          "reading": "wéi"
+        },
+        {
+          "char": "为",
+          "occurrence": 1,
+          "reading": "wéi"
+        }
+      ]
+    },
+    {
+      "line": "尽吸西江，细斟北斗，万象为宾客。",
+      "fixes": [
+        {
+          "char": "为",
+          "occurrence": 0,
+          "reading": "wéi"
+        }
+      ]
+    },
+    {
+      "line": "闹红一舸，记来时、尝与鸳鸯为侣。",
+      "fixes": [
+        {
+          "char": "为",
+          "occurrence": 0,
+          "reading": "wéi"
+        }
+      ]
+    },
+    {
+      "line": "轻拢慢撚抹复挑，初为霓裳后六幺。",
+      "fixes": [
+        {
+          "char": "挑",
+          "occurrence": 0,
+          "reading": "tiǎo"
+        },
+        {
+          "char": "为",
+          "occurrence": 0,
+          "reading": "wéi"
+        }
+      ]
+    },
+    {
+      "line": "人生如此自可乐，岂必局束为人鞿。",
+      "fixes": [
+        {
+          "char": "为",
+          "occurrence": 0,
+          "reading": "wéi"
+        }
+      ]
+    },
+    {
+      "line": "山为樽，水为沼，酒徒历历坐洲岛。",
+      "fixes": [
+        {
+          "char": "为",
+          "occurrence": 0,
+          "reading": "wéi"
+        },
+        {
+          "char": "为",
+          "occurrence": 1,
+          "reading": "wéi"
+        }
+      ]
+    },
+    {
+      "line": "其险也如此，嗟尔远道之人胡为乎来哉！劒阁峥嵘而崔嵬，一夫当关，万夫莫开。",
+      "fixes": [
+        {
+          "char": "为",
+          "occurrence": 0,
+          "reading": "wéi"
+        }
+      ]
+    },
+    {
+      "line": "渐写到别来，此情深处，红笺为无色。",
+      "fixes": [
+        {
+          "char": "为",
+          "occurrence": 0,
+          "reading": "wéi"
+        }
+      ]
+    },
+    {
+      "line": "幼为长所育，两别泣不休。",
+      "fixes": [
+        {
+          "char": "为",
+          "occurrence": 0,
+          "reading": "wéi"
+        },
+        {
+          "char": "长",
+          "occurrence": 0,
+          "reading": "zhǎng"
+        }
+      ]
+    },
+    {
+      "line": "此地一为别，孤蓬万里征。",
+      "fixes": [
+        {
+          "char": "为",
+          "occurrence": 0,
+          "reading": "wéi"
+        }
+      ]
+    },
+    {
+      "line": "南山截竹为觱篥，此乐本自龟兹出。",
+      "fixes": [
+        {
+          "char": "为",
+          "occurrence": 0,
+          "reading": "wéi"
+        },
+        {
+          "char": "乐",
+          "occurrence": 0,
+          "reading": "yuè"
+        }
+      ]
+    },
+    {
+      "line": "久为簪组累，幸此南夷谪。",
+      "fixes": [
+        {
+          "char": "为",
+          "occurrence": 0,
+          "reading": "wéi"
+        }
+      ]
+    },
+    {
+      "line": "访旧半为鬼，惊呼热中肠。",
+      "fixes": [
+        {
+          "char": "为",
+          "occurrence": 0,
+          "reading": "wéi"
+        }
+      ]
+    },
+    {
+      "line": "杨家有女初长成，养在深闺人未识。",
+      "fixes": [
+        {
+          "char": "长",
+          "occurrence": 0,
+          "reading": "zhǎng"
+        }
+      ]
+    },
+    {
+      "line": "是日牵来赤墀下，迥立阊阖生长风。",
+      "fixes": [
+        {
+          "char": "长",
+          "occurrence": 0,
+          "reading": "cháng"
+        }
+      ]
+    },
+    {
+      "line": "蕃汉断消息，死生长别离。",
+      "fixes": [
+        {
+          "char": "长",
+          "occurrence": 0,
+          "reading": "cháng"
+        }
+      ]
+    },
+    {
+      "line": "故人入我梦，明我长相忆。",
+      "fixes": [
+        {
+          "char": "长",
+          "occurrence": 0,
+          "reading": "cháng"
+        },
+        {
+          "char": "相",
+          "occurrence": 0,
+          "reading": "xiāng"
+        }
+      ]
+    },
+    {
+      "line": "为问频相见，何似长相守。",
+      "fixes": [
+        {
+          "char": "长",
+          "occurrence": 0,
+          "reading": "cháng"
+        },
+        {
+          "char": "相",
+          "occurrence": 1,
+          "reading": "xiāng"
+        }
+      ]
+    },
+    {
+      "line": "借问路傍名利客，无如此处学长生。",
+      "fixes": [
+        {
+          "char": "长",
+          "occurrence": 0,
+          "reading": "cháng"
+        }
+      ]
+    },
+    {
+      "line": "浮生长恨欢娱少。",
+      "fixes": [
+        {
+          "char": "长",
+          "occurrence": 0,
+          "reading": "cháng"
+        }
+      ]
+    },
+    {
+      "line": "今宵谁念泣孤臣，回首长安远。",
+      "fixes": [
+        {
+          "char": "长",
+          "occurrence": 0,
+          "reading": "cháng"
+        }
+      ]
+    },
+    {
+      "line": "长相思，在长安，络纬秋啼金井阑。",
+      "fixes": [
+        {
+          "char": "长",
+          "occurrence": 0,
+          "reading": "cháng"
+        },
+        {
+          "char": "相",
+          "occurrence": 0,
+          "reading": "xiāng"
+        }
+      ]
+    },
+    {
+      "line": "长相思，摧心肝。",
+      "fixes": [
+        {
+          "char": "长",
+          "occurrence": 0,
+          "reading": "cháng"
+        },
+        {
+          "char": "相",
+          "occurrence": 0,
+          "reading": "xiāng"
+        }
+      ]
+    },
+    {
+      "line": "少陵无人谪仙死，才薄将奈石鼓何。",
+      "fixes": [
+        {
+          "char": "少",
+          "occurrence": 0,
+          "reading": "shào"
+        }
+      ]
+    },
+    {
+      "line": "少小离家老大回，乡音难改鬓毛衰。",
+      "fixes": [
+        {
+          "char": "少",
+          "occurrence": 0,
+          "reading": "shào"
+        }
+      ]
+    },
+    {
+      "line": "少小虽非投笔吏，论功还欲请长缨。",
+      "fixes": [
+        {
+          "char": "少",
+          "occurrence": 0,
+          "reading": "shào"
+        }
+      ]
+    },
+    {
+      "line": "男儿事长征，少小幽燕客。",
+      "fixes": [
+        {
+          "char": "少",
+          "occurrence": 0,
+          "reading": "shào"
+        },
+        {
+          "char": "燕",
+          "occurrence": 0,
+          "reading": "yān"
+        }
+      ]
+    },
+    {
+      "line": "贾氏窥帘韩掾少，宓妃留枕魏王才。",
+      "fixes": [
+        {
+          "char": "少",
+          "occurrence": 0,
+          "reading": "shào"
+        }
+      ]
+    },
+    {
+      "line": "良相头上进贤冠，猛将腰间大羽箭。",
+      "fixes": [
+        {
+          "char": "相",
+          "occurrence": 0,
+          "reading": "xiàng"
+        }
+      ]
+    },
+    {
+      "line": "弟子韩干早入室，亦能画马穷殊相。",
+      "fixes": [
+        {
+          "char": "相",
+          "occurrence": 0,
+          "reading": "xiàng"
+        }
+      ]
+    },
+    {
+      "line": "帝得圣相相曰度，贼斫不死神扶持。",
+      "fixes": [
+        {
+          "char": "相",
+          "occurrence": 0,
+          "reading": "xiàng"
+        },
+        {
+          "char": "相",
+          "occurrence": 1,
+          "reading": "xiàng"
+        }
+      ]
+    },
+    {
+      "line": "腰悬相印作都统，阴风惨澹天王旗。",
+      "fixes": [
+        {
+          "char": "相",
+          "occurrence": 0,
+          "reading": "xiàng"
+        }
+      ]
+    },
+    {
+      "line": "呜呼圣皇及圣相，相与烜赫流淳熙。",
+      "fixes": [
+        {
+          "char": "相",
+          "occurrence": 0,
+          "reading": "xiàng"
+        }
+      ]
+    },
+    {
+      "line": "得相能开国，生儿不象贤。",
+      "fixes": [
+        {
+          "char": "相",
+          "occurrence": 0,
+          "reading": "xiàng"
+        }
+      ]
+    },
+    {
+      "line": "亚相勤王甘苦辛，誓将报主静边尘。",
+      "fixes": [
+        {
+          "char": "相",
+          "occurrence": 0,
+          "reading": "xiàng"
+        }
+      ]
+    },
+    {
+      "line": "侯王将相望久绝，神纵欲福难为功。",
+      "fixes": [
+        {
+          "char": "相",
+          "occurrence": 0,
+          "reading": "xiàng"
+        }
+      ]
+    },
+    {
+      "line": "自销凝，能几花前，顿老相如。",
+      "fixes": [
+        {
+          "char": "相",
+          "occurrence": 0,
+          "reading": "xiàng"
+        }
+      ]
+    },
+    {
+      "line": "休问梁园旧宾客，茂陵秋雨病相如。",
+      "fixes": [
+        {
+          "char": "相",
+          "occurrence": 0,
+          "reading": "xiàng"
+        }
+      ]
+    },
+    {
+      "line": "千金纵买相如赋，脉脉此情谁诉。",
+      "fixes": [
+        {
+          "char": "相",
+          "occurrence": 0,
+          "reading": "xiàng"
+        }
+      ]
+    },
+    {
+      "line": "执手相看泪眼，竟无语凝噎。",
+      "fixes": [
+        {
+          "char": "相",
+          "occurrence": 0,
+          "reading": "xiāng"
+        }
+      ]
+    },
+    {
+      "line": "迁者追廻流者还，涤瑕荡垢清朝班。",
+      "fixes": [
+        {
+          "char": "还",
+          "occurrence": 0,
+          "reading": "huán"
+        }
+      ]
+    },
+    {
+      "line": "秦时明月汉时关，万里长征人未还。",
+      "fixes": [
+        {
+          "char": "还",
+          "occurrence": 0,
+          "reading": "huán"
+        }
+      ]
+    },
+    {
+      "line": "秦时明月汉时关，万里征人尚未还。",
+      "fixes": [
+        {
+          "char": "还",
+          "occurrence": 0,
+          "reading": "huán"
+        }
+      ]
+    },
+    {
+      "line": "由来征战地，不见有人还。",
+      "fixes": [
+        {
+          "char": "还",
+          "occurrence": 0,
+          "reading": "huán"
+        }
+      ]
+    },
+    {
+      "line": "流水如有意，暮禽相与还。",
+      "fixes": [
+        {
+          "char": "还",
+          "occurrence": 0,
+          "reading": "huán"
+        }
+      ]
+    },
+    {
+      "line": "生怕见、花开花落，朝来塞雁先还。",
+      "fixes": [
+        {
+          "char": "还",
+          "occurrence": 0,
+          "reading": "huán"
+        }
+      ]
+    },
+    {
+      "line": "东风渐绿西湖柳，雁已还、人未南归。",
+      "fixes": [
+        {
+          "char": "还",
+          "occurrence": 0,
+          "reading": "huán"
+        }
+      ]
+    },
+    {
+      "line": "天生我材必有用，千金散尽还复来。",
+      "fixes": [
+        {
+          "char": "还",
+          "occurrence": 0,
+          "reading": "huán"
+        }
+      ]
+    },
+    {
+      "line": "登高壮观天地间，大江茫茫去不还。",
+      "fixes": [
+        {
+          "char": "还",
+          "occurrence": 0,
+          "reading": "huán"
+        }
+      ]
+    },
+    {
+      "line": "早服还丹无世情，琴心三叠道初成。",
+      "fixes": [
+        {
+          "char": "还",
+          "occurrence": 0,
+          "reading": "huán"
+        }
+      ]
+    },
+    {
+      "line": "别君去时何时还，且放白鹿青崖间，须行即骑访名山。",
+      "fixes": [
+        {
+          "char": "还",
+          "occurrence": 0,
+          "reading": "huán"
+        }
+      ]
+    },
+    {
+      "line": "问君西游何时还？畏途巉岩不可攀。",
+      "fixes": [
+        {
+          "char": "还",
+          "occurrence": 0,
+          "reading": "huán"
+        }
+      ]
+    },
+    {
+      "line": "锦城虽云乐，不如早还家。",
+      "fixes": [
+        {
+          "char": "还",
+          "occurrence": 0,
+          "reading": "huán"
+        }
+      ]
+    },
+    {
+      "line": "惊闻俗客争来集，竞引还家问都邑。",
+      "fixes": [
+        {
+          "char": "还",
+          "occurrence": 0,
+          "reading": "huán"
+        }
+      ]
+    },
+    {
+      "line": "江上几人在，天涯孤櫂还。",
+      "fixes": [
+        {
+          "char": "还",
+          "occurrence": 0,
+          "reading": "huán"
+        }
+      ]
+    },
+    {
+      "line": "羯胡事主终无赖，词客衰时且未还。",
+      "fixes": [
+        {
+          "char": "还",
+          "occurrence": 0,
+          "reading": "huán"
+        }
+      ]
+    },
+    {
+      "line": "朝辞白帝彩云间，千里江陵一日还。",
+      "fixes": [
+        {
+          "char": "还",
+          "occurrence": 0,
+          "reading": "huán"
+        }
+      ]
+    },
+    {
+      "line": "世乱同南去，时清独北还。",
+      "fixes": [
+        {
+          "char": "还",
+          "occurrence": 0,
+          "reading": "huán"
+        }
+      ]
+    },
+    {
+      "line": "栖鸦常带夕阳还。",
+      "fixes": [
+        {
+          "char": "还",
+          "occurrence": 0,
+          "reading": "huán"
+        }
+      ]
+    },
+    {
+      "line": "偶然值林叟，谈笑无还期。",
+      "fixes": [
+        {
+          "char": "还",
+          "occurrence": 0,
+          "reading": "huán"
+        }
+      ]
+    },
+    {
+      "line": "不堪盈手赠，还寝梦佳期。",
+      "fixes": [
+        {
+          "char": "还",
+          "occurrence": 0,
+          "reading": "huán"
+        }
+      ]
+    },
+    {
+      "line": "暝堤空，轻把斜阳，总还鸥鹭。",
+      "fixes": [
+        {
+          "char": "还",
+          "occurrence": 0,
+          "reading": "huán"
+        }
+      ]
+    },
+    {
+      "line": "归兴浓于酒。",
+      "fixes": [
+        {
+          "char": "兴",
+          "occurrence": 0,
+          "reading": "xìng"
+        }
+      ]
+    },
+    {
+      "line": "归兴浓如酒。",
+      "fixes": [
+        {
+          "char": "兴",
+          "occurrence": 0,
+          "reading": "xìng"
+        }
+      ]
+    },
+    {
+      "line": "垂虹西望，飘然引去，此兴平生难遏。",
+      "fixes": [
+        {
+          "char": "兴",
+          "occurrence": 0,
+          "reading": "xìng"
+        }
+      ]
+    },
+    {
+      "line": "愁因薄暮起，兴是清秋发。",
+      "fixes": [
+        {
+          "char": "兴",
+          "occurrence": 0,
+          "reading": "xìng"
+        }
+      ]
+    },
+    {
+      "line": "狎兴生疏，酒徒萧索，不似去年时。",
+      "fixes": [
+        {
+          "char": "兴",
+          "occurrence": 0,
+          "reading": "xìng"
+        }
+      ]
+    },
+    {
+      "line": "俱怀逸兴壮思飞，欲上青天览日月。",
+      "fixes": [
+        {
+          "char": "兴",
+          "occurrence": 0,
+          "reading": "xìng"
+        }
+      ]
+    },
+    {
+      "line": "兴尽方下山，何必待之子。",
+      "fixes": [
+        {
+          "char": "兴",
+          "occurrence": 0,
+          "reading": "xìng"
+        }
+      ]
+    },
+    {
+      "line": "兴来每独往，胜事空自知。",
+      "fixes": [
+        {
+          "char": "兴",
+          "occurrence": 0,
+          "reading": "xìng"
+        }
+      ]
+    },
+    {
+      "line": "更漏将残，辘，牵金井。",
+      "fixes": [
+        {
+          "char": "更",
+          "occurrence": 0,
+          "reading": "gēng"
+        }
+      ]
+    },
+    {
+      "line": "人静夜久凭阑，愁不归眠，立残更箭。",
+      "fixes": [
+        {
+          "char": "更",
+          "occurrence": 0,
+          "reading": "gēng"
+        }
+      ]
+    },
+    {
+      "line": "江城人悄初更打。",
+      "fixes": [
+        {
+          "char": "更",
+          "occurrence": 0,
+          "reading": "gēng"
+        }
+      ]
+    },
+    {
+      "line": "风露渐变，悄悄至更阑。",
+      "fixes": [
+        {
+          "char": "更",
+          "occurrence": 0,
+          "reading": "gēng"
+        }
+      ]
+    },
+    {
+      "line": "更深人去寂静。",
+      "fixes": [
+        {
+          "char": "更",
+          "occurrence": 0,
+          "reading": "gēng"
+        }
+      ]
+    },
+    {
+      "line": "更深月色半人家，北斗阑干南斗斜。",
+      "fixes": [
+        {
+          "char": "更",
+          "occurrence": 0,
+          "reading": "gēng"
+        }
+      ]
+    },
+    {
+      "line": "历历数、西州更点。",
+      "fixes": [
+        {
+          "char": "更",
+          "occurrence": 0,
+          "reading": "gēng"
+        }
+      ]
+    },
+    {
+      "line": "知何时、却拥秦云态，愿低帏昵枕，轻轻细说与，江乡夜夜，数寒更思忆。",
+      "fixes": [
+        {
+          "char": "更",
+          "occurrence": 0,
+          "reading": "gēng"
+        }
+      ]
+    },
+    {
+      "line": "肠断竹马儿童，空见说、三千乐指。",
+      "fixes": [
+        {
+          "char": "乐",
+          "occurrence": 0,
+          "reading": "yuè"
+        }
+      ]
+    },
+    {
+      "line": "骊宫高处入青云，仙乐风飘处处闻。",
+      "fixes": [
+        {
+          "char": "乐",
+          "occurrence": 0,
+          "reading": "yuè"
+        }
+      ]
+    },
+    {
+      "line": "棃园子弟散如烟，女乐余姿映寒日。",
+      "fixes": [
+        {
+          "char": "乐",
+          "occurrence": 0,
+          "reading": "yuè"
+        }
+      ]
+    },
+    {
+      "line": "今夜闻君琵琶语，如听仙乐耳暂明。",
+      "fixes": [
+        {
+          "char": "乐",
+          "occurrence": 0,
+          "reading": "yuè"
+        }
+      ]
+    },
+    {
+      "line": "剧辛乐毅感恩分，输肝剖胆效英才。",
+      "fixes": [
+        {
+          "char": "乐",
+          "occurrence": 0,
+          "reading": "yuè"
+        }
+      ]
+    },
+    {
+      "line": "中军置酒饮归客，胡琴琵琶与羌笛。",
+      "fixes": [
+        {
+          "char": "饮",
+          "occurrence": 0,
+          "reading": "yìn"
+        }
+      ]
+    },
+    {
+      "line": "白日登山望烽火，昏黄饮马傍交河。",
+      "fixes": [
+        {
+          "char": "饮",
+          "occurrence": 0,
+          "reading": "yìn"
+        }
+      ]
+    },
+    {
+      "line": "白日登山望烽火，黄昏饮马傍交河。",
+      "fixes": [
+        {
+          "char": "饮",
+          "occurrence": 0,
+          "reading": "yìn"
+        }
+      ]
+    },
+    {
+      "line": "傍枯林古道，长河饮马，此意悠悠。",
+      "fixes": [
+        {
+          "char": "饮",
+          "occurrence": 0,
+          "reading": "yìn"
+        }
+      ]
+    },
+    {
+      "line": "饮马渡秋水，水寒风似刀。",
+      "fixes": [
+        {
+          "char": "饮",
+          "occurrence": 0,
+          "reading": "yìn"
+        }
+      ]
+    },
+    {
+      "line": "东门酤酒饮我曹，心轻万事皆鸿毛。",
+      "fixes": [
+        {
+          "char": "饮",
+          "occurrence": 0,
+          "reading": "yìn"
+        }
+      ]
+    },
+    {
+      "line": "下马饮君酒，问君何所之。",
+      "fixes": [
+        {
+          "char": "饮",
+          "occurrence": 0,
+          "reading": "yìn"
+        }
+      ]
+    },
+    {
+      "line": "尽是旧时，手种红药。",
+      "fixes": [
+        {
+          "char": "种",
+          "occurrence": 0,
+          "reading": "zhòng"
+        }
+      ]
+    },
+    {
+      "line": "路傍时卖故侯瓜，门前学种先生柳。",
+      "fixes": [
+        {
+          "char": "种",
+          "occurrence": 0,
+          "reading": "zhòng"
+        }
+      ]
+    },
+    {
+      "line": "近种篱边菊，秋来未著花。",
+      "fixes": [
+        {
+          "char": "种",
+          "occurrence": 0,
+          "reading": "zhòng"
+        }
+      ]
+    },
+    {
+      "line": "当初不合种相思。",
+      "fixes": [
+        {
+          "char": "种",
+          "occurrence": 0,
+          "reading": "zhòng"
+        }
+      ]
+    },
+    {
+      "line": "为问元戎窦车骑，何时反斾勒燕然。",
+      "fixes": [
+        {
+          "char": "燕",
+          "occurrence": 0,
+          "reading": "yān"
+        }
+      ]
+    },
+    {
+      "line": "为问元戎窦车骑，何时返斾勒燕然。",
+      "fixes": [
+        {
+          "char": "燕",
+          "occurrence": 0,
+          "reading": "yān"
+        }
+      ]
+    },
+    {
+      "line": "此曲有意无人传，愿随春风寄燕然，忆君迢迢隔青天。",
+      "fixes": [
+        {
+          "char": "燕",
+          "occurrence": 0,
+          "reading": "yān"
+        }
+      ]
+    },
+    {
+      "line": "认蛾眉凝笑，脸薄拂燕支。",
+      "fixes": [
+        {
+          "char": "燕",
+          "occurrence": 0,
+          "reading": "yān"
+        }
+      ]
+    },
+    {
+      "line": "燕台一望客心惊，箫鼓喧喧汉将营。",
+      "fixes": [
+        {
+          "char": "燕",
+          "occurrence": 0,
+          "reading": "yān"
+        },
+        {
+          "char": "将",
+          "occurrence": 0,
+          "reading": "jiàng"
+        }
+      ]
+    },
+    {
+      "line": "吟笺赋笔，犹记燕台句。",
+      "fixes": [
+        {
+          "char": "燕",
+          "occurrence": 0,
+          "reading": "yān"
+        }
+      ]
+    },
+    {
+      "line": "愿得燕弓射天将，耻令越甲鸣吴军。",
+      "fixes": [
+        {
+          "char": "燕",
+          "occurrence": 0,
+          "reading": "yān"
+        },
+        {
+          "char": "将",
+          "occurrence": 0,
+          "reading": "jiàng"
+        }
+      ]
+    },
+    {
+      "line": "君不见昔时燕家重郭隗，拥篲折节无嫌猜。",
+      "fixes": [
+        {
+          "char": "燕",
+          "occurrence": 0,
+          "reading": "yān"
+        }
+      ]
+    },
+    {
+      "line": "裁翦冰绡，打叠数重，冷淡燕脂匀注。",
+      "fixes": [
+        {
+          "char": "燕",
+          "occurrence": 0,
+          "reading": "yān"
+        }
+      ]
+    },
+    {
+      "line": "燕草如碧丝，秦桑低绿枝。",
+      "fixes": [
+        {
+          "char": "燕",
+          "occurrence": 0,
+          "reading": "yān"
+        }
+      ]
+    },
+    {
+      "line": "料峭春寒中酒，交加晓梦啼莺。",
+      "fixes": [
+        {
+          "char": "中",
+          "occurrence": 0,
+          "reading": "zhòng"
+        }
+      ]
+    },
+    {
+      "line": "庭轩寂寞近清明，残花中酒，又是去年病。",
+      "fixes": [
+        {
+          "char": "中",
+          "occurrence": 0,
+          "reading": "zhòng"
+        }
+      ]
+    },
+    {
+      "line": "屏山掩，沈水倦熏，中酒心情怕杯勺。",
+      "fixes": [
+        {
+          "char": "中",
+          "occurrence": 0,
+          "reading": "zhòng"
+        }
+      ]
+    },
+    {
+      "line": "醉月频中圣，迷花不事君。",
+      "fixes": [
+        {
+          "char": "中",
+          "occurrence": 0,
+          "reading": "zhòng"
+        }
+      ]
+    },
+    {
+      "line": "世界微尘里，吾宁爱与憎。",
+      "fixes": [
+        {
+          "char": "宁",
+          "occurrence": 0,
+          "reading": "nìng"
+        }
+      ]
+    },
+    {
+      "line": "艳色天下重，西施宁久微。",
+      "fixes": [
+        {
+          "char": "宁",
+          "occurrence": 0,
+          "reading": "nìng"
+        }
+      ]
+    },
+    {
+      "line": "晚年唯好静，万事不关心。",
+      "fixes": [
+        {
+          "char": "好",
+          "occurrence": 0,
+          "reading": "hào"
+        }
+      ]
+    },
+    {
+      "line": "五岳寻仙不辞远，一生好入名山游。",
+      "fixes": [
+        {
+          "char": "好",
+          "occurrence": 0,
+          "reading": "hào"
+        }
+      ]
+    },
+    {
+      "line": "嗟予好古生苦晚，对此涕泪双滂沱。",
+      "fixes": [
+        {
+          "char": "好",
+          "occurrence": 0,
+          "reading": "hào"
+        }
+      ]
+    },
+    {
+      "line": "中岁颇好道，晚家南山陲。",
+      "fixes": [
+        {
+          "char": "好",
+          "occurrence": 0,
+          "reading": "hào"
+        }
+      ]
+    },
+    {
+      "line": "荷笠带夕阳，青山独归远。",
+      "fixes": [
+        {
+          "char": "荷",
+          "occurrence": 0,
+          "reading": "hè"
+        }
+      ]
+    },
+    {
+      "line": "田夫荷锄至，相见语依依。",
+      "fixes": [
+        {
+          "char": "荷",
+          "occurrence": 0,
+          "reading": "hè"
+        }
+      ]
+    },
+    {
+      "line": "夕殿萤飞思悄然，孤灯挑尽未成眠。",
+      "fixes": [
+        {
+          "char": "挑",
+          "occurrence": 0,
+          "reading": "tiǎo"
+        }
+      ]
+    },
+    {
+      "line": "九重城阙烟尘生，千乘万骑西南行。",
+      "fixes": [
+        {
+          "char": "乘",
+          "occurrence": 0,
+          "reading": "shèng"
+        }
+      ]
+    },
+    {
+      "line": "徒令上将挥神笔，终见降王走传车。",
+      "fixes": [
+        {
+          "char": "降",
+          "occurrence": 0,
+          "reading": "xiáng"
+        },
+        {
+          "char": "传",
+          "occurrence": 0,
+          "reading": "zhuàn"
+        }
+      ]
+    },
+    {
+      "line": "千寻铁锁沈江底，一片降旛出石头。",
+      "fixes": [
+        {
+          "char": "降",
+          "occurrence": 0,
+          "reading": "xiáng"
+        }
+      ]
+    },
+    {
+      "line": "晓月过残垒，繁星宿故关。",
+      "fixes": [
+        {
+          "char": "宿",
+          "occurrence": 0,
+          "reading": "sù"
+        }
+      ]
+    },
+    {
+      "line": "金陵津渡小山楼，一宿行人自可愁。",
+      "fixes": [
+        {
+          "char": "宿",
+          "occurrence": 0,
+          "reading": "xiǔ"
+        }
+      ]
+    },
+    {
+      "line": "棃园弟子白发新，椒房阿监青娥老。",
+      "fixes": [
+        {
+          "char": "监",
+          "occurrence": 0,
+          "reading": "jiàn"
+        }
+      ]
+    },
+    {
+      "line": "自怜碧玉亲教舞，不惜珊瑚持与人。",
+      "fixes": [
+        {
+          "char": "教",
+          "occurrence": 0,
+          "reading": "jiāo"
+        }
+      ]
+    },
+    {
+      "line": "文翁翻教授，不敢倚先贤。",
+      "fixes": [
+        {
+          "char": "教",
+          "occurrence": 0,
+          "reading": "jiāo"
+        }
+      ]
+    },
+    {
+      "line": "昔人已乘白云去，此地空余黄鹤楼。",
+      "fixes": [
+        {
+          "char": "空",
+          "occurrence": 0,
+          "reading": "kōng"
+        }
+      ]
+    },
+    {
+      "line": "丹青不知老将至，富贵于我如浮云。",
+      "fixes": [
+        {
+          "char": "将",
+          "occurrence": 0,
+          "reading": "jiāng"
+        }
+      ]
+    },
+    {
+      "line": "但使龙城飞将在，不教胡马度阴山。",
+      "fixes": [
+        {
+          "char": "将",
+          "occurrence": 0,
+          "reading": "jiàng"
+        }
+      ]
+    },
+    {
+      "line": "但愿龙庭神将在，不教胡马渡阴山。",
+      "fixes": [
+        {
+          "char": "将",
+          "occurrence": 0,
+          "reading": "jiàng"
+        }
+      ]
+    },
+    {
+      "line": "汉家烟尘在东北，汉将辞家破残贼。",
+      "fixes": [
+        {
+          "char": "将",
+          "occurrence": 0,
+          "reading": "jiàng"
+        }
+      ]
+    },
+    {
+      "line": "岑夫子，丹丘生，将进酒，杯莫停。",
+      "fixes": [
+        {
+          "char": "将",
+          "occurrence": 0,
+          "reading": "qiāng"
+        }
+      ]
+    },
+    {
+      "line": "陋儒编诗不收入，二雅褊迫无委蛇。",
+      "fixes": [
+        {
+          "char": "委",
+          "occurrence": 0,
+          "reading": "wēi"
+        },
+        {
+          "char": "蛇",
+          "occurrence": 0,
+          "reading": "yí"
+        }
+      ]
+    },
+    {
+      "line": "灞原风雨定，晚见鴈行频。",
+      "fixes": [
+        {
+          "char": "行",
+          "occurrence": 0,
+          "reading": "háng"
+        }
+      ]
+    },
+    {
+      "line": "点点行行，总是凄凉意。",
+      "fixes": [
+        {
+          "char": "行",
+          "occurrence": 0,
+          "reading": "háng"
+        },
+        {
+          "char": "行",
+          "occurrence": 1,
+          "reading": "háng"
+        }
+      ]
+    },
+    {
+      "line": "点点行行泪痕满。",
+      "fixes": [
+        {
+          "char": "行",
+          "occurrence": 0,
+          "reading": "háng"
+        },
+        {
+          "char": "行",
+          "occurrence": 1,
+          "reading": "háng"
+        }
+      ]
+    },
+    {
+      "line": "巫峡啼猿数行泪，衡阳归雁几封书。",
+      "fixes": [
+        {
+          "char": "行",
+          "occurrence": 0,
+          "reading": "háng"
+        }
+      ]
+    },
+    {
+      "line": "望中酒旆闪闪，一簇烟村，数行霜树。",
+      "fixes": [
+        {
+          "char": "行",
+          "occurrence": 0,
+          "reading": "háng"
+        }
+      ]
+    },
+    {
+      "line": "一春犹有数行书。",
+      "fixes": [
+        {
+          "char": "行",
+          "occurrence": 0,
+          "reading": "háng"
+        }
+      ]
+    },
+    {
+      "line": "昔别君未婚，儿女忽成行。",
+      "fixes": [
+        {
+          "char": "行",
+          "occurrence": 0,
+          "reading": "háng"
+        }
+      ]
+    },
+    {
+      "line": "几时桮重把，昨夜月同行。",
+      "fixes": [
+        {
+          "char": "行",
+          "occurrence": 0,
+          "reading": "xíng"
+        }
+      ]
+    }
+  ]
+}

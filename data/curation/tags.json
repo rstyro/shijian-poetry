@@ -1,0 +1,10664 @@
+{
+  "ai-jiang-tou": {
+    "subject": [
+      "咏怀",
+      "叙事"
+    ],
+    "mood": [
+      "忧伤",
+      "悲愤",
+      "爱国"
+    ],
+    "scene": [
+      "江河",
+      "柳",
+      "花"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "ai-wang-sun": {
+    "subject": [
+      "叙事",
+      "咏怀"
+    ],
+    "mood": [
+      "忧伤",
+      "悲愤"
+    ],
+    "scene": [
+      "鸟",
+      "风"
+    ],
+    "season": []
+  },
+  "an-gong-zi-ruo-liu-si-qian-lü": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "思念",
+      "忧伤",
+      "孤独"
+    ],
+    "scene": [
+      "柳",
+      "雨",
+      "花",
+      "鸟",
+      "楼",
+      "风"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "an-xiang-jiu-shi-yue-se": {
+    "subject": [
+      "咏物"
+    ],
+    "mood": [
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "月亮",
+      "花",
+      "雪",
+      "湖",
+      "酒"
+    ],
+    "season": [
+      "冬"
+    ]
+  },
+  "ba-gui-fang-lian-zhui-fen": {
+    "subject": [
+      "送别"
+    ],
+    "mood": [
+      "离别",
+      "忧伤"
+    ],
+    "scene": [
+      "花",
+      "雨",
+      "舟",
+      "月亮",
+      "柳"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "ba-gui-qiu-jiang-dai-yu": {
+    "subject": [
+      "羁旅"
+    ],
+    "mood": [
+      "思乡",
+      "忧伤",
+      "孤独"
+    ],
+    "scene": [
+      "江河",
+      "雨",
+      "鸟",
+      "楼",
+      "酒",
+      "花"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "ba-shan-dao-zhong-chu-ye-shu-huai": {
+    "subject": [
+      "羁旅"
+    ],
+    "mood": [
+      "思乡",
+      "孤独",
+      "忧伤"
+    ],
+    "scene": [
+      "山川",
+      "雪",
+      "灯"
+    ],
+    "season": [
+      "冬"
+    ]
+  },
+  "ba-shang-qiu-ju": {
+    "subject": [
+      "羁旅",
+      "写景"
+    ],
+    "mood": [
+      "孤独",
+      "思乡",
+      "忧伤"
+    ],
+    "scene": [
+      "雨",
+      "风",
+      "灯",
+      "雁"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "ba-sheng-gan-zhou-dui-xiao-xiao": {
+    "subject": [
+      "羁旅"
+    ],
+    "mood": [
+      "思乡",
+      "忧伤",
+      "孤独"
+    ],
+    "scene": [
+      "雨",
+      "江河",
+      "风",
+      "楼",
+      "花",
+      "舟"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "ba-sheng-gan-zhou-miao-kong-yan-si-yuan": {
+    "subject": [
+      "怀古"
+    ],
+    "mood": [
+      "忧伤",
+      "悲愤",
+      "旷达"
+    ],
+    "scene": [
+      "山川",
+      "风",
+      "花",
+      "鸟",
+      "楼",
+      "酒",
+      "江河"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "ba-yue-shi-wu-ye-zeng-zhang-gong-cao": {
+    "subject": [
+      "叙事",
+      "咏怀"
+    ],
+    "mood": [
+      "忧伤",
+      "悲愤"
+    ],
+    "scene": [
+      "月亮",
+      "江河",
+      "湖",
+      "风"
+    ],
+    "season": [
+      "中秋"
+    ]
+  },
+  "ba-zhen-tu": {
+    "subject": [
+      "怀古"
+    ],
+    "mood": [
+      "赞美",
+      "忧伤"
+    ],
+    "scene": [
+      "江河"
+    ],
+    "season": []
+  },
+  "bai-xing-yue-bai-xing-yue-man-ye-se-cui-geng": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "爱情",
+      "思念",
+      "孤独"
+    ],
+    "scene": [
+      "月亮",
+      "灯"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "bai-xue-ge-song-wu-pan-guan-gui-jing": {
+    "subject": [
+      "送别",
+      "边塞"
+    ],
+    "mood": [
+      "豪迈",
+      "离别"
+    ],
+    "scene": [
+      "雪",
+      "风",
+      "花",
+      "酒",
+      "山川"
+    ],
+    "season": [
+      "冬"
+    ]
+  },
+  "ban-yun-lai-tian-xiang-yan-luo-heng-lin": {
+    "subject": [
+      "羁旅",
+      "闺怨"
+    ],
+    "mood": [
+      "思乡",
+      "忧伤",
+      "孤独"
+    ],
+    "scene": [
+      "花",
+      "风",
+      "月亮",
+      "楼",
+      "灯"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "bao-ding-xian-hong-zhuang-chun-qi": {
+    "subject": [
+      "怀古"
+    ],
+    "mood": [
+      "忧伤",
+      "思乡"
+    ],
+    "scene": [
+      "楼",
+      "灯",
+      "月亮"
+    ],
+    "season": [
+      "元宵"
+    ]
+  },
+  "bei-qing-luo": {
+    "subject": [
+      "写景",
+      "咏怀"
+    ],
+    "mood": [
+      "闲适",
+      "旷达"
+    ],
+    "scene": [
+      "山川"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "bie-fang-tai-wei-mu": {
+    "subject": [
+      "悼亡"
+    ],
+    "mood": [
+      "忧伤",
+      "友情"
+    ],
+    "scene": [
+      "花",
+      "鸟"
+    ],
+    "season": []
+  },
+  "bing-che-xing": {
+    "subject": [
+      "叙事",
+      "讽喻",
+      "边塞"
+    ],
+    "mood": [
+      "悲愤",
+      "忧伤"
+    ],
+    "scene": [
+      "雨",
+      "风",
+      "山川"
+    ],
+    "season": [
+      "冬"
+    ]
+  },
+  "bo-qin-huai": {
+    "subject": [
+      "怀古",
+      "讽喻"
+    ],
+    "mood": [
+      "悲愤",
+      "忧伤"
+    ],
+    "scene": [
+      "江河",
+      "月亮",
+      "酒"
+    ],
+    "season": []
+  },
+  "bo-xing-qing-lou-chun-wan": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "花",
+      "鸟",
+      "雨",
+      "楼",
+      "月亮",
+      "酒"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "bo-xing-yan-zhen-duo-tai": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "爱情",
+      "思念"
+    ],
+    "scene": [
+      "花",
+      "月亮",
+      "楼",
+      "酒",
+      "鸟"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "bu-suan-zi-que-yue-gua-shu-tong": {
+    "subject": [
+      "咏怀",
+      "咏物"
+    ],
+    "mood": [
+      "孤独",
+      "忧伤",
+      "坚贞"
+    ],
+    "scene": [
+      "月亮",
+      "鸟",
+      "江河"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "bu-suan-zi-wo-zhu-chang-jiang-tou": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "爱情",
+      "思念",
+      "坚贞"
+    ],
+    "scene": [
+      "江河"
+    ],
+    "season": []
+  },
+  "bu-suan-zi-yi-wai-duan-qiao-bian": {
+    "subject": [
+      "咏物"
+    ],
+    "mood": [
+      "孤独",
+      "坚贞"
+    ],
+    "scene": [
+      "花",
+      "雨",
+      "风"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "cai-lian-ling-yue-hua-shou": {
+    "subject": [
+      "送别"
+    ],
+    "mood": [
+      "离别",
+      "忧伤"
+    ],
+    "scene": [
+      "月亮",
+      "舟",
+      "楼",
+      "柳"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "cai-sang-zi-qun-fang-guo-hou-xi-hu-hao": {
+    "subject": [
+      "写景"
+    ],
+    "mood": [
+      "惜春",
+      "闲适",
+      "忧伤"
+    ],
+    "scene": [
+      "湖",
+      "花",
+      "柳",
+      "鸟",
+      "雨"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "chan": {
+    "subject": [
+      "咏物",
+      "咏怀"
+    ],
+    "mood": [
+      "忧伤",
+      "怀才不遇",
+      "坚贞"
+    ],
+    "scene": [
+      "风"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "chang-an-yu-feng-zhu": {
+    "subject": [
+      "叙事"
+    ],
+    "mood": [
+      "友情",
+      "惜时"
+    ],
+    "scene": [
+      "雨",
+      "花",
+      "鸟"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "chang-e": {
+    "subject": [
+      "咏怀",
+      "游仙"
+    ],
+    "mood": [
+      "孤独",
+      "忧伤"
+    ],
+    "scene": [
+      "月亮",
+      "灯"
+    ],
+    "season": []
+  },
+  "chang-gan-qu-si-shou-er": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "爱情"
+    ],
+    "scene": [
+      "江河"
+    ],
+    "season": []
+  },
+  "chang-gan-qu-si-shou-yi": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "爱情",
+      "思念"
+    ],
+    "scene": [
+      "舟",
+      "江河"
+    ],
+    "season": []
+  },
+  "chang-gan-xing-er-shou-yi": {
+    "subject": [
+      "叙事",
+      "闺怨"
+    ],
+    "mood": [
+      "爱情",
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "花",
+      "风",
+      "鸟"
+    ],
+    "season": [
+      "春",
+      "秋"
+    ]
+  },
+  "chang-hen-ge": {
+    "subject": [
+      "叙事"
+    ],
+    "mood": [
+      "爱情",
+      "忧伤",
+      "思念"
+    ],
+    "scene": [
+      "花",
+      "柳",
+      "雨",
+      "月亮",
+      "灯",
+      "楼",
+      "山川",
+      "湖",
+      "风"
+    ],
+    "season": [
+      "春",
+      "秋"
+    ]
+  },
+  "chang-sha-guo-jia-yi-zhai": {
+    "subject": [
+      "怀古",
+      "咏怀"
+    ],
+    "mood": [
+      "忧伤",
+      "怀才不遇"
+    ],
+    "scene": [
+      "山川",
+      "江河"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "chang-ting-yuan-chang-ting-yuan-man-fan-gu-ting": {
+    "subject": [
+      "咏怀",
+      "羁旅"
+    ],
+    "mood": [
+      "思念",
+      "忧伤",
+      "孤独"
+    ],
+    "scene": [
+      "舟",
+      "花",
+      "柳"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "chang-ting-yuan-man-jian-chui-jin": {
+    "subject": [
+      "送别"
+    ],
+    "mood": [
+      "离别",
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "柳",
+      "舟",
+      "山川",
+      "花"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "chang-xin-yuan-er": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "孤独",
+      "忧伤",
+      "怀才不遇"
+    ],
+    "scene": [
+      "鸟"
+    ],
+    "season": []
+  },
+  "chen-yi-chao-shi-yuan-du-chan-jing": {
+    "subject": [
+      "写景",
+      "咏怀"
+    ],
+    "mood": [
+      "闲适"
+    ],
+    "scene": [
+      "山川",
+      "风"
+    ],
+    "season": []
+  },
+  "chi-bi": {
+    "subject": [
+      "怀古"
+    ],
+    "mood": [
+      "旷达"
+    ],
+    "scene": [
+      "江河",
+      "风"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "chi-bi-2": {
+    "subject": [
+      "怀古"
+    ],
+    "mood": [],
+    "scene": [
+      "江河",
+      "风"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "chou-bi-yi": {
+    "subject": [
+      "怀古"
+    ],
+    "mood": [
+      "忧伤"
+    ],
+    "scene": [
+      "山川",
+      "鸟",
+      "风"
+    ],
+    "season": []
+  },
+  "chou-cheng-yan-qiu-ye-ji-shi-jian-zeng": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "闲适",
+      "孤独"
+    ],
+    "scene": [
+      "风",
+      "月亮",
+      "雁"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "chou-guo-gei-shi": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "闲适",
+      "忧伤"
+    ],
+    "scene": [
+      "楼",
+      "花",
+      "柳",
+      "鸟"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "chou-zhang-shao-fu": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "闲适",
+      "旷达"
+    ],
+    "scene": [
+      "风",
+      "月亮",
+      "山川",
+      "江河"
+    ],
+    "season": []
+  },
+  "chu-fa-yang-zi-ji-yuan-da-xiao-shu": {
+    "subject": [
+      "送别"
+    ],
+    "mood": [
+      "离别",
+      "忧伤"
+    ],
+    "scene": [
+      "江河",
+      "舟",
+      "风"
+    ],
+    "season": []
+  },
+  "chu-jiang-huai-gu-san-shou-yi": {
+    "subject": [
+      "怀古",
+      "写景"
+    ],
+    "mood": [
+      "忧伤"
+    ],
+    "scene": [
+      "江河",
+      "山川",
+      "湖",
+      "舟",
+      "月亮",
+      "鸟"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "chu-sai": {
+    "subject": [
+      "边塞"
+    ],
+    "mood": [
+      "思乡",
+      "忧伤"
+    ],
+    "scene": [
+      "山川",
+      "柳",
+      "风"
+    ],
+    "season": []
+  },
+  "chu-sai-yi": {
+    "subject": [
+      "边塞"
+    ],
+    "mood": [
+      "爱国",
+      "忧伤"
+    ],
+    "scene": [
+      "月亮",
+      "山川"
+    ],
+    "season": []
+  },
+  "chu-zhou-xi-jian": {
+    "subject": [
+      "写景"
+    ],
+    "mood": [
+      "闲适",
+      "孤独"
+    ],
+    "scene": [
+      "鸟",
+      "雨",
+      "舟",
+      "江河"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "chun-fan-ruo-ye-xi": {
+    "subject": [
+      "写景",
+      "咏怀"
+    ],
+    "mood": [
+      "闲适",
+      "旷达"
+    ],
+    "scene": [
+      "江河",
+      "舟",
+      "风",
+      "花",
+      "月亮",
+      "山川"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "chun-gong-qu": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [],
+    "scene": [
+      "花",
+      "月亮",
+      "风"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "chun-gong-yuan": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "忧伤",
+      "孤独"
+    ],
+    "scene": [
+      "花",
+      "鸟",
+      "风"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "chun-si": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "思念",
+      "爱情"
+    ],
+    "scene": [
+      "花",
+      "柳",
+      "风"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "chun-si-2": {
+    "subject": [
+      "闺怨",
+      "边塞"
+    ],
+    "mood": [
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "月亮",
+      "花",
+      "鸟",
+      "楼"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "chun-su-zuo-sheng": {
+    "subject": [
+      "叙事"
+    ],
+    "mood": [
+      "爱国"
+    ],
+    "scene": [
+      "花",
+      "鸟",
+      "月亮",
+      "风"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "chun-wang": {
+    "subject": [
+      "咏怀",
+      "写景"
+    ],
+    "mood": [
+      "爱国",
+      "忧伤",
+      "思乡"
+    ],
+    "scene": [
+      "花",
+      "鸟",
+      "山川"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "chun-xiao": {
+    "subject": [
+      "写景"
+    ],
+    "mood": [
+      "闲适",
+      "惜春"
+    ],
+    "scene": [
+      "花",
+      "鸟",
+      "雨",
+      "风"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "chun-yu": {
+    "subject": [
+      "咏怀",
+      "闺怨"
+    ],
+    "mood": [
+      "思念",
+      "孤独",
+      "忧伤"
+    ],
+    "scene": [
+      "雨",
+      "楼",
+      "灯",
+      "雁"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "chun-yuan": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "鸟"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "chun-yuan-2": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "孤独",
+      "忧伤",
+      "惜春"
+    ],
+    "scene": [
+      "花"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "ci-bei-gu-shan-xia": {
+    "subject": [
+      "羁旅",
+      "写景"
+    ],
+    "mood": [
+      "思乡"
+    ],
+    "scene": [
+      "山川",
+      "江河",
+      "舟",
+      "雁"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "cong-jun-xing": {
+    "subject": [
+      "边塞"
+    ],
+    "mood": [
+      "悲愤",
+      "忧伤"
+    ],
+    "scene": [
+      "雪",
+      "雁",
+      "风",
+      "山川"
+    ],
+    "season": [
+      "冬"
+    ]
+  },
+  "cui-jiu-yu-wang-nan-shan-ma-shang-kou-hao-yu-bie": {
+    "subject": [
+      "送别",
+      "咏怀"
+    ],
+    "mood": [
+      "旷达",
+      "友情"
+    ],
+    "scene": [
+      "山川"
+    ],
+    "season": []
+  },
+  "cui-lou-yin-yue-leng-long-sha": {
+    "subject": [
+      "宴饮",
+      "写景"
+    ],
+    "mood": [
+      "忧伤",
+      "豪迈"
+    ],
+    "scene": [
+      "楼",
+      "花",
+      "酒",
+      "风"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "da-dui-su-yan-shou": {
+    "subject": [
+      "羁旅"
+    ],
+    "mood": [
+      "思乡",
+      "孤独",
+      "忧伤"
+    ],
+    "scene": [
+      "雨",
+      "花",
+      "灯"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "da-you-xi-ma-tai-qian": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "忧伤",
+      "思乡"
+    ],
+    "scene": [
+      "花",
+      "酒",
+      "雨",
+      "风",
+      "雁",
+      "柳"
+    ],
+    "season": [
+      "重阳",
+      "秋"
+    ]
+  },
+  "dan-huang-liu-kong-cheng-xiao-yue": {
+    "subject": [
+      "羁旅",
+      "咏怀"
+    ],
+    "mood": [
+      "思乡",
+      "忧伤"
+    ],
+    "scene": [
+      "楼",
+      "柳",
+      "花",
+      "鸟",
+      "酒"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "dan-qing-yin-zeng-cao-jiang-jun-ba": {
+    "subject": [
+      "题画",
+      "叙事"
+    ],
+    "mood": [
+      "赞美",
+      "忧伤",
+      "怀才不遇"
+    ],
+    "scene": [
+      "风"
+    ],
+    "season": []
+  },
+  "deng-gao": {
+    "subject": [
+      "羁旅",
+      "写景"
+    ],
+    "mood": [
+      "忧伤",
+      "孤独",
+      "悲愤"
+    ],
+    "scene": [
+      "风",
+      "鸟",
+      "江河",
+      "山川"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "deng-guan-que-lou": {
+    "subject": [
+      "写景",
+      "哲理"
+    ],
+    "mood": [
+      "旷达",
+      "豪迈"
+    ],
+    "scene": [
+      "山川",
+      "江河"
+    ],
+    "season": []
+  },
+  "deng-jin-ling-feng-huang-tai": {
+    "subject": [
+      "怀古",
+      "写景"
+    ],
+    "mood": [
+      "忧伤",
+      "爱国"
+    ],
+    "scene": [
+      "楼",
+      "江河",
+      "花",
+      "鸟",
+      "山川",
+      "风"
+    ],
+    "season": []
+  },
+  "deng-liu-zhou-cheng-lou-ji-zhang-ting-feng-lian-si-zhou": {
+    "subject": [
+      "羁旅",
+      "写景",
+      "咏怀"
+    ],
+    "mood": [
+      "思乡",
+      "忧伤",
+      "孤独"
+    ],
+    "scene": [
+      "楼",
+      "雨",
+      "风",
+      "山川",
+      "江河",
+      "花"
+    ],
+    "season": []
+  },
+  "deng-lou": {
+    "subject": [
+      "咏怀",
+      "怀古"
+    ],
+    "mood": [
+      "忧伤",
+      "爱国",
+      "悲愤"
+    ],
+    "scene": [
+      "楼",
+      "花",
+      "山川",
+      "风"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "deng-you-zhou-tai-ge": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "孤独",
+      "忧伤"
+    ],
+    "scene": [
+      "楼"
+    ],
+    "season": []
+  },
+  "deng-yue-yang-lou": {
+    "subject": [
+      "写景",
+      "咏怀"
+    ],
+    "mood": [
+      "忧伤",
+      "孤独",
+      "爱国"
+    ],
+    "scene": [
+      "湖",
+      "楼",
+      "舟",
+      "山川"
+    ],
+    "season": []
+  },
+  "di-tai-chun-fang-cao-bi-se": {
+    "subject": [
+      "羁旅"
+    ],
+    "mood": [
+      "思乡",
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "雨",
+      "花",
+      "风",
+      "江河"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "dian-jiang-chun-juan-jin-chou-yun": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "月亮",
+      "楼",
+      "灯"
+    ],
+    "season": [
+      "元宵"
+    ]
+  },
+  "dian-jiang-chun-xin-yue-juan-juan": {
+    "subject": [
+      "写景",
+      "咏怀"
+    ],
+    "mood": [
+      "闲适",
+      "思乡"
+    ],
+    "scene": [
+      "月亮",
+      "江河",
+      "山川",
+      "花",
+      "鸟"
+    ],
+    "season": []
+  },
+  "dian-jiang-chun-xin-yue-juan-juan-2": {
+    "subject": [
+      "写景",
+      "咏怀"
+    ],
+    "mood": [
+      "闲适",
+      "思乡"
+    ],
+    "scene": [
+      "月亮",
+      "江河",
+      "山川",
+      "花",
+      "鸟"
+    ],
+    "season": []
+  },
+  "dian-jiang-chun-yan-yan-wu-xin": {
+    "subject": [
+      "怀古",
+      "写景"
+    ],
+    "mood": [
+      "忧伤",
+      "孤独"
+    ],
+    "scene": [
+      "湖",
+      "雨",
+      "柳",
+      "山川",
+      "鸟"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "die-lian-hua-du-yi-wei-lou-feng-xi-xi": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "爱情",
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "楼",
+      "风",
+      "花"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "die-lian-hua-ji-xu-shang-chun-chun-fu-mu": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "惜春",
+      "忧伤",
+      "思念"
+    ],
+    "scene": [
+      "柳",
+      "花",
+      "雨",
+      "月亮",
+      "灯"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "die-lian-hua-juan-xu-feng-tou-han-yu-jin": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "思念",
+      "忧伤",
+      "离别"
+    ],
+    "scene": [
+      "花",
+      "柳",
+      "楼",
+      "酒"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "die-lian-hua-meng-ru-jiang-nan-yan-shui-lu": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "江河",
+      "雁"
+    ],
+    "season": []
+  },
+  "die-lian-hua-yu-jian-luo-yi-han-wei-qu": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "思念",
+      "忧伤",
+      "惜春"
+    ],
+    "scene": [
+      "雨",
+      "花",
+      "柳",
+      "鸟"
+    ],
+    "season": [
+      "清明",
+      "春"
+    ]
+  },
+  "die-lian-hua-yue-jiao-jing-wu-qi-bu-ding": {
+    "subject": [
+      "送别"
+    ],
+    "mood": [
+      "离别",
+      "忧伤"
+    ],
+    "scene": [
+      "月亮",
+      "鸟",
+      "楼",
+      "风"
+    ],
+    "season": []
+  },
+  "die-lian-hua-zui-bie-xi-lou-xing-bu-ji": {
+    "subject": [
+      "送别"
+    ],
+    "mood": [
+      "离别",
+      "忧伤"
+    ],
+    "scene": [
+      "楼",
+      "月亮",
+      "灯",
+      "酒"
+    ],
+    "season": []
+  },
+  "ding-feng-bo-mo-ting-chuan-lin-da-ye-sheng": {
+    "subject": [
+      "咏怀",
+      "叙事"
+    ],
+    "mood": [
+      "旷达",
+      "豪迈"
+    ],
+    "scene": [
+      "雨",
+      "风",
+      "山川"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "ding-feng-bo-zi-chun-lai": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "思念",
+      "忧伤",
+      "爱情"
+    ],
+    "scene": [
+      "花",
+      "柳",
+      "鸟"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "dong-feng-di-yi-zhi-qiao-qin-lan-xin": {
+    "subject": [
+      "咏物"
+    ],
+    "mood": [
+      "闲适",
+      "忧伤"
+    ],
+    "scene": [
+      "雨",
+      "花",
+      "柳",
+      "鸟",
+      "雪"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "dong-jiao": {
+    "subject": [
+      "田园",
+      "写景"
+    ],
+    "mood": [
+      "闲适"
+    ],
+    "scene": [
+      "柳",
+      "风",
+      "山川",
+      "雨",
+      "鸟"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "dong-xian-ge-bing-ji-yu-gu": {
+    "subject": [
+      "写景",
+      "咏怀"
+    ],
+    "mood": [
+      "闲适",
+      "惜时"
+    ],
+    "scene": [
+      "风",
+      "月亮"
+    ],
+    "season": [
+      "夏"
+    ]
+  },
+  "dong-xian-ge-qing-yan-mi-chu": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "喜悦",
+      "思念",
+      "旷达"
+    ],
+    "scene": [
+      "月亮",
+      "楼",
+      "花",
+      "酒"
+    ],
+    "season": [
+      "中秋",
+      "秋"
+    ]
+  },
+  "dong-xian-ge-xue-yun-san-jin": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "惜春",
+      "喜悦"
+    ],
+    "scene": [
+      "雪",
+      "柳",
+      "花",
+      "风"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "du-bu-jian": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "思念",
+      "孤独",
+      "忧伤"
+    ],
+    "scene": [
+      "月亮",
+      "鸟"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "du-han-jiang": {
+    "subject": [
+      "羁旅",
+      "叙事"
+    ],
+    "mood": [
+      "思乡",
+      "忧伤"
+    ],
+    "scene": [
+      "江河"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "du-han-jiang-2": {
+    "subject": [
+      "羁旅"
+    ],
+    "mood": [
+      "思乡",
+      "忧伤"
+    ],
+    "scene": [
+      "江河"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "du-jiang-yun-san-fan-du-jiang-yun-xiu-hong-pin-qian-hen": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "花",
+      "柳",
+      "鸟",
+      "湖",
+      "雨",
+      "山川"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "du-jiang-yun-shan-kong-tian-ru-hai": {
+    "subject": [
+      "羁旅",
+      "写景"
+    ],
+    "mood": [
+      "思乡",
+      "孤独",
+      "忧伤"
+    ],
+    "scene": [
+      "江河",
+      "山川",
+      "雨",
+      "灯"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "du-jing-men-song-bie": {
+    "subject": [
+      "送别",
+      "写景"
+    ],
+    "mood": [
+      "离别",
+      "思乡",
+      "豪迈"
+    ],
+    "scene": [
+      "山川",
+      "江河",
+      "月亮",
+      "舟"
+    ],
+    "season": []
+  },
+  "du-nan-jian": {
+    "subject": [
+      "写景",
+      "咏怀"
+    ],
+    "mood": [
+      "闲适"
+    ],
+    "scene": [
+      "花",
+      "江河",
+      "舟",
+      "山川"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "du-shao-fu-zhi-ren-shu-zhou": {
+    "subject": [
+      "送别"
+    ],
+    "mood": [
+      "友情",
+      "离别",
+      "旷达"
+    ],
+    "scene": [
+      "风"
+    ],
+    "season": []
+  },
+  "fa-qu-xian-xian-yin-ceng-lü-e-e": {
+    "subject": [
+      "咏物"
+    ],
+    "mood": [
+      "忧伤",
+      "思念"
+    ],
+    "scene": [
+      "花"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "feng-he-sheng-zhi-cong-peng-lai-xiang-xing-qing-ge-dao-zhong-liu-chun-yu-zhong-chun-wang-zhi-zuo-ying-zhi": {
+    "subject": [
+      "写景",
+      "叙事"
+    ],
+    "mood": [
+      "赞美"
+    ],
+    "scene": [
+      "江河",
+      "柳",
+      "花",
+      "雨",
+      "楼"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "feng-he-zhong-shu-she-ren-jia-zhi-zao-chao-da-ming-gong": {
+    "subject": [
+      "叙事"
+    ],
+    "mood": [
+      "赞美"
+    ],
+    "scene": [
+      "花",
+      "柳",
+      "楼"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "feng-huang-tai-shang-yi-chui-xiao-xiang-leng-jin-ni": {
+    "subject": [
+      "闺怨",
+      "送别"
+    ],
+    "mood": [
+      "离别",
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "楼",
+      "花",
+      "酒",
+      "柳"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "feng-ji-yi-zhong-song-yan-gong-si-yun": {
+    "subject": [
+      "送别"
+    ],
+    "mood": [
+      "友情",
+      "离别",
+      "孤独"
+    ],
+    "scene": [
+      "山川",
+      "月亮",
+      "江河"
+    ],
+    "season": []
+  },
+  "feng-liu-zi-xin-lü-xiao-chi-tang": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "爱情",
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "湖",
+      "风",
+      "花",
+      "楼",
+      "月亮",
+      "酒"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "feng-qi-wu-die-lian-hua-zhu-yi-wei-lou-feng-xi-xi": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "爱情",
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "楼",
+      "风",
+      "花"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "feng-qiao-ye-bo": {
+    "subject": [
+      "写景",
+      "羁旅"
+    ],
+    "mood": [
+      "思乡",
+      "忧伤"
+    ],
+    "scene": [
+      "月亮",
+      "江河",
+      "舟",
+      "灯"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "feng-ru-jing-shi": {
+    "subject": [
+      "羁旅"
+    ],
+    "mood": [
+      "思乡",
+      "忧伤",
+      "亲情"
+    ],
+    "scene": [],
+    "season": []
+  },
+  "feng-ru-song-ting-feng-ting-yu-guo-qing-ming": {
+    "subject": [
+      "悼亡"
+    ],
+    "mood": [
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "雨",
+      "花",
+      "柳",
+      "鸟"
+    ],
+    "season": [
+      "清明",
+      "春"
+    ]
+  },
+  "feng-ru-song-yi-chun-chang-fei-mai-hua-qian": {
+    "subject": [
+      "宴饮",
+      "写景"
+    ],
+    "mood": [
+      "喜悦",
+      "闲适"
+    ],
+    "scene": [
+      "湖",
+      "花",
+      "柳",
+      "酒",
+      "舟"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "feng-xiao-yin-fang-cao-suo-li-chou": {
+    "subject": [
+      "送别",
+      "闺怨"
+    ],
+    "mood": [
+      "离别",
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "楼",
+      "舟",
+      "花"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "feng-yu": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "忧伤",
+      "孤独",
+      "怀才不遇"
+    ],
+    "scene": [
+      "雨",
+      "风",
+      "酒",
+      "楼"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "fu-de": {
+    "subject": [
+      "闺怨",
+      "边塞"
+    ],
+    "mood": [
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "月亮",
+      "花",
+      "鸟",
+      "楼"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "fu-de-gu-yuan-cao-song-bie": {
+    "subject": [
+      "送别",
+      "咏物"
+    ],
+    "mood": [
+      "离别",
+      "友情"
+    ],
+    "scene": [],
+    "season": [
+      "春"
+    ]
+  },
+  "fu-de-mu-yu-song-li-zhou": {
+    "subject": [
+      "送别"
+    ],
+    "mood": [
+      "离别",
+      "友情",
+      "忧伤"
+    ],
+    "scene": [
+      "雨",
+      "江河",
+      "鸟"
+    ],
+    "season": []
+  },
+  "fu-rong-lou-song-xin-jian-er-shou-yi": {
+    "subject": [
+      "送别"
+    ],
+    "mood": [
+      "友情",
+      "离别",
+      "坚贞"
+    ],
+    "scene": [
+      "雨",
+      "湖",
+      "山川"
+    ],
+    "season": []
+  },
+  "gai-luo-feng-yi": {
+    "subject": [
+      "边塞"
+    ],
+    "mood": [
+      "豪迈",
+      "爱国"
+    ],
+    "scene": [
+      "月亮",
+      "山川"
+    ],
+    "season": []
+  },
+  "gan-yu-shi-er-shou-er": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "孤独",
+      "忧伤"
+    ],
+    "scene": [
+      "山川",
+      "鸟"
+    ],
+    "season": []
+  },
+  "gan-yu-shi-er-shou-qi": {
+    "subject": [
+      "咏物",
+      "咏怀"
+    ],
+    "mood": [
+      "坚贞",
+      "怀才不遇"
+    ],
+    "scene": [],
+    "season": [
+      "冬"
+    ]
+  },
+  "gan-yu-shi-er-shou-si": {
+    "subject": [
+      "咏物",
+      "咏怀"
+    ],
+    "mood": [
+      "坚贞",
+      "孤独"
+    ],
+    "scene": [
+      "鸟"
+    ],
+    "season": []
+  },
+  "gan-yu-shi-er-shou-yi": {
+    "subject": [
+      "咏物",
+      "咏怀"
+    ],
+    "mood": [
+      "坚贞",
+      "赞美"
+    ],
+    "scene": [
+      "花",
+      "风"
+    ],
+    "season": [
+      "春",
+      "秋"
+    ]
+  },
+  "gan-zhou-ba-sheng-gan-zhou-ji-yu-guan": {
+    "subject": [
+      "羁旅",
+      "咏怀"
+    ],
+    "mood": [
+      "思念",
+      "友情",
+      "孤独",
+      "忧伤"
+    ],
+    "scene": [
+      "雪",
+      "鸟",
+      "楼"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "gao-yang-tai-can-xue-ting-yin": {
+    "subject": [
+      "咏怀",
+      "咏物"
+    ],
+    "mood": [
+      "思念",
+      "离别",
+      "忧伤"
+    ],
+    "scene": [
+      "雪",
+      "花",
+      "雁"
+    ],
+    "season": [
+      "冬",
+      "春"
+    ]
+  },
+  "gao-yang-tai-gong-fen-diao-hen": {
+    "subject": [
+      "咏物"
+    ],
+    "mood": [
+      "忧伤",
+      "赞美"
+    ],
+    "scene": [
+      "花",
+      "月亮",
+      "风",
+      "雨",
+      "鸟",
+      "山川"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "gao-yang-tai-jie-ye-chao-ying": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "忧伤",
+      "惜春"
+    ],
+    "scene": [
+      "花",
+      "雨",
+      "柳",
+      "舟",
+      "鸟"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "gao-yang-tai-pin-ting-yin-qian": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "惜时",
+      "喜悦",
+      "忧伤"
+    ],
+    "scene": [
+      "灯",
+      "花",
+      "雪",
+      "楼"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "gao-yang-tai-xiu-zhu-ning-zhuang": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "忧伤",
+      "惜春",
+      "孤独"
+    ],
+    "scene": [
+      "柳",
+      "楼",
+      "雁",
+      "雨",
+      "灯",
+      "舟",
+      "花"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "gao-yang-tai-zhao-ye-jing-qi": {
+    "subject": [
+      "送别"
+    ],
+    "mood": [
+      "思乡",
+      "离别",
+      "忧伤"
+    ],
+    "scene": [
+      "雪",
+      "柳",
+      "雁",
+      "花",
+      "风"
+    ],
+    "season": [
+      "冬"
+    ]
+  },
+  "ge-shu-ge": {
+    "subject": [
+      "边塞"
+    ],
+    "mood": [
+      "赞美",
+      "豪迈"
+    ],
+    "scene": [
+      "山川"
+    ],
+    "season": []
+  },
+  "ge-ye": {
+    "subject": [
+      "羁旅",
+      "咏怀"
+    ],
+    "mood": [
+      "忧伤",
+      "悲愤"
+    ],
+    "scene": [
+      "雪",
+      "山川",
+      "风",
+      "月亮"
+    ],
+    "season": [
+      "冬"
+    ]
+  },
+  "gong-ci": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "孤独",
+      "忧伤"
+    ],
+    "scene": [
+      "楼"
+    ],
+    "season": []
+  },
+  "gong-ci-2": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "孤独",
+      "忧伤"
+    ],
+    "scene": [
+      "花",
+      "鸟"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "gong-ci-er-shou-yi": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "忧伤",
+      "孤独"
+    ],
+    "scene": [],
+    "season": []
+  },
+  "gong-ci-wu-shou-er": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "孤独",
+      "忧伤"
+    ],
+    "scene": [
+      "楼",
+      "月亮",
+      "灯"
+    ],
+    "season": []
+  },
+  "gu-bai-xing": {
+    "subject": [
+      "咏物",
+      "怀古"
+    ],
+    "mood": [
+      "赞美",
+      "怀才不遇"
+    ],
+    "scene": [
+      "山川",
+      "月亮",
+      "雪",
+      "风"
+    ],
+    "season": []
+  },
+  "gu-cong-jun-xing": {
+    "subject": [
+      "边塞"
+    ],
+    "mood": [
+      "悲愤",
+      "忧伤"
+    ],
+    "scene": [
+      "雪",
+      "雁",
+      "风",
+      "山川"
+    ],
+    "season": [
+      "冬"
+    ]
+  },
+  "gu-kou-shu-zhai-ji-yang-bu-que": {
+    "subject": [
+      "写景",
+      "田园"
+    ],
+    "mood": [
+      "闲适",
+      "友情"
+    ],
+    "scene": [
+      "山川",
+      "雨",
+      "鸟",
+      "花"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "gu-yan-er": {
+    "subject": [
+      "咏物"
+    ],
+    "mood": [
+      "孤独",
+      "忧伤"
+    ],
+    "scene": [
+      "雨",
+      "雁",
+      "月亮"
+    ],
+    "season": []
+  },
+  "gu-yi": {
+    "subject": [
+      "边塞"
+    ],
+    "mood": [
+      "豪迈",
+      "悲愤"
+    ],
+    "scene": [
+      "雪",
+      "风"
+    ],
+    "season": [
+      "冬"
+    ]
+  },
+  "gu-yi-cheng-bu-que-qiao-zhi-zhi": {
+    "subject": [
+      "闺怨",
+      "边塞"
+    ],
+    "mood": [
+      "思念",
+      "孤独",
+      "忧伤"
+    ],
+    "scene": [
+      "月亮",
+      "鸟"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "guan-gong-sun-da-niang-di-zi-wu-jian-qi-xing": {
+    "subject": [
+      "叙事"
+    ],
+    "mood": [
+      "忧伤",
+      "赞美"
+    ],
+    "scene": [
+      "月亮",
+      "山川"
+    ],
+    "season": []
+  },
+  "guan-he-ling-qing-shang-yuan-qiu-yin-shi-qing-jian-xiang-ming": {
+    "subject": [
+      "羁旅",
+      "写景"
+    ],
+    "mood": [
+      "孤独",
+      "忧伤"
+    ],
+    "scene": [
+      "雁",
+      "灯",
+      "酒"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "guan-shan-yue-2": {
+    "subject": [
+      "边塞"
+    ],
+    "mood": [
+      "思乡",
+      "忧伤"
+    ],
+    "scene": [
+      "月亮",
+      "山川",
+      "楼"
+    ],
+    "season": []
+  },
+  "gui-song-shan-zuo": {
+    "subject": [
+      "写景",
+      "田园"
+    ],
+    "mood": [
+      "闲适"
+    ],
+    "scene": [
+      "江河",
+      "山川",
+      "鸟"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "gui-yuan": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "柳",
+      "楼"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "gui-zhi-xiang-deng-lin-song-mu": {
+    "subject": [
+      "怀古"
+    ],
+    "mood": [
+      "忧伤",
+      "爱国",
+      "悲愤"
+    ],
+    "scene": [
+      "江河",
+      "山川",
+      "舟",
+      "风",
+      "鸟",
+      "花"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "guo-gu-ren-zhuang": {
+    "subject": [
+      "田园",
+      "宴饮"
+    ],
+    "mood": [
+      "闲适",
+      "友情",
+      "喜悦"
+    ],
+    "scene": [
+      "山川",
+      "酒",
+      "花"
+    ],
+    "season": []
+  },
+  "guo-guo-fu-ren": {
+    "subject": [
+      "讽喻"
+    ],
+    "mood": [],
+    "scene": [],
+    "season": []
+  },
+  "guo-qin-lou-shui-yu-qing-chan": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "爱情",
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "月亮",
+      "风",
+      "花",
+      "楼",
+      "灯"
+    ],
+    "season": [
+      "夏"
+    ]
+  },
+  "guo-xiang-ji-si": {
+    "subject": [
+      "写景",
+      "咏怀"
+    ],
+    "mood": [
+      "闲适"
+    ],
+    "scene": [
+      "山川",
+      "江河"
+    ],
+    "season": []
+  },
+  "han-bei": {
+    "subject": [
+      "叙事",
+      "怀古"
+    ],
+    "mood": [
+      "赞美"
+    ],
+    "scene": [
+      "江河",
+      "山川"
+    ],
+    "season": []
+  },
+  "han-gong-chun-chun-yi-gui-lai": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "惜春",
+      "忧伤"
+    ],
+    "scene": [
+      "花",
+      "柳",
+      "鸟",
+      "雁",
+      "风"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "han-gong-chun-xiao-sa-jiang-mei": {
+    "subject": [
+      "咏物"
+    ],
+    "mood": [
+      "赞美",
+      "忧伤"
+    ],
+    "scene": [
+      "花",
+      "雪",
+      "鸟",
+      "雁",
+      "月亮",
+      "江河"
+    ],
+    "season": [
+      "冬"
+    ]
+  },
+  "han-jiang-lin-fan": {
+    "subject": [
+      "写景"
+    ],
+    "mood": [
+      "豪迈",
+      "闲适"
+    ],
+    "scene": [
+      "江河",
+      "山川",
+      "酒"
+    ],
+    "season": []
+  },
+  "han-shi": {
+    "subject": [
+      "讽喻"
+    ],
+    "mood": [],
+    "scene": [
+      "花",
+      "柳",
+      "风",
+      "灯"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "hao-shi-jin-ning-bi-jiu-chi-tou": {
+    "subject": [
+      "怀古",
+      "咏怀"
+    ],
+    "mood": [
+      "忧伤",
+      "悲愤"
+    ],
+    "scene": [
+      "花",
+      "风"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "he-jia-she-ren-zao-chao-da-ming-gong-zhi-zuo": {
+    "subject": [
+      "叙事"
+    ],
+    "mood": [
+      "赞美",
+      "豪迈"
+    ],
+    "scene": [
+      "楼"
+    ],
+    "season": []
+  },
+  "he-jin-ling-lu-cheng-zao-chun-you-wang": {
+    "subject": [
+      "写景",
+      "羁旅"
+    ],
+    "mood": [
+      "思乡",
+      "忧伤"
+    ],
+    "scene": [
+      "湖",
+      "花",
+      "柳",
+      "鸟",
+      "风"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "he-jin-ling-lu-cheng-zao-chun-you-wang-2": {
+    "subject": [
+      "写景",
+      "羁旅"
+    ],
+    "mood": [
+      "思乡",
+      "忧伤"
+    ],
+    "scene": [
+      "湖",
+      "花",
+      "柳",
+      "鸟",
+      "风"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "he-le-tian-chun-ci": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "孤独",
+      "忧伤"
+    ],
+    "scene": [
+      "楼",
+      "花"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "he-xin-lang-feng-wei-long-xiang-bo": {
+    "subject": [
+      "音乐",
+      "怀古"
+    ],
+    "mood": [
+      "忧伤",
+      "悲愤"
+    ],
+    "scene": [
+      "江河",
+      "舟",
+      "雪",
+      "花",
+      "月亮"
+    ],
+    "season": []
+  },
+  "he-xin-lang-lü-shu-ting-ti": {
+    "subject": [
+      "送别",
+      "怀古"
+    ],
+    "mood": [
+      "离别",
+      "悲愤",
+      "忧伤"
+    ],
+    "scene": [
+      "鸟",
+      "花",
+      "风",
+      "雪",
+      "月亮"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "he-xin-lang-meng-leng-huang-jin-wu": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "忧伤",
+      "思念",
+      "悲愤"
+    ],
+    "scene": [
+      "灯",
+      "雨",
+      "花"
+    ],
+    "season": []
+  },
+  "he-xin-lang-ru-yan-fei-hua-wu": {
+    "subject": [
+      "咏物",
+      "闺怨"
+    ],
+    "mood": [
+      "孤独",
+      "忧伤"
+    ],
+    "scene": [
+      "花",
+      "鸟",
+      "风"
+    ],
+    "season": [
+      "夏"
+    ]
+  },
+  "he-xin-lang-shen-yuan-liu-hua-tu": {
+    "subject": [
+      "怀古",
+      "叙事"
+    ],
+    "mood": [
+      "赞美",
+      "悲愤"
+    ],
+    "scene": [
+      "花",
+      "雨",
+      "江河",
+      "舟"
+    ],
+    "season": [
+      "夏"
+    ]
+  },
+  "he-xin-lang-shui-qi-ti-ying-yu": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "思念",
+      "孤独",
+      "忧伤"
+    ],
+    "scene": [
+      "花",
+      "柳",
+      "雨",
+      "舟",
+      "鸟"
+    ],
+    "season": [
+      "夏"
+    ]
+  },
+  "he-xin-lang-zhan-zhan-chang-kong-hei": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "悲愤",
+      "忧伤",
+      "爱国"
+    ],
+    "scene": [
+      "雨",
+      "风",
+      "楼",
+      "花",
+      "雁"
+    ],
+    "season": [
+      "重阳",
+      "秋"
+    ]
+  },
+  "he-xin-lang-zhuan-lü-xiao-jin-ding": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "思念",
+      "忧伤",
+      "孤独"
+    ],
+    "scene": [
+      "花",
+      "柳",
+      "楼",
+      "月亮",
+      "灯"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "he-xin-lang-zhuan-lü-xiao-xiang-ding": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "思念",
+      "忧伤",
+      "孤独"
+    ],
+    "scene": [
+      "花",
+      "柳",
+      "雨",
+      "楼",
+      "月亮",
+      "灯"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "he-zhang-pu-she-sai-xia-qu": {
+    "subject": [
+      "边塞"
+    ],
+    "mood": [
+      "豪迈"
+    ],
+    "scene": [
+      "雁",
+      "雪"
+    ],
+    "season": [
+      "冬"
+    ]
+  },
+  "he-zhang-pu-she-sai-xia-qu-er": {
+    "subject": [
+      "边塞"
+    ],
+    "mood": [
+      "豪迈"
+    ],
+    "scene": [
+      "风"
+    ],
+    "season": []
+  },
+  "he-zhang-pu-she-sai-xia-qu-san": {
+    "subject": [
+      "边塞"
+    ],
+    "mood": [
+      "豪迈"
+    ],
+    "scene": [
+      "雁",
+      "雪"
+    ],
+    "season": [
+      "冬"
+    ]
+  },
+  "he-zhang-pu-she-sai-xia-qu-si": {
+    "subject": [
+      "边塞",
+      "宴饮"
+    ],
+    "mood": [
+      "喜悦",
+      "豪迈"
+    ],
+    "scene": [
+      "酒",
+      "山川"
+    ],
+    "season": []
+  },
+  "he-zhang-pu-she-sai-xia-qu-yi": {
+    "subject": [
+      "边塞"
+    ],
+    "mood": [
+      "豪迈"
+    ],
+    "scene": [],
+    "season": []
+  },
+  "hou-gong-ci": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "忧伤",
+      "孤独"
+    ],
+    "scene": [],
+    "season": []
+  },
+  "hua-fan-fen-qiang-di": {
+    "subject": [
+      "咏物"
+    ],
+    "mood": [
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "花",
+      "雪"
+    ],
+    "season": [
+      "冬"
+    ]
+  },
+  "hua-fan-xiao-ping-ting": {
+    "subject": [
+      "咏物"
+    ],
+    "mood": [
+      "赞美",
+      "忧伤"
+    ],
+    "scene": [
+      "花",
+      "月亮",
+      "风",
+      "雪"
+    ],
+    "season": [
+      "冬"
+    ]
+  },
+  "huai-shang-xi-hui-liang-chuan-gu-ren": {
+    "subject": [
+      "叙事"
+    ],
+    "mood": [
+      "友情",
+      "喜悦",
+      "忧伤",
+      "惜时"
+    ],
+    "scene": [
+      "江河",
+      "山川"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "huan-xi-sha-bo-mian-tong-hua-leng-bu-shou": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "湖",
+      "月亮",
+      "鸟",
+      "花",
+      "风"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "huan-xi-sha-men-ge-hua-shen-meng-jiu-you": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "花",
+      "鸟",
+      "楼",
+      "月亮",
+      "风"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "huan-xi-sha-mo-mo-qing-han-shang-xiao-lou": {
+    "subject": [
+      "写景",
+      "咏怀"
+    ],
+    "mood": [
+      "忧伤"
+    ],
+    "scene": [
+      "楼",
+      "花",
+      "雨"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "huan-xi-sha-yi-qu-xin-ci-jiu-yi-bei": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "惜时",
+      "忧伤",
+      "闲适"
+    ],
+    "scene": [
+      "酒",
+      "花",
+      "鸟"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "huan-xi-sha-yi-xiang-nian-guang-you-xian-shen": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "惜时",
+      "忧伤",
+      "旷达"
+    ],
+    "scene": [
+      "山川",
+      "花",
+      "雨"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "huan-xiang-ou-shu-qi-er": {
+    "subject": [
+      "叙事",
+      "咏怀"
+    ],
+    "mood": [
+      "思乡",
+      "忧伤"
+    ],
+    "scene": [],
+    "season": []
+  },
+  "huang-he-lou": {
+    "subject": [
+      "怀古",
+      "写景"
+    ],
+    "mood": [
+      "思乡",
+      "忧伤"
+    ],
+    "scene": [
+      "楼",
+      "江河"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "huang-he-lou-song-meng-hao-ran-zhi-guang-ling": {
+    "subject": [
+      "送别"
+    ],
+    "mood": [
+      "友情",
+      "离别",
+      "豪迈"
+    ],
+    "scene": [
+      "楼",
+      "花",
+      "柳",
+      "江河",
+      "舟"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "ji-han-jian-yi": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "思念",
+      "旷达"
+    ],
+    "scene": [
+      "湖",
+      "山川",
+      "月亮",
+      "花",
+      "雁"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "ji-li-dan-yuan-xi": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "友情",
+      "忧伤",
+      "思念"
+    ],
+    "scene": [
+      "花",
+      "月亮",
+      "楼"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "ji-ling-hu-lang-zhong": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "友情",
+      "孤独"
+    ],
+    "scene": [
+      "雨"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "ji-ling-tai-er-shou-er": {
+    "subject": [
+      "怀古",
+      "讽喻"
+    ],
+    "mood": [],
+    "scene": [],
+    "season": []
+  },
+  "ji-ling-tai-er-shou-yi": {
+    "subject": [
+      "怀古",
+      "讽喻"
+    ],
+    "mood": [],
+    "scene": [
+      "楼",
+      "花"
+    ],
+    "season": []
+  },
+  "ji-quan-jiao-shan-zhong-dao-shi": {
+    "subject": [
+      "写景"
+    ],
+    "mood": [
+      "思念",
+      "闲适"
+    ],
+    "scene": [
+      "山川",
+      "雨",
+      "酒"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "ji-ren-yi": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "思念",
+      "忧伤",
+      "离别"
+    ],
+    "scene": [
+      "月亮",
+      "花"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "ji-yu-wang-chuan-zhuang-zuo": {
+    "subject": [
+      "田园",
+      "写景"
+    ],
+    "mood": [
+      "闲适"
+    ],
+    "scene": [
+      "雨",
+      "鸟"
+    ],
+    "season": [
+      "夏"
+    ]
+  },
+  "ji-zuo-sheng-du-shi-yi": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "忧伤",
+      "惜时",
+      "怀才不遇"
+    ],
+    "scene": [
+      "花",
+      "鸟"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "jia-ren": {
+    "subject": [
+      "叙事",
+      "咏怀"
+    ],
+    "mood": [
+      "孤独",
+      "忧伤",
+      "坚贞"
+    ],
+    "scene": [
+      "山川",
+      "花"
+    ],
+    "season": []
+  },
+  "jia-sheng": {
+    "subject": [
+      "怀古",
+      "讽喻"
+    ],
+    "mood": [
+      "怀才不遇",
+      "悲愤"
+    ],
+    "scene": [],
+    "season": []
+  },
+  "jian-bie-wang-shi-yi-nan-you": {
+    "subject": [
+      "送别"
+    ],
+    "mood": [
+      "友情",
+      "离别",
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "江河",
+      "湖",
+      "舟"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "jian-qi-jin-ye-lai-yu": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "惜春",
+      "忧伤",
+      "思念"
+    ],
+    "scene": [
+      "雨",
+      "风",
+      "花",
+      "鸟",
+      "柳"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "jian-zi-huan-xi-sha-huan-xi-sha-lou-jiao-chu-xiao-yi-lü-xia": {
+    "subject": [
+      "写景"
+    ],
+    "mood": [
+      "闲适",
+      "喜悦"
+    ],
+    "scene": [
+      "楼",
+      "柳",
+      "鸟",
+      "月亮",
+      "花",
+      "风"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "jiang-cheng-zi-hua-lou-lian-mu-juan-xin-qing": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "忧伤",
+      "惜时"
+    ],
+    "scene": [
+      "楼",
+      "花",
+      "湖",
+      "酒"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "jiang-fu-wu-xing-deng-le-you-yuan-yi-jue": {
+    "subject": [
+      "咏怀",
+      "怀古"
+    ],
+    "mood": [
+      "闲适",
+      "忧伤"
+    ],
+    "scene": [
+      "江河"
+    ],
+    "season": []
+  },
+  "jiang-jin-jiu": {
+    "subject": [
+      "宴饮",
+      "咏怀"
+    ],
+    "mood": [
+      "豪迈",
+      "旷达",
+      "惜时"
+    ],
+    "scene": [
+      "江河",
+      "酒",
+      "月亮"
+    ],
+    "season": []
+  },
+  "jiang-nan-ci": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "江河"
+    ],
+    "season": []
+  },
+  "jiang-nan-feng-li-gui-nian": {
+    "subject": [
+      "叙事",
+      "咏怀"
+    ],
+    "mood": [
+      "忧伤"
+    ],
+    "scene": [
+      "花"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "jiang-nan-qu": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "江河"
+    ],
+    "season": []
+  },
+  "jiang-shen-zi-jiang-cheng-zi-shi-nian-sheng-si-liang-mang-mang": {
+    "subject": [
+      "悼亡"
+    ],
+    "mood": [
+      "思念",
+      "忧伤",
+      "爱情"
+    ],
+    "scene": [
+      "月亮",
+      "山川"
+    ],
+    "season": []
+  },
+  "jiang-shen-zi-man-jiang-cheng-zi-man-yu-tai-gua-qiu-yue": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "思念",
+      "离别",
+      "爱情",
+      "忧伤"
+    ],
+    "scene": [
+      "月亮",
+      "花",
+      "雁",
+      "雨"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "jiang-xue": {
+    "subject": [
+      "写景",
+      "咏怀"
+    ],
+    "mood": [
+      "孤独",
+      "坚贞"
+    ],
+    "scene": [
+      "雪",
+      "山川",
+      "江河",
+      "舟"
+    ],
+    "season": [
+      "冬"
+    ]
+  },
+  "jiang-zhou-zhong-bie-xue-liu-liu-ba-er-yuan-wai": {
+    "subject": [
+      "送别",
+      "咏怀"
+    ],
+    "mood": [
+      "友情",
+      "忧伤",
+      "怀才不遇"
+    ],
+    "scene": [
+      "月亮",
+      "雁",
+      "山川",
+      "江河",
+      "风"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "jie-lian-huan-chu-jiang-kong-wan": {
+    "subject": [
+      "咏物",
+      "羁旅"
+    ],
+    "mood": [
+      "孤独",
+      "思乡",
+      "忧伤"
+    ],
+    "scene": [
+      "雁",
+      "雨"
+    ],
+    "season": []
+  },
+  "jie-lian-huan-yuan-huai-wu-tuo": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "爱情",
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "楼",
+      "花",
+      "舟",
+      "江河",
+      "酒"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "jie-pei-huan-shu-ying-jiang-kong-bu-du": {
+    "subject": [
+      "咏物"
+    ],
+    "mood": [
+      "忧伤",
+      "孤独"
+    ],
+    "scene": [
+      "江河",
+      "花",
+      "雨",
+      "雪",
+      "鸟",
+      "月亮"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "jie-yu-hua-feng-xiao-yan-la": {
+    "subject": [
+      "写景",
+      "咏怀"
+    ],
+    "mood": [
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "灯",
+      "月亮",
+      "花"
+    ],
+    "season": [
+      "元宵"
+    ]
+  },
+  "jin-gu-yuan": {
+    "subject": [
+      "怀古"
+    ],
+    "mood": [
+      "忧伤"
+    ],
+    "scene": [
+      "花",
+      "风",
+      "鸟"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "jin-ling-jiu-si-liu-bie": {
+    "subject": [
+      "送别",
+      "宴饮"
+    ],
+    "mood": [
+      "友情",
+      "离别",
+      "豪迈"
+    ],
+    "scene": [
+      "花",
+      "柳",
+      "风",
+      "酒",
+      "江河"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "jin-ling-tu": {
+    "subject": [
+      "题画",
+      "怀古"
+    ],
+    "mood": [
+      "忧伤"
+    ],
+    "scene": [],
+    "season": []
+  },
+  "jin-ling-wu-ti-wu-yi-xiang": {
+    "subject": [
+      "怀古"
+    ],
+    "mood": [
+      "忧伤"
+    ],
+    "scene": [
+      "花",
+      "鸟",
+      "楼"
+    ],
+    "season": []
+  },
+  "jin-lü-ge-he-xin-lang-qiao-mu-sheng-yun-qi": {
+    "subject": [
+      "怀古",
+      "咏怀"
+    ],
+    "mood": [
+      "悲愤",
+      "忧伤",
+      "爱国"
+    ],
+    "scene": [
+      "花",
+      "月亮",
+      "鸟"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "jin-lü-yi": {
+    "subject": [
+      "咏怀",
+      "哲理"
+    ],
+    "mood": [
+      "惜时"
+    ],
+    "scene": [
+      "花"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "jin-se": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "忧伤",
+      "惜时"
+    ],
+    "scene": [
+      "月亮"
+    ],
+    "season": []
+  },
+  "jin-shi-shang-zhang-ji-shui-bu": {
+    "subject": [
+      "闺怨",
+      "咏怀"
+    ],
+    "mood": [],
+    "scene": [
+      "灯"
+    ],
+    "season": []
+  },
+  "jing-ye-si": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "思乡",
+      "孤独"
+    ],
+    "scene": [
+      "月亮"
+    ],
+    "season": []
+  },
+  "jing-zou-lu-ji-kong-zi-er-tan-zhi": {
+    "subject": [
+      "怀古",
+      "咏怀"
+    ],
+    "mood": [
+      "赞美",
+      "忧伤"
+    ],
+    "scene": [],
+    "season": []
+  },
+  "jiu-ri-deng-wang-xian-tai-cheng-liu-ming-fu-rong": {
+    "subject": [
+      "怀古",
+      "宴饮"
+    ],
+    "mood": [
+      "旷达",
+      "闲适"
+    ],
+    "scene": [
+      "山川",
+      "风",
+      "雨",
+      "花"
+    ],
+    "season": [
+      "重阳"
+    ]
+  },
+  "jiu-yue-jiu-ri-yi-shan-dong-xiong-di": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "思乡",
+      "亲情",
+      "忧伤"
+    ],
+    "scene": [],
+    "season": [
+      "重阳"
+    ]
+  },
+  "jun-zhai-yu-zhong-yu-zhu-wen-shi-yan-ji": {
+    "subject": [
+      "宴饮"
+    ],
+    "mood": [
+      "闲适",
+      "忧伤"
+    ],
+    "scene": [
+      "雨",
+      "湖",
+      "楼",
+      "酒",
+      "风"
+    ],
+    "season": []
+  },
+  "ke-ye-yu-gu-ren-ou-ji": {
+    "subject": [
+      "羁旅"
+    ],
+    "mood": [
+      "友情",
+      "喜悦",
+      "忧伤"
+    ],
+    "scene": [
+      "月亮",
+      "风",
+      "鸟"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "ke-zhi": {
+    "subject": [
+      "宴饮",
+      "田园"
+    ],
+    "mood": [
+      "友情",
+      "喜悦",
+      "闲适"
+    ],
+    "scene": [
+      "江河",
+      "花",
+      "鸟",
+      "酒"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "lan-ling-wang-juan-zhu-bo": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "忧伤",
+      "惜春",
+      "思念"
+    ],
+    "scene": [
+      "雨",
+      "柳",
+      "花",
+      "风",
+      "灯",
+      "楼"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "lan-ling-wang-liu-yin-zhi": {
+    "subject": [
+      "送别",
+      "羁旅"
+    ],
+    "mood": [
+      "离别",
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "柳",
+      "灯",
+      "舟",
+      "酒"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "lan-ling-wang-song-chun-qu": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "忧伤",
+      "惜春",
+      "爱国"
+    ],
+    "scene": [
+      "花",
+      "雨",
+      "鸟",
+      "江河",
+      "柳"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "lang-tao-sha-ba-jiu-zhu-dong-feng": {
+    "subject": [
+      "送别"
+    ],
+    "mood": [
+      "离别",
+      "惜时",
+      "忧伤"
+    ],
+    "scene": [
+      "花",
+      "柳",
+      "风",
+      "酒"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "lang-tao-sha-lang-tao-sha-zhou-yin-zhong": {
+    "subject": [
+      "送别"
+    ],
+    "mood": [
+      "离别",
+      "忧伤"
+    ],
+    "scene": [
+      "柳",
+      "雨",
+      "楼",
+      "月亮",
+      "花",
+      "酒"
+    ],
+    "season": [
+      "冬"
+    ]
+  },
+  "lang-tao-sha-meng-jue": {
+    "subject": [
+      "羁旅"
+    ],
+    "mood": [
+      "思念",
+      "孤独",
+      "忧伤"
+    ],
+    "scene": [
+      "风",
+      "灯",
+      "雨",
+      "楼"
+    ],
+    "season": []
+  },
+  "lao-jiang-xing": {
+    "subject": [
+      "边塞",
+      "咏怀"
+    ],
+    "mood": [
+      "豪迈",
+      "悲愤",
+      "爱国"
+    ],
+    "scene": [
+      "山川",
+      "柳",
+      "酒"
+    ],
+    "season": []
+  },
+  "le-you-yuan": {
+    "subject": [
+      "咏怀",
+      "写景"
+    ],
+    "mood": [
+      "忧伤",
+      "惜时"
+    ],
+    "scene": [
+      "山川"
+    ],
+    "season": []
+  },
+  "li-duan-gong": {
+    "subject": [
+      "送别"
+    ],
+    "mood": [
+      "离别",
+      "友情",
+      "忧伤"
+    ],
+    "scene": [
+      "雪",
+      "风"
+    ],
+    "season": [
+      "冬"
+    ]
+  },
+  "li-ren-xing": {
+    "subject": [
+      "叙事",
+      "讽喻"
+    ],
+    "mood": [],
+    "scene": [
+      "花",
+      "柳",
+      "鸟"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "li-zhou-nan-du": {
+    "subject": [
+      "写景",
+      "羁旅"
+    ],
+    "mood": [
+      "闲适",
+      "旷达"
+    ],
+    "scene": [
+      "江河",
+      "柳",
+      "鸟",
+      "舟",
+      "湖"
+    ],
+    "season": []
+  },
+  "liang-si": {
+    "subject": [
+      "咏怀",
+      "羁旅"
+    ],
+    "mood": [
+      "思乡",
+      "孤独"
+    ],
+    "scene": [],
+    "season": []
+  },
+  "liang-zhou-ci-er-shou-yi": {
+    "subject": [
+      "边塞",
+      "宴饮"
+    ],
+    "mood": [
+      "豪迈",
+      "悲愤",
+      "旷达"
+    ],
+    "scene": [
+      "酒"
+    ],
+    "season": []
+  },
+  "liang-zhou-ci-er-shou-yi-2": {
+    "subject": [
+      "边塞"
+    ],
+    "mood": [
+      "思乡",
+      "悲愤"
+    ],
+    "scene": [
+      "江河",
+      "山川",
+      "风",
+      "柳"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "lie-nü-cao": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "坚贞",
+      "爱情",
+      "赞美"
+    ],
+    "scene": [],
+    "season": []
+  },
+  "lin-jiang-xian-gao-yong-chu-ci-chou-wu-ri": {
+    "subject": [
+      "怀古",
+      "叙事"
+    ],
+    "mood": [
+      "忧伤",
+      "爱国"
+    ],
+    "scene": [
+      "花",
+      "风",
+      "江河",
+      "酒"
+    ],
+    "season": [
+      "夏"
+    ]
+  },
+  "lin-jiang-xian-meng-hou-lou-tai-gao-suo": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "思念",
+      "忧伤",
+      "孤独"
+    ],
+    "scene": [
+      "楼",
+      "酒",
+      "花",
+      "雨",
+      "鸟",
+      "月亮"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "lin-jiang-xian-ye-yin-dong-po-xing-fu-zui": {
+    "subject": [
+      "咏怀",
+      "写景"
+    ],
+    "mood": [
+      "旷达",
+      "闲适",
+      "孤独"
+    ],
+    "scene": [
+      "江河",
+      "舟",
+      "风"
+    ],
+    "season": []
+  },
+  "lin-jiang-xian-yi-xi-wu-qiao-qiao-shang-yin": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "旷达",
+      "忧伤",
+      "惜时"
+    ],
+    "scene": [
+      "楼",
+      "月亮",
+      "花",
+      "舟"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "lin-jiang-xian-yi-xi-xi-chi-chi-shang-yin": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "友情",
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "月亮",
+      "花"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "liu-bie-wang-shi-yu-wei": {
+    "subject": [
+      "送别",
+      "咏怀"
+    ],
+    "mood": [
+      "离别",
+      "怀才不遇",
+      "孤独"
+    ],
+    "scene": [],
+    "season": []
+  },
+  "liu-chou-si-dong-feng-lao-da": {
+    "subject": [
+      "咏物",
+      "羁旅"
+    ],
+    "mood": [
+      "忧伤",
+      "惜春"
+    ],
+    "scene": [
+      "柳",
+      "花",
+      "雨",
+      "雪",
+      "鸟"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "liu-chou-zheng-dan-yi-shi-jiu": {
+    "subject": [
+      "咏物",
+      "羁旅"
+    ],
+    "mood": [
+      "惜春",
+      "忧伤",
+      "思念"
+    ],
+    "scene": [
+      "花",
+      "风",
+      "雨",
+      "柳",
+      "酒"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "liu-chun-ling-hua-ping-tian-pan": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "思念",
+      "忧伤",
+      "惜春"
+    ],
+    "scene": [
+      "楼",
+      "江河"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "liu-me-ling-lü-yin-chun-jin": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "爱情",
+      "思念"
+    ],
+    "scene": [
+      "花",
+      "楼",
+      "月亮"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "liu-shao-qing-shu-sheng-ti-jue": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "惜春",
+      "忧伤"
+    ],
+    "scene": [
+      "花",
+      "风",
+      "鸟"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "liu-zhou-ge-tou-chang-huai-wang-duan": {
+    "subject": [
+      "咏怀",
+      "边塞"
+    ],
+    "mood": [
+      "爱国",
+      "悲愤",
+      "忧伤"
+    ],
+    "scene": [
+      "风",
+      "江河"
+    ],
+    "season": []
+  },
+  "liu-zhou-ge-tou-dong-feng-zhu-yi": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "思念",
+      "忧伤",
+      "惜春"
+    ],
+    "scene": [
+      "花",
+      "柳",
+      "雨",
+      "鸟",
+      "楼"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "long-xi-xing-si-shou-er": {
+    "subject": [
+      "边塞"
+    ],
+    "mood": [
+      "爱国",
+      "忧伤"
+    ],
+    "scene": [
+      "江河"
+    ],
+    "season": []
+  },
+  "lu-shan-yao-ji-lu-shi-yu-xu-zhou": {
+    "subject": [
+      "游仙",
+      "写景"
+    ],
+    "mood": [
+      "豪迈",
+      "旷达"
+    ],
+    "scene": [
+      "山川",
+      "湖",
+      "江河",
+      "花",
+      "风",
+      "鸟",
+      "月亮"
+    ],
+    "season": []
+  },
+  "lun-tai-ge-feng-song-feng-dai-fu-chu-shi-xi-zheng": {
+    "subject": [
+      "边塞",
+      "送别"
+    ],
+    "mood": [
+      "豪迈",
+      "爱国",
+      "悲愤"
+    ],
+    "scene": [
+      "雪",
+      "风",
+      "山川",
+      "楼"
+    ],
+    "season": [
+      "冬"
+    ]
+  },
+  "luo-hua": {
+    "subject": [
+      "咏物",
+      "咏怀"
+    ],
+    "mood": [
+      "忧伤",
+      "惜春"
+    ],
+    "scene": [
+      "花",
+      "楼"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "luo-yang-nü-er-xing": {
+    "subject": [
+      "叙事",
+      "讽喻"
+    ],
+    "mood": [],
+    "scene": [
+      "楼",
+      "花",
+      "柳",
+      "江河"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "lü-su": {
+    "subject": [
+      "羁旅"
+    ],
+    "mood": [
+      "思乡",
+      "孤独",
+      "忧伤"
+    ],
+    "scene": [
+      "灯",
+      "雁",
+      "江河",
+      "月亮"
+    ],
+    "season": []
+  },
+  "lü-tou-ya-duo-li-wan-yun-shou": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "思念",
+      "爱情",
+      "喜悦"
+    ],
+    "scene": [
+      "月亮",
+      "楼",
+      "花",
+      "风"
+    ],
+    "season": [
+      "中秋"
+    ]
+  },
+  "lü-tou-ya-duo-li-yu-ren-jia": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "爱情",
+      "离别",
+      "思念"
+    ],
+    "scene": [
+      "楼",
+      "酒",
+      "花",
+      "舟",
+      "风",
+      "月亮"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "lü-ye-shu-huai": {
+    "subject": [
+      "羁旅",
+      "写景"
+    ],
+    "mood": [
+      "孤独",
+      "忧伤",
+      "怀才不遇"
+    ],
+    "scene": [
+      "舟",
+      "江河",
+      "月亮",
+      "鸟",
+      "风"
+    ],
+    "season": []
+  },
+  "lü-yi-shu-ying-bi-yuan-zi-jie": {
+    "subject": [
+      "咏物"
+    ],
+    "mood": [
+      "赞美",
+      "忧伤"
+    ],
+    "scene": [
+      "湖",
+      "花",
+      "雨",
+      "风",
+      "月亮"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "ma-wei-po": {
+    "subject": [
+      "怀古"
+    ],
+    "mood": [
+      "忧伤"
+    ],
+    "scene": [],
+    "season": []
+  },
+  "man-jiang-hong-nu-fa-chong-guan": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "爱国",
+      "悲愤",
+      "豪迈",
+      "惜时"
+    ],
+    "scene": [
+      "山川",
+      "月亮",
+      "雨"
+    ],
+    "season": []
+  },
+  "man-ting-fang-feng-lao-ying-chu": {
+    "subject": [
+      "羁旅"
+    ],
+    "mood": [
+      "思乡",
+      "忧伤",
+      "闲适"
+    ],
+    "scene": [
+      "雨",
+      "花",
+      "鸟",
+      "江河",
+      "酒"
+    ],
+    "season": [
+      "夏"
+    ]
+  },
+  "man-ting-fang-shan-mo-wei-yun": {
+    "subject": [
+      "送别"
+    ],
+    "mood": [
+      "离别",
+      "忧伤"
+    ],
+    "scene": [
+      "山川",
+      "舟",
+      "鸟",
+      "花",
+      "灯",
+      "酒"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "man-ting-fang-xiao-se-yun-kai": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "忧伤",
+      "惜时"
+    ],
+    "scene": [
+      "雨",
+      "花",
+      "鸟",
+      "柳",
+      "楼",
+      "酒"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "man-ting-fang-yue-xi-gao-wu": {
+    "subject": [
+      "咏物"
+    ],
+    "mood": [
+      "忧伤",
+      "孤独"
+    ],
+    "scene": [
+      "月亮",
+      "花",
+      "灯"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "mei-fan-gu-ren": {
+    "subject": [
+      "叙事",
+      "悼亡"
+    ],
+    "mood": [
+      "友情",
+      "忧伤"
+    ],
+    "scene": [],
+    "season": []
+  },
+  "mei-wu-jian-xin-hen-xuan-liu": {
+    "subject": [
+      "咏物"
+    ],
+    "mood": [
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "月亮",
+      "柳",
+      "花"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "meng-li-bai-er-shou-er": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "思念",
+      "友情",
+      "忧伤"
+    ],
+    "scene": [
+      "舟",
+      "江河",
+      "风"
+    ],
+    "season": []
+  },
+  "meng-li-bai-er-shou-yi": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "思念",
+      "友情",
+      "忧伤"
+    ],
+    "scene": [
+      "月亮",
+      "风"
+    ],
+    "season": []
+  },
+  "meng-you-tian-lao-yin-liu-bie": {
+    "subject": [
+      "游仙",
+      "叙事"
+    ],
+    "mood": [
+      "豪迈",
+      "旷达",
+      "怀才不遇"
+    ],
+    "scene": [
+      "山川",
+      "月亮",
+      "湖",
+      "雨",
+      "风",
+      "花"
+    ],
+    "season": []
+  },
+  "mi-shen-yin-yi-ye-pian-zhou-qing-fan-juan": {
+    "subject": [
+      "羁旅"
+    ],
+    "mood": [
+      "思乡",
+      "忧伤",
+      "孤独"
+    ],
+    "scene": [
+      "舟",
+      "江河",
+      "雁",
+      "山川",
+      "花"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "mo-shan-xi-xi-zhuang-zhen-tai": {
+    "subject": [
+      "咏物"
+    ],
+    "mood": [
+      "赞美",
+      "孤独"
+    ],
+    "scene": [
+      "花",
+      "雪",
+      "雨",
+      "月亮",
+      "风"
+    ],
+    "season": [
+      "冬"
+    ]
+  },
+  "mo-yu-er-dui-xi-feng": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "爱情",
+      "忧伤"
+    ],
+    "scene": [
+      "风",
+      "月亮",
+      "楼"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "mo-yu-er-geng-neng-xiao": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "惜春",
+      "悲愤",
+      "怀才不遇"
+    ],
+    "scene": [
+      "雨",
+      "风",
+      "花",
+      "楼",
+      "柳"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "mo-yu-er-zen-zhi-ta": {
+    "subject": [
+      "送别"
+    ],
+    "mood": [
+      "离别",
+      "忧伤",
+      "惜时"
+    ],
+    "scene": [
+      "花",
+      "柳",
+      "雨",
+      "酒"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "mu-lan-hua-man-lao-lai-qing-wei-jian": {
+    "subject": [
+      "送别"
+    ],
+    "mood": [
+      "离别",
+      "惜时",
+      "友情"
+    ],
+    "scene": [
+      "酒",
+      "风",
+      "江河",
+      "舟",
+      "灯",
+      "雁"
+    ],
+    "season": [
+      "中秋",
+      "秋"
+    ]
+  },
+  "mu-lan-hua-yu-lou-chun-cheng-shang-feng-guang-ying-yu-luan": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "惜春",
+      "忧伤",
+      "惜时"
+    ],
+    "scene": [
+      "楼",
+      "江河",
+      "柳",
+      "花",
+      "鸟",
+      "酒"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "mu-lan-hua-yu-lou-chun-chi-tang-shui-lü-feng-wei-nuan": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "忧伤",
+      "惜时"
+    ],
+    "scene": [
+      "湖",
+      "风",
+      "花",
+      "楼",
+      "酒"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "mu-lan-hua-yu-lou-chun-qiu-qian-yuan-luo-zhong-lian-mu": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "花",
+      "柳",
+      "雨",
+      "风",
+      "楼"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "mu-lan-hua-yu-lou-chun-yan-hong-guo-hou-ying-gui-qu": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "惜时",
+      "忧伤",
+      "旷达"
+    ],
+    "scene": [
+      "鸟",
+      "花",
+      "酒"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "nan-pu-feng-bei-hua-jiao": {
+    "subject": [
+      "羁旅"
+    ],
+    "mood": [
+      "思乡",
+      "忧伤",
+      "思念"
+    ],
+    "scene": [
+      "雪",
+      "风",
+      "雁",
+      "灯",
+      "酒",
+      "月亮"
+    ],
+    "season": [
+      "冬"
+    ]
+  },
+  "ni-chang-zhong-xu-di-yi-ting-gao-zheng-wang-ji": {
+    "subject": [
+      "羁旅",
+      "咏怀"
+    ],
+    "mood": [
+      "思乡",
+      "忧伤",
+      "孤独"
+    ],
+    "scene": [
+      "江河",
+      "花",
+      "月亮",
+      "酒",
+      "楼"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "nian-nu-jiao-dong-ting-qing-cao": {
+    "subject": [
+      "写景",
+      "咏怀"
+    ],
+    "mood": [
+      "旷达"
+    ],
+    "scene": [
+      "湖",
+      "月亮",
+      "舟"
+    ],
+    "season": [
+      "中秋"
+    ]
+  },
+  "nian-nu-jiao-nao-hong-yi-ge": {
+    "subject": [
+      "咏物"
+    ],
+    "mood": [
+      "赞美",
+      "忧伤",
+      "孤独"
+    ],
+    "scene": [
+      "湖",
+      "花",
+      "雨",
+      "风",
+      "柳"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "nian-nu-jiao-xiao-tiao-ting-yuan": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "孤独",
+      "忧伤",
+      "惜春"
+    ],
+    "scene": [
+      "雨",
+      "风",
+      "花",
+      "楼",
+      "雁"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "nian-nu-jiao-ye-tang-hua-luo": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "思念",
+      "忧伤",
+      "惜春"
+    ],
+    "scene": [
+      "花",
+      "柳",
+      "楼",
+      "鸟",
+      "月亮"
+    ],
+    "season": [
+      "清明",
+      "春"
+    ]
+  },
+  "nü-guan-zi-hui-hua-xiang-ye": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "灯",
+      "花",
+      "月亮"
+    ],
+    "season": [
+      "元宵",
+      "春"
+    ]
+  },
+  "pi-pa-xian-zi-du-qu-shuang-jiang-lai-shi": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "舟",
+      "花",
+      "柳",
+      "酒",
+      "鸟"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "pi-pa-yin": {
+    "subject": [
+      "叙事",
+      "音乐"
+    ],
+    "mood": [
+      "忧伤",
+      "悲愤",
+      "怀才不遇"
+    ],
+    "scene": [
+      "江河",
+      "花",
+      "月亮",
+      "酒",
+      "舟",
+      "灯",
+      "风"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "pin-nü": {
+    "subject": [
+      "咏怀",
+      "讽喻"
+    ],
+    "mood": [
+      "怀才不遇",
+      "忧伤",
+      "坚贞"
+    ],
+    "scene": [],
+    "season": []
+  },
+  "po-luo-men": {
+    "subject": [
+      "边塞"
+    ],
+    "mood": [
+      "思乡",
+      "忧伤"
+    ],
+    "scene": [
+      "月亮"
+    ],
+    "season": []
+  },
+  "pu-sa-man-ai-zheng-yi-nong-xiang-jiang-qu": {
+    "subject": [
+      "音乐",
+      "闺怨"
+    ],
+    "mood": [
+      "忧伤",
+      "思念"
+    ],
+    "scene": [
+      "江河"
+    ],
+    "season": []
+  },
+  "pu-sa-man-chi-lan-qiao-jin-xiang-jie-zhi": {
+    "subject": [
+      "写景"
+    ],
+    "mood": [
+      "闲适"
+    ],
+    "scene": [
+      "柳",
+      "花"
+    ],
+    "season": []
+  },
+  "pu-sa-man-lü-wu-qiang-rao-qing-tai-yuan": {
+    "subject": [
+      "写景"
+    ],
+    "mood": [
+      "闲适"
+    ],
+    "scene": [
+      "花",
+      "鸟"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "pu-sa-man-yu-gu-tai-xia-qing-jiang-shui": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "悲愤",
+      "爱国",
+      "忧伤"
+    ],
+    "scene": [
+      "楼",
+      "江河",
+      "山川",
+      "鸟"
+    ],
+    "season": []
+  },
+  "qi-liao-yuan-shang-ma-ren-fu-can-zui": {
+    "subject": [
+      "羁旅"
+    ],
+    "mood": [
+      "离别",
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "柳",
+      "风",
+      "酒"
+    ],
+    "season": []
+  },
+  "qi-luo-xiang-zuo-leng-qi-hua": {
+    "subject": [
+      "咏物"
+    ],
+    "mood": [
+      "忧伤",
+      "思念"
+    ],
+    "scene": [
+      "雨",
+      "花",
+      "柳",
+      "鸟",
+      "舟",
+      "江河"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "qi-shi-wan-qiu-tian": {
+    "subject": [
+      "羁旅",
+      "咏怀"
+    ],
+    "mood": [
+      "思乡",
+      "忧伤",
+      "孤独"
+    ],
+    "scene": [
+      "雨",
+      "花",
+      "山川",
+      "江河",
+      "月亮",
+      "楼",
+      "灯",
+      "风"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "qi-tian-le-yan-bo-tao-ye-xi-ling-lu": {
+    "subject": [
+      "怀古",
+      "咏怀"
+    ],
+    "mood": [
+      "思念",
+      "忧伤",
+      "孤独"
+    ],
+    "scene": [
+      "江河",
+      "柳",
+      "鸟",
+      "舟",
+      "花",
+      "月亮",
+      "雨"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "qi-tian-le-yi-jin-yu-hen-gong-hun-duan": {
+    "subject": [
+      "咏物"
+    ],
+    "mood": [
+      "忧伤",
+      "孤独"
+    ],
+    "scene": [
+      "雨",
+      "柳"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "qi-tian-le-yu-lang-xian-zi-yin-chou-fu": {
+    "subject": [
+      "咏物",
+      "音乐"
+    ],
+    "mood": [
+      "忧伤",
+      "孤独"
+    ],
+    "scene": [
+      "雨",
+      "灯",
+      "月亮"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "qian-bei-huai-san-shou-er": {
+    "subject": [
+      "悼亡"
+    ],
+    "mood": [
+      "爱情",
+      "忧伤"
+    ],
+    "scene": [],
+    "season": []
+  },
+  "qian-bei-huai-san-shou-san": {
+    "subject": [
+      "悼亡"
+    ],
+    "mood": [
+      "爱情",
+      "忧伤",
+      "孤独"
+    ],
+    "scene": [],
+    "season": []
+  },
+  "qian-bei-huai-san-shou-yi": {
+    "subject": [
+      "悼亡"
+    ],
+    "mood": [
+      "爱情",
+      "忧伤"
+    ],
+    "scene": [],
+    "season": []
+  },
+  "qian-huai": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "忧伤",
+      "旷达"
+    ],
+    "scene": [
+      "江河",
+      "酒"
+    ],
+    "season": []
+  },
+  "qian-qiu-sui-shu-sheng-ti-jue": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "爱情",
+      "惜春",
+      "忧伤",
+      "坚贞"
+    ],
+    "scene": [
+      "花",
+      "雨",
+      "风",
+      "柳",
+      "月亮"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "qian-qiu-sui-yin-bie-guan-han-zhen": {
+    "subject": [
+      "羁旅",
+      "咏怀"
+    ],
+    "mood": [
+      "思乡",
+      "忧伤",
+      "孤独"
+    ],
+    "scene": [
+      "雁",
+      "楼",
+      "月亮",
+      "风",
+      "酒"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "qin-ge": {
+    "subject": [
+      "音乐",
+      "宴饮"
+    ],
+    "mood": [
+      "喜悦",
+      "离别"
+    ],
+    "scene": [
+      "酒",
+      "月亮",
+      "风",
+      "灯"
+    ],
+    "season": []
+  },
+  "qin-lou-yue-yi-qin-e-lou-yin-que": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "思念",
+      "孤独"
+    ],
+    "scene": [
+      "月亮",
+      "花",
+      "灯",
+      "风"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "qin-zhong-gan-qiu-ji-yuan-shang-ren": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "忧伤",
+      "怀才不遇"
+    ],
+    "scene": [
+      "风"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "qing-gong-chun-gao-yang-tai-shuang-jiang-chun-bo": {
+    "subject": [
+      "羁旅"
+    ],
+    "mood": [
+      "思乡",
+      "忧伤",
+      "旷达"
+    ],
+    "scene": [
+      "湖",
+      "舟",
+      "雨",
+      "鸟",
+      "花"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "qing-men-yin-hu-ma-si-feng": {
+    "subject": [
+      "羁旅"
+    ],
+    "mood": [
+      "思念",
+      "忧伤",
+      "孤独"
+    ],
+    "scene": [
+      "雪",
+      "风",
+      "山川",
+      "灯",
+      "月亮"
+    ],
+    "season": [
+      "冬"
+    ]
+  },
+  "qing-men-yin-qing-men-yin-zha-nuan-hai-qing-leng": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "惜春",
+      "孤独",
+      "忧伤"
+    ],
+    "scene": [
+      "雨",
+      "风",
+      "花",
+      "楼",
+      "月亮"
+    ],
+    "season": [
+      "清明",
+      "春"
+    ]
+  },
+  "qing-ming-ri-yan-mei-dao-shi-fang": {
+    "subject": [
+      "宴饮",
+      "游仙"
+    ],
+    "mood": [
+      "闲适",
+      "喜悦"
+    ],
+    "scene": [
+      "花",
+      "鸟",
+      "酒"
+    ],
+    "season": [
+      "清明",
+      "春"
+    ]
+  },
+  "qing-ping-diao-er": {
+    "subject": [
+      "咏物"
+    ],
+    "mood": [
+      "赞美"
+    ],
+    "scene": [
+      "花",
+      "雨"
+    ],
+    "season": []
+  },
+  "qing-ping-diao-san": {
+    "subject": [
+      "咏物"
+    ],
+    "mood": [
+      "赞美"
+    ],
+    "scene": [
+      "花",
+      "风",
+      "楼"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "qing-ping-diao-yi": {
+    "subject": [
+      "咏物"
+    ],
+    "mood": [
+      "赞美",
+      "爱情"
+    ],
+    "scene": [
+      "花",
+      "风",
+      "月亮"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "qing-ping-le-hong-jian-xiao-zi": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "雁",
+      "楼",
+      "山川",
+      "江河"
+    ],
+    "season": []
+  },
+  "qing-ping-le-jin-feng-xi-xi": {
+    "subject": [
+      "写景"
+    ],
+    "mood": [
+      "闲适",
+      "忧伤"
+    ],
+    "scene": [
+      "风",
+      "花",
+      "鸟",
+      "楼"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "qing-ping-le-liu-chun-bu-zhu": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "惜春",
+      "忧伤"
+    ],
+    "scene": [
+      "花",
+      "雨",
+      "鸟"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "qing-ping-le-liu-chun-bu-zhu-2": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "惜春",
+      "忧伤"
+    ],
+    "scene": [
+      "花",
+      "雨",
+      "鸟"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "qing-ping-le-liu-ren-bu-zhu": {
+    "subject": [
+      "送别"
+    ],
+    "mood": [
+      "离别",
+      "忧伤"
+    ],
+    "scene": [
+      "舟",
+      "柳",
+      "楼"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "qing-xi": {
+    "subject": [
+      "写景",
+      "咏怀"
+    ],
+    "mood": [
+      "闲适"
+    ],
+    "scene": [
+      "山川",
+      "江河"
+    ],
+    "season": []
+  },
+  "qing-yu-an-dong-feng-ye-fang-hua-qian-shu": {
+    "subject": [
+      "写景",
+      "咏怀"
+    ],
+    "mood": [
+      "爱情",
+      "喜悦"
+    ],
+    "scene": [
+      "花",
+      "灯",
+      "雨"
+    ],
+    "season": [
+      "元宵"
+    ]
+  },
+  "qing-yu-an-nian-nian-she-ri-ting-zhen-xian": {
+    "subject": [
+      "羁旅"
+    ],
+    "mood": [
+      "思乡",
+      "孤独",
+      "忧伤"
+    ],
+    "scene": [
+      "花",
+      "鸟",
+      "酒"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "qing-yu-an-san-nian-zhen-shang-wu-zhong-lu": {
+    "subject": [
+      "送别"
+    ],
+    "mood": [
+      "思乡",
+      "友情",
+      "闲适"
+    ],
+    "scene": [
+      "湖",
+      "鸟",
+      "雨",
+      "花"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "qing-yu-an-yi-nian-chun-shi-dou-lai-ji": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "思乡",
+      "忧伤",
+      "惜春"
+    ],
+    "scene": [
+      "花",
+      "柳",
+      "风",
+      "酒",
+      "楼"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "qiu-deng-lan-shan-ji-zhang-wu": {
+    "subject": [
+      "写景",
+      "田园"
+    ],
+    "mood": [
+      "友情",
+      "闲适"
+    ],
+    "scene": [
+      "山川",
+      "江河",
+      "舟",
+      "鸟",
+      "酒",
+      "月亮"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "qiu-ji-jiang-shui-cang-cang": {
+    "subject": [
+      "羁旅",
+      "咏怀"
+    ],
+    "mood": [
+      "思乡",
+      "忧伤",
+      "孤独"
+    ],
+    "scene": [
+      "江河",
+      "柳",
+      "花",
+      "雁",
+      "风",
+      "灯"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "qiu-ri-deng-wu-gong-tai-shang-si-yuan-tiao-si-ji-chen-jiang-wu-ming-che-zhan-chang": {
+    "subject": [
+      "怀古",
+      "写景"
+    ],
+    "mood": [
+      "思乡",
+      "忧伤"
+    ],
+    "scene": [
+      "山川",
+      "江河"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "qiu-ri-fu-que-ti-tong-guan-yi-lou": {
+    "subject": [
+      "羁旅",
+      "写景"
+    ],
+    "mood": [
+      "闲适"
+    ],
+    "scene": [
+      "酒",
+      "雨",
+      "山川",
+      "江河"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "qiu-xi": {
+    "subject": [
+      "闺怨",
+      "写景"
+    ],
+    "mood": [
+      "孤独"
+    ],
+    "scene": [
+      "灯"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "qiu-ye-ji-qiu-er-shi-er-yuan-wai": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "思念",
+      "孤独"
+    ],
+    "scene": [
+      "山川"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "qiu-ye-qu": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "孤独",
+      "思念"
+    ],
+    "scene": [
+      "月亮"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "qu-you-chun-chu-yuan-dong-feng-wai": {
+    "subject": [
+      "叙事",
+      "写景"
+    ],
+    "mood": [
+      "喜悦",
+      "闲适"
+    ],
+    "scene": [
+      "湖",
+      "花",
+      "柳",
+      "舟",
+      "月亮"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "qu-yu-guan-long-shou-yun-fei": {
+    "subject": [
+      "羁旅"
+    ],
+    "mood": [
+      "思乡",
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "山川",
+      "江河",
+      "雁",
+      "楼"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "que-ti": {
+    "subject": [
+      "写景",
+      "田园"
+    ],
+    "mood": [
+      "闲适"
+    ],
+    "scene": [
+      "山川",
+      "花",
+      "柳",
+      "江河"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "ren-nan-du-gan-huang-en-lan-zhi-man-fang-zhou": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "爱情",
+      "离别",
+      "忧伤"
+    ],
+    "scene": [
+      "花",
+      "雨",
+      "柳",
+      "风"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "ruan-lang-gui-jiu-xiang-can-fen-si-dang-chu": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "思念",
+      "忧伤",
+      "孤独"
+    ],
+    "scene": [
+      "酒"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "ruan-lang-gui-tian-bian-jin-zhang-lu-cheng-shuang": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "思乡",
+      "忧伤",
+      "旷达"
+    ],
+    "scene": [
+      "雁",
+      "花",
+      "酒"
+    ],
+    "season": [
+      "重阳",
+      "秋"
+    ]
+  },
+  "ruan-lang-gui-xiang-tian-feng-yu-po-han-chu": {
+    "subject": [
+      "羁旅"
+    ],
+    "mood": [
+      "思乡",
+      "孤独",
+      "忧伤"
+    ],
+    "scene": [
+      "雨",
+      "风",
+      "雁"
+    ],
+    "season": [
+      "冬"
+    ]
+  },
+  "rui-he-xian-gan-yan-mi-yan-ji": {
+    "subject": [
+      "羁旅",
+      "咏怀"
+    ],
+    "mood": [
+      "思乡",
+      "孤独",
+      "忧伤"
+    ],
+    "scene": [
+      "雁",
+      "灯",
+      "月亮",
+      "花"
+    ],
+    "season": []
+  },
+  "rui-he-xian-jiao-yuan-chu-guo-yu": {
+    "subject": [
+      "羁旅"
+    ],
+    "mood": [
+      "思念",
+      "忧伤",
+      "孤独"
+    ],
+    "scene": [
+      "雨",
+      "山川",
+      "花",
+      "江河"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "rui-he-xian-lian-xia-hong-yin-zhen": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "思念",
+      "忧伤",
+      "孤独"
+    ],
+    "scene": [
+      "灯",
+      "月亮",
+      "雨",
+      "鸟"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "rui-he-xian-qiao-jiao-yuan-dai-guo": {
+    "subject": [
+      "送别"
+    ],
+    "mood": [
+      "离别",
+      "忧伤"
+    ],
+    "scene": [
+      "山川",
+      "楼",
+      "花",
+      "鸟",
+      "风"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "rui-he-xian-qing-si-qian-xu-luan": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "思念",
+      "忧伤",
+      "孤独"
+    ],
+    "scene": [
+      "江河",
+      "花",
+      "柳",
+      "楼",
+      "月亮",
+      "灯"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "rui-he-xian-shi-yun-nian-yan-ying": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "思念",
+      "离别",
+      "忧伤"
+    ],
+    "scene": [
+      "雁",
+      "雨",
+      "花",
+      "鸟",
+      "灯"
+    ],
+    "season": []
+  },
+  "rui-long-yin-zhang-tai-lu": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "花",
+      "鸟",
+      "柳",
+      "雨",
+      "风"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "sai-xia-qu-si-shou-er": {
+    "subject": [
+      "边塞"
+    ],
+    "mood": [
+      "悲愤",
+      "忧伤"
+    ],
+    "scene": [
+      "江河",
+      "风"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "sai-xia-qu-si-shou-yi": {
+    "subject": [
+      "边塞"
+    ],
+    "mood": [
+      "悲愤"
+    ],
+    "scene": [],
+    "season": [
+      "秋"
+    ]
+  },
+  "san-shu-mei-hu-shan-jing-zui-guan": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "忧伤",
+      "孤独"
+    ],
+    "scene": [
+      "湖",
+      "楼",
+      "花",
+      "鸟",
+      "柳"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "san-shu-mei-yan-guang-yao-piao-wa": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "花",
+      "柳",
+      "楼",
+      "灯",
+      "风"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "san-tai-jian-li-hua-chu-dai-ye-yue": {
+    "subject": [
+      "写景"
+    ],
+    "mood": [
+      "喜悦",
+      "赞美"
+    ],
+    "scene": [
+      "花",
+      "柳",
+      "雨",
+      "鸟"
+    ],
+    "season": [
+      "清明",
+      "春"
+    ]
+  },
+  "shan-ju-qiu-ming": {
+    "subject": [
+      "写景",
+      "田园"
+    ],
+    "mood": [
+      "闲适"
+    ],
+    "scene": [
+      "山川",
+      "月亮",
+      "雨",
+      "舟"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "shan-shi": {
+    "subject": [
+      "写景",
+      "叙事",
+      "咏怀"
+    ],
+    "mood": [
+      "闲适",
+      "旷达"
+    ],
+    "scene": [
+      "山川",
+      "雨",
+      "月亮",
+      "花",
+      "风"
+    ],
+    "season": []
+  },
+  "shao-nian-you-chang-an-gu-dao-ma-chi-chi": {
+    "subject": [
+      "羁旅",
+      "咏怀"
+    ],
+    "mood": [
+      "忧伤",
+      "孤独",
+      "惜时"
+    ],
+    "scene": [
+      "柳",
+      "鸟",
+      "山川",
+      "风"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "sheng-cha-zi-fan-deng-duo-ji-hua": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "忧伤",
+      "惜时"
+    ],
+    "scene": [
+      "灯",
+      "楼",
+      "月亮"
+    ],
+    "season": [
+      "元宵"
+    ]
+  },
+  "sheng-cha-zi-guan-shan-hun-meng-chang": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "思念",
+      "离别",
+      "忧伤"
+    ],
+    "scene": [
+      "山川",
+      "雁"
+    ],
+    "season": []
+  },
+  "sheng-cha-zi-guan-shan-hun-meng-chang-2": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "思念",
+      "离别",
+      "忧伤"
+    ],
+    "scene": [
+      "山川",
+      "雁"
+    ],
+    "season": []
+  },
+  "sheng-sheng-man-xun-xun-mi-mi": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "孤独",
+      "忧伤"
+    ],
+    "scene": [
+      "雁",
+      "花",
+      "雨",
+      "酒",
+      "风"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "shi-gu-ge": {
+    "subject": [
+      "咏物",
+      "叙事",
+      "怀古"
+    ],
+    "mood": [
+      "赞美",
+      "忧伤"
+    ],
+    "scene": [],
+    "season": []
+  },
+  "shi-yu-hu-shang-zui-ge": {
+    "subject": [
+      "宴饮",
+      "写景"
+    ],
+    "mood": [
+      "豪迈",
+      "旷达"
+    ],
+    "scene": [
+      "湖",
+      "山川",
+      "风",
+      "酒"
+    ],
+    "season": [
+      "夏"
+    ]
+  },
+  "shi-zhou-man-han-shui-yi-hen": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "离别",
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "花",
+      "山川",
+      "楼",
+      "风"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "shi-zhou-yin-shi-zhou-man-bao-yu-chu-han": {
+    "subject": [
+      "送别"
+    ],
+    "mood": [
+      "离别",
+      "忧伤",
+      "思乡"
+    ],
+    "scene": [
+      "雨",
+      "柳",
+      "鸟",
+      "雪",
+      "楼",
+      "酒",
+      "花"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "shu-bian-shi": {
+    "subject": [
+      "边塞"
+    ],
+    "mood": [
+      "思乡",
+      "忧伤"
+    ],
+    "scene": [
+      "楼",
+      "花",
+      "江河"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "shu-dao-nan": {
+    "subject": [
+      "写景",
+      "咏怀"
+    ],
+    "mood": [
+      "豪迈"
+    ],
+    "scene": [
+      "山川",
+      "鸟",
+      "月亮",
+      "江河"
+    ],
+    "season": []
+  },
+  "shu-xian-zhu-miao": {
+    "subject": [
+      "怀古"
+    ],
+    "mood": [
+      "赞美",
+      "忧伤"
+    ],
+    "scene": [],
+    "season": []
+  },
+  "shu-xiang": {
+    "subject": [
+      "怀古"
+    ],
+    "mood": [
+      "赞美",
+      "忧伤",
+      "爱国"
+    ],
+    "scene": [
+      "花",
+      "鸟"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "shu-ying-tai-zhi-zhui-yu": {
+    "subject": [
+      "咏物"
+    ],
+    "mood": [
+      "赞美",
+      "忧伤",
+      "孤独"
+    ],
+    "scene": [
+      "花",
+      "鸟",
+      "月亮",
+      "雪"
+    ],
+    "season": [
+      "冬"
+    ]
+  },
+  "shuang-shuang-yan-guo-chun-she-le": {
+    "subject": [
+      "咏物"
+    ],
+    "mood": [
+      "赞美",
+      "忧伤"
+    ],
+    "scene": [
+      "花",
+      "雨",
+      "柳",
+      "楼",
+      "鸟"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "shuang-tian-xiao-jiao-wan-qing-feng-xie": {
+    "subject": [
+      "咏物"
+    ],
+    "mood": [
+      "孤独",
+      "忧伤"
+    ],
+    "scene": [
+      "花",
+      "雁",
+      "楼",
+      "月亮"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "shuang-ye-fei-duan-yan-li-xu": {
+    "subject": [
+      "咏怀",
+      "怀古"
+    ],
+    "mood": [
+      "忧伤",
+      "孤独"
+    ],
+    "scene": [
+      "花",
+      "雨",
+      "风",
+      "雁"
+    ],
+    "season": [
+      "重阳",
+      "秋"
+    ]
+  },
+  "shui-diao-ge-tou-ming-yue-ji-shi-you": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "思念",
+      "旷达"
+    ],
+    "scene": [
+      "月亮",
+      "酒",
+      "楼"
+    ],
+    "season": [
+      "中秋"
+    ]
+  },
+  "shui-long-yin-chu-tian-qian-li-qing-qiu": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "悲愤",
+      "爱国",
+      "怀才不遇"
+    ],
+    "scene": [
+      "山川",
+      "楼",
+      "雁",
+      "风",
+      "雨"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "shui-long-yin-nao-hua-shen-chu-ceng-lou": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "忧伤",
+      "惜春"
+    ],
+    "scene": [
+      "花",
+      "柳",
+      "楼",
+      "雁",
+      "雨",
+      "月亮",
+      "鸟"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "shui-long-yin-si-hua-hai-si-fei-hua": {
+    "subject": [
+      "咏物"
+    ],
+    "mood": [
+      "忧伤",
+      "离别"
+    ],
+    "scene": [
+      "花",
+      "雨",
+      "风",
+      "鸟"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "shui-long-yin-wen-chun-he-ku-cong-cong": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "惜春",
+      "忧伤",
+      "旷达"
+    ],
+    "scene": [
+      "雨",
+      "风",
+      "花",
+      "柳"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "shui-long-yin-ye-lai-feng-yu-cong-cong": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "惜春",
+      "忧伤",
+      "惜时"
+    ],
+    "scene": [
+      "雨",
+      "风",
+      "花",
+      "湖",
+      "月亮"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "si-yuan-ren-hong-ye-huang-hua-qiu-yi-wan": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "花",
+      "雁"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "song-bie": {
+    "subject": [
+      "送别"
+    ],
+    "mood": [
+      "友情",
+      "离别",
+      "旷达"
+    ],
+    "scene": [
+      "酒",
+      "山川"
+    ],
+    "season": []
+  },
+  "song-bie-2": {
+    "subject": [
+      "送别"
+    ],
+    "mood": [
+      "离别",
+      "友情",
+      "思念"
+    ],
+    "scene": [
+      "山川"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "song-chen-zhang-fu": {
+    "subject": [
+      "送别"
+    ],
+    "mood": [
+      "友情",
+      "豪迈",
+      "怀才不遇"
+    ],
+    "scene": [
+      "花",
+      "酒",
+      "风",
+      "舟",
+      "江河"
+    ],
+    "season": [
+      "夏"
+    ]
+  },
+  "song-fang-wai-shang-ren": {
+    "subject": [
+      "送别"
+    ],
+    "mood": [
+      "旷达",
+      "友情"
+    ],
+    "scene": [
+      "鸟",
+      "山川"
+    ],
+    "season": []
+  },
+  "song-gu-san-shi-er-shou-qi-er-san": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "鸟"
+    ],
+    "season": []
+  },
+  "song-li-duan": {
+    "subject": [
+      "送别"
+    ],
+    "mood": [
+      "离别",
+      "友情",
+      "忧伤"
+    ],
+    "scene": [
+      "雪",
+      "风"
+    ],
+    "season": [
+      "冬"
+    ]
+  },
+  "song-li-shao-fu-bian-xia-zhong-wang-shao-fu-bian-chang-sha": {
+    "subject": [
+      "送别"
+    ],
+    "mood": [
+      "友情",
+      "离别",
+      "忧伤"
+    ],
+    "scene": [
+      "雁",
+      "山川",
+      "江河"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "song-ling-che-shang-ren": {
+    "subject": [
+      "送别",
+      "写景"
+    ],
+    "mood": [
+      "友情",
+      "闲适"
+    ],
+    "scene": [
+      "山川"
+    ],
+    "season": []
+  },
+  "song-qi-wu-qian-luo-di-huan-xiang": {
+    "subject": [
+      "送别"
+    ],
+    "mood": [
+      "友情",
+      "离别",
+      "怀才不遇"
+    ],
+    "scene": [
+      "酒",
+      "江河"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "song-ren-dong-you": {
+    "subject": [
+      "送别"
+    ],
+    "mood": [
+      "友情",
+      "离别",
+      "旷达"
+    ],
+    "scene": [
+      "风",
+      "山川",
+      "江河",
+      "舟",
+      "酒"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "song-seng-gui-ri-ben": {
+    "subject": [
+      "送别"
+    ],
+    "mood": [
+      "友情",
+      "旷达"
+    ],
+    "scene": [
+      "湖",
+      "月亮",
+      "灯"
+    ],
+    "season": []
+  },
+  "song-wei-wan-zhi-jing": {
+    "subject": [
+      "送别"
+    ],
+    "mood": [
+      "友情",
+      "离别",
+      "惜时"
+    ],
+    "scene": [
+      "雁",
+      "山川",
+      "风"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "song-yang-shi-nü": {
+    "subject": [
+      "送别",
+      "叙事"
+    ],
+    "mood": [
+      "亲情",
+      "离别",
+      "忧伤"
+    ],
+    "scene": [
+      "江河",
+      "舟"
+    ],
+    "season": []
+  },
+  "song-you-ren": {
+    "subject": [
+      "送别"
+    ],
+    "mood": [
+      "友情",
+      "离别"
+    ],
+    "scene": [
+      "山川",
+      "江河",
+      "风",
+      "鸟"
+    ],
+    "season": []
+  },
+  "song-zi-zhou-li-shi-jun": {
+    "subject": [
+      "送别"
+    ],
+    "mood": [
+      "友情"
+    ],
+    "scene": [
+      "山川",
+      "雨",
+      "鸟"
+    ],
+    "season": []
+  },
+  "su-fu": {
+    "subject": [
+      "羁旅"
+    ],
+    "mood": [
+      "孤独",
+      "忧伤"
+    ],
+    "scene": [
+      "灯",
+      "月亮",
+      "风"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "su-jian-de-jiang": {
+    "subject": [
+      "羁旅",
+      "写景"
+    ],
+    "mood": [
+      "思乡",
+      "孤独",
+      "忧伤"
+    ],
+    "scene": [
+      "舟",
+      "江河",
+      "月亮"
+    ],
+    "season": []
+  },
+  "su-mu-zhe-bi-yun-tian": {
+    "subject": [
+      "羁旅"
+    ],
+    "mood": [
+      "思乡",
+      "忧伤"
+    ],
+    "scene": [
+      "花",
+      "山川",
+      "江河",
+      "月亮",
+      "楼",
+      "酒"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "su-tong-lu-jiang-ji-guang-ling-jiu-you": {
+    "subject": [
+      "羁旅",
+      "写景"
+    ],
+    "mood": [
+      "思乡",
+      "孤独",
+      "忧伤"
+    ],
+    "scene": [
+      "山川",
+      "江河",
+      "风",
+      "月亮",
+      "舟"
+    ],
+    "season": []
+  },
+  "su-wang-chang-ling-yin-ju": {
+    "subject": [
+      "写景",
+      "咏怀"
+    ],
+    "mood": [
+      "闲适",
+      "孤独"
+    ],
+    "scene": [
+      "山川",
+      "月亮",
+      "花",
+      "鸟"
+    ],
+    "season": []
+  },
+  "su-wu-man-yan-luo-ping-sha": {
+    "subject": [
+      "羁旅"
+    ],
+    "mood": [
+      "思乡",
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "雁",
+      "江河",
+      "山川",
+      "鸟",
+      "楼",
+      "舟",
+      "酒",
+      "风"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "su-wu-miao": {
+    "subject": [
+      "怀古"
+    ],
+    "mood": [
+      "忧伤",
+      "赞美",
+      "爱国"
+    ],
+    "scene": [
+      "雁",
+      "月亮",
+      "楼",
+      "山川"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "su-ye-shi-shan-fang-qi-ding-da-bu-zhi": {
+    "subject": [
+      "写景",
+      "叙事"
+    ],
+    "mood": [
+      "闲适",
+      "孤独"
+    ],
+    "scene": [
+      "月亮",
+      "风",
+      "山川",
+      "鸟"
+    ],
+    "season": []
+  },
+  "su-zhong-qing-qing-chen-lian-mu-juan-qing-shuang": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "离别",
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "花"
+    ],
+    "season": [
+      "冬"
+    ]
+  },
+  "sui-chu-ye-you-huai": {
+    "subject": [
+      "羁旅"
+    ],
+    "mood": [
+      "思乡",
+      "孤独",
+      "忧伤"
+    ],
+    "scene": [
+      "山川",
+      "雪",
+      "灯"
+    ],
+    "season": [
+      "冬"
+    ]
+  },
+  "sui-gong": {
+    "subject": [
+      "怀古",
+      "讽喻"
+    ],
+    "mood": [
+      "忧伤"
+    ],
+    "scene": [
+      "柳",
+      "鸟"
+    ],
+    "season": []
+  },
+  "sui-gong-2": {
+    "subject": [
+      "怀古",
+      "讽喻"
+    ],
+    "mood": [
+      "忧伤"
+    ],
+    "scene": [],
+    "season": []
+  },
+  "sui-mu-gui-nan-shan": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "怀才不遇",
+      "忧伤",
+      "孤独"
+    ],
+    "scene": [
+      "山川",
+      "月亮"
+    ],
+    "season": [
+      "冬"
+    ]
+  },
+  "suo-chuang-han-suo-han-chuang-an-liu-ti-ya": {
+    "subject": [
+      "羁旅"
+    ],
+    "mood": [
+      "思乡",
+      "忧伤",
+      "孤独"
+    ],
+    "scene": [
+      "柳",
+      "鸟",
+      "花",
+      "雨",
+      "灯",
+      "酒"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "ta-sha-hang-qing-si-you-si": {
+    "subject": [
+      "送别"
+    ],
+    "mood": [
+      "离别",
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "柳",
+      "舟",
+      "雁"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "ta-sha-xing-hou-guan-mei-can": {
+    "subject": [
+      "送别"
+    ],
+    "mood": [
+      "离别",
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "花",
+      "柳",
+      "风",
+      "楼",
+      "山川",
+      "江河"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "ta-sha-xing-ta-sha-xing-run-yu-long-xiao": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "花",
+      "雨",
+      "风"
+    ],
+    "season": [
+      "夏"
+    ]
+  },
+  "ta-sha-xing-xiao-jing-hong-xi": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "惜春",
+      "忧伤"
+    ],
+    "scene": [
+      "花",
+      "柳",
+      "鸟",
+      "风"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "ta-sha-xing-yan-yan-qing-ying": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "爱情",
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "山川",
+      "月亮"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "ta-sha-xing-zu-xi-li-ge": {
+    "subject": [
+      "送别"
+    ],
+    "mood": [
+      "离别",
+      "忧伤"
+    ],
+    "scene": [
+      "楼",
+      "山川",
+      "舟"
+    ],
+    "season": []
+  },
+  "tai-cheng": {
+    "subject": [
+      "怀古",
+      "写景"
+    ],
+    "mood": [
+      "忧伤"
+    ],
+    "scene": [
+      "雨",
+      "柳",
+      "鸟",
+      "江河"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "tang-duo-ling-he-chu-he-cheng-chou": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "离别",
+      "忧伤",
+      "思乡"
+    ],
+    "scene": [
+      "花",
+      "柳",
+      "舟",
+      "楼",
+      "月亮"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "tang-duo-ling-tang-duo-ling-lu-ye-man-ting-zhou": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "忧伤",
+      "惜时"
+    ],
+    "scene": [
+      "花",
+      "舟",
+      "楼",
+      "柳",
+      "月亮",
+      "酒"
+    ],
+    "season": [
+      "中秋",
+      "秋"
+    ]
+  },
+  "tao-hua-xi": {
+    "subject": [
+      "写景",
+      "咏怀"
+    ],
+    "mood": [
+      "闲适"
+    ],
+    "scene": [
+      "花",
+      "江河",
+      "舟",
+      "山川"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "tao-yuan-xing": {
+    "subject": [
+      "叙事",
+      "游仙"
+    ],
+    "mood": [
+      "闲适"
+    ],
+    "scene": [
+      "花",
+      "山川",
+      "江河",
+      "月亮"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "ti-da-yu-ling-bei-yi": {
+    "subject": [
+      "羁旅"
+    ],
+    "mood": [
+      "思乡",
+      "忧伤"
+    ],
+    "scene": [
+      "雁",
+      "江河",
+      "山川",
+      "花"
+    ],
+    "season": [
+      "冬"
+    ]
+  },
+  "ti-jin-ling-du": {
+    "subject": [
+      "羁旅",
+      "写景"
+    ],
+    "mood": [
+      "思乡",
+      "忧伤"
+    ],
+    "scene": [
+      "楼",
+      "江河",
+      "月亮",
+      "灯"
+    ],
+    "season": []
+  },
+  "tian-men-yao-niu-zhu-tian-men-xian": {
+    "subject": [
+      "怀古",
+      "写景"
+    ],
+    "mood": [
+      "豪迈",
+      "旷达"
+    ],
+    "scene": [
+      "江河",
+      "山川",
+      "月亮",
+      "风"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "tian-mo-yi-li-bai": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "思念",
+      "友情",
+      "忧伤",
+      "悲愤"
+    ],
+    "scene": [
+      "风",
+      "雁",
+      "江河",
+      "湖"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "tian-xian-zi-shui-tiao-shu-sheng-chi-jiu-ting": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "惜春",
+      "忧伤",
+      "惜时"
+    ],
+    "scene": [
+      "花",
+      "月亮",
+      "灯",
+      "鸟"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "tian-xiang-gu-qiao-pan-yan": {
+    "subject": [
+      "咏物"
+    ],
+    "mood": [
+      "忧伤",
+      "思念"
+    ],
+    "scene": [
+      "灯",
+      "雪"
+    ],
+    "season": [
+      "冬"
+    ]
+  },
+  "ting-an-wan-shan-chui-bi-li-ge": {
+    "subject": [
+      "音乐"
+    ],
+    "mood": [
+      "思乡",
+      "忧伤"
+    ],
+    "scene": [
+      "风",
+      "花",
+      "灯",
+      "酒"
+    ],
+    "season": [
+      "冬"
+    ]
+  },
+  "ting-dong-da-tan-hu-jia-sheng-jian-ji-yu-nong-fang-gei-shi": {
+    "subject": [
+      "音乐"
+    ],
+    "mood": [
+      "忧伤",
+      "悲愤"
+    ],
+    "scene": [
+      "雪",
+      "鸟",
+      "风",
+      "雨"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "ting-shu-seng-jun-tan-qin": {
+    "subject": [
+      "音乐",
+      "写景"
+    ],
+    "mood": [
+      "闲适"
+    ],
+    "scene": [
+      "山川",
+      "风"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "ting-tan-qin": {
+    "subject": [
+      "音乐",
+      "咏怀"
+    ],
+    "mood": [
+      "孤独"
+    ],
+    "scene": [
+      "风"
+    ],
+    "season": []
+  },
+  "ting-zheng": {
+    "subject": [
+      "音乐",
+      "闺怨"
+    ],
+    "mood": [
+      "爱情",
+      "思念"
+    ],
+    "scene": [],
+    "season": []
+  },
+  "tong-cong-di-xiao-nan-zhai-wan-yue-yi-shan-yin-cui-shao-fu": {
+    "subject": [
+      "写景"
+    ],
+    "mood": [
+      "思念",
+      "友情",
+      "孤独"
+    ],
+    "scene": [
+      "月亮",
+      "江河",
+      "风"
+    ],
+    "season": []
+  },
+  "tong-ti-xian-you-guan": {
+    "subject": [
+      "写景",
+      "游仙"
+    ],
+    "mood": [
+      "闲适"
+    ],
+    "scene": [
+      "楼",
+      "雨",
+      "山川",
+      "花"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "wan-ci-e-zhou": {
+    "subject": [
+      "羁旅",
+      "咏怀"
+    ],
+    "mood": [
+      "思乡",
+      "忧伤",
+      "悲愤"
+    ],
+    "scene": [
+      "江河",
+      "舟",
+      "月亮"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "wang-chuan-ji-lu-chai": {
+    "subject": [
+      "写景"
+    ],
+    "mood": [
+      "闲适"
+    ],
+    "scene": [
+      "山川"
+    ],
+    "season": []
+  },
+  "wang-chuan-ji-zhu-li-guan": {
+    "subject": [
+      "写景",
+      "音乐"
+    ],
+    "mood": [
+      "闲适",
+      "孤独"
+    ],
+    "scene": [
+      "月亮"
+    ],
+    "season": []
+  },
+  "wang-chuan-xian-ju-zeng-pei-xiu-cai-di": {
+    "subject": [
+      "写景",
+      "田园"
+    ],
+    "mood": [
+      "闲适",
+      "友情"
+    ],
+    "scene": [
+      "山川",
+      "江河",
+      "风",
+      "柳"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "wang-dong-ting-hu-zeng-zhang-cheng-xiang": {
+    "subject": [
+      "写景",
+      "咏怀"
+    ],
+    "mood": [
+      "豪迈",
+      "怀才不遇"
+    ],
+    "scene": [
+      "湖",
+      "江河",
+      "风"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "wang-hai-chao-mei-ying-shu-dan": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "思乡",
+      "忧伤",
+      "惜时"
+    ],
+    "scene": [
+      "花",
+      "柳",
+      "楼",
+      "灯",
+      "鸟",
+      "酒"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "wang-ji-men": {
+    "subject": [
+      "边塞"
+    ],
+    "mood": [
+      "豪迈",
+      "爱国"
+    ],
+    "scene": [
+      "雪",
+      "山川",
+      "月亮"
+    ],
+    "season": [
+      "冬"
+    ]
+  },
+  "wang-xiang-ren-yan-ying-sheng-dao-zhen": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "思念",
+      "忧伤",
+      "惜春"
+    ],
+    "scene": [
+      "花",
+      "鸟",
+      "雨",
+      "舟"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "wang-yue": {
+    "subject": [
+      "写景",
+      "咏怀"
+    ],
+    "mood": [
+      "豪迈",
+      "赞美"
+    ],
+    "scene": [
+      "山川",
+      "鸟"
+    ],
+    "season": []
+  },
+  "wang-yue-huai-yuan": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "思念",
+      "爱情",
+      "孤独"
+    ],
+    "scene": [
+      "月亮",
+      "湖"
+    ],
+    "season": []
+  },
+  "wei-cheng-qu": {
+    "subject": [
+      "送别"
+    ],
+    "mood": [
+      "友情",
+      "离别"
+    ],
+    "scene": [
+      "柳",
+      "酒",
+      "雨"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "wei-chi-bei-sui-di-lu": {
+    "subject": [
+      "送别",
+      "羁旅"
+    ],
+    "mood": [
+      "离别",
+      "思念",
+      "孤独"
+    ],
+    "scene": [
+      "柳",
+      "舟",
+      "月亮",
+      "酒"
+    ],
+    "season": []
+  },
+  "wei-chuan-tian-jia": {
+    "subject": [
+      "田园",
+      "写景"
+    ],
+    "mood": [
+      "闲适"
+    ],
+    "scene": [
+      "鸟"
+    ],
+    "season": []
+  },
+  "wei-feng-lu-shi-zhai-guan-cao-jiang-jun-hua-ma-tu": {
+    "subject": [
+      "题画",
+      "咏物"
+    ],
+    "mood": [
+      "赞美",
+      "忧伤"
+    ],
+    "scene": [
+      "雪",
+      "风"
+    ],
+    "season": []
+  },
+  "wei-you": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "爱情",
+      "忧伤"
+    ],
+    "scene": [],
+    "season": []
+  },
+  "wen-guan-jun-shou-he-nan-he-bei": {
+    "subject": [
+      "叙事",
+      "咏怀"
+    ],
+    "mood": [
+      "喜悦",
+      "爱国",
+      "思乡"
+    ],
+    "scene": [
+      "江河",
+      "酒"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "wen-liu-shi-jiu": {
+    "subject": [
+      "宴饮"
+    ],
+    "mood": [
+      "友情",
+      "闲适"
+    ],
+    "scene": [
+      "酒",
+      "雪"
+    ],
+    "season": [
+      "冬"
+    ]
+  },
+  "wu-ti": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "爱情",
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "花",
+      "风",
+      "月亮",
+      "灯"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "wu-ti-er-shou-er": {
+    "subject": [
+      "闺怨",
+      "咏怀"
+    ],
+    "mood": [
+      "爱情",
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "月亮"
+    ],
+    "season": []
+  },
+  "wu-ti-er-shou-yi": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "爱情",
+      "思念"
+    ],
+    "scene": [
+      "楼",
+      "灯",
+      "酒",
+      "风"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "wu-ti-er-shou-yi-2": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "爱情",
+      "思念"
+    ],
+    "scene": [
+      "月亮",
+      "花"
+    ],
+    "season": []
+  },
+  "wu-ti-si-shou-er": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "爱情",
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "雨",
+      "风",
+      "花"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "wu-ti-si-shou-yi": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "爱情",
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "月亮",
+      "楼",
+      "灯"
+    ],
+    "season": []
+  },
+  "xi-ci-xu-yi-xian": {
+    "subject": [
+      "羁旅"
+    ],
+    "mood": [
+      "思乡",
+      "孤独",
+      "忧伤"
+    ],
+    "scene": [
+      "江河",
+      "舟",
+      "风",
+      "雁"
+    ],
+    "season": []
+  },
+  "xi-fen-fei-lei-shi-lan-gan-hua-zhu-lu": {
+    "subject": [
+      "送别"
+    ],
+    "mood": [
+      "爱情",
+      "离别",
+      "忧伤"
+    ],
+    "scene": [
+      "花",
+      "雨"
+    ],
+    "season": []
+  },
+  "xi-he-jia-li-di": {
+    "subject": [
+      "怀古"
+    ],
+    "mood": [
+      "忧伤"
+    ],
+    "scene": [
+      "江河",
+      "山川",
+      "月亮",
+      "鸟"
+    ],
+    "season": []
+  },
+  "xi-huang-hua-man-song-ke-wu-gao": {
+    "subject": [
+      "送别"
+    ],
+    "mood": [
+      "离别",
+      "忧伤"
+    ],
+    "scene": [
+      "柳",
+      "舟",
+      "雁"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "xi-jian-wai-di-you-yan-bie": {
+    "subject": [
+      "送别",
+      "叙事"
+    ],
+    "mood": [
+      "亲情",
+      "离别",
+      "忧伤"
+    ],
+    "scene": [
+      "山川"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "xi-ju": {
+    "subject": [
+      "田园",
+      "写景"
+    ],
+    "mood": [
+      "闲适",
+      "旷达"
+    ],
+    "scene": [
+      "山川",
+      "江河"
+    ],
+    "season": []
+  },
+  "xi-qian-ying-xiao-guang-cui-jiao": {
+    "subject": [
+      "羁旅"
+    ],
+    "mood": [
+      "思乡",
+      "孤独",
+      "忧伤"
+    ],
+    "scene": [
+      "月亮",
+      "酒",
+      "雁"
+    ],
+    "season": []
+  },
+  "xi-qian-ying-yue-bo-yi-di": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "忧伤",
+      "惜时"
+    ],
+    "scene": [
+      "月亮",
+      "灯",
+      "柳",
+      "花",
+      "雪"
+    ],
+    "season": [
+      "元宵"
+    ]
+  },
+  "xi-sai-shan-huai-gu": {
+    "subject": [
+      "怀古"
+    ],
+    "mood": [
+      "忧伤",
+      "旷达"
+    ],
+    "scene": [
+      "江河",
+      "山川"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "xi-shi-yong": {
+    "subject": [
+      "咏怀",
+      "讽喻"
+    ],
+    "mood": [],
+    "scene": [
+      "江河"
+    ],
+    "season": []
+  },
+  "xi-wai-di-lu-lun-jian-su": {
+    "subject": [
+      "叙事"
+    ],
+    "mood": [
+      "亲情",
+      "孤独",
+      "忧伤"
+    ],
+    "scene": [
+      "雨",
+      "灯"
+    ],
+    "season": []
+  },
+  "xia-ri-nan-ting-huai-xin-da": {
+    "subject": [
+      "写景",
+      "咏怀"
+    ],
+    "mood": [
+      "闲适",
+      "孤独",
+      "思念"
+    ],
+    "scene": [
+      "月亮",
+      "风",
+      "花"
+    ],
+    "season": [
+      "夏"
+    ]
+  },
+  "xia-yun-feng-tian-kuo-yun-gao": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "惜春",
+      "忧伤",
+      "思念"
+    ],
+    "scene": [
+      "雨",
+      "花",
+      "鸟",
+      "楼"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "xia-zhong-nan-shan-guo-hu-si-shan-ren-su-zhi-jiu": {
+    "subject": [
+      "田园",
+      "宴饮"
+    ],
+    "mood": [
+      "闲适",
+      "友情",
+      "旷达"
+    ],
+    "scene": [
+      "山川",
+      "月亮",
+      "酒",
+      "风"
+    ],
+    "season": []
+  },
+  "xiang-chun-ye-yue-jin-qing-ming": {
+    "subject": [
+      "羁旅",
+      "咏怀"
+    ],
+    "mood": [
+      "思乡",
+      "忧伤",
+      "孤独"
+    ],
+    "scene": [
+      "花",
+      "柳",
+      "月亮",
+      "江河",
+      "楼",
+      "灯"
+    ],
+    "season": [
+      "清明",
+      "春"
+    ]
+  },
+  "xiang-si": {
+    "subject": [
+      "咏物"
+    ],
+    "mood": [
+      "爱情",
+      "思念"
+    ],
+    "scene": [],
+    "season": [
+      "秋"
+    ]
+  },
+  "xiao-chong-shan-liu-an-hua-ming-chun-shi-shen": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "惜春",
+      "忧伤",
+      "闲适"
+    ],
+    "scene": [
+      "花",
+      "柳",
+      "鸟",
+      "雨"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "xie-chi-chun-can-han-xiao-jin": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "思念",
+      "爱情",
+      "惜春"
+    ],
+    "scene": [
+      "雨",
+      "花",
+      "鸟",
+      "柳"
+    ],
+    "season": [
+      "清明",
+      "春"
+    ]
+  },
+  "xin-jia-niang-ci-san-shou-san": {
+    "subject": [
+      "叙事"
+    ],
+    "mood": [],
+    "scene": [],
+    "season": []
+  },
+  "xin-nian-zuo": {
+    "subject": [
+      "羁旅"
+    ],
+    "mood": [
+      "思乡",
+      "孤独",
+      "忧伤",
+      "怀才不遇"
+    ],
+    "scene": [
+      "江河",
+      "柳",
+      "风"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "xin-nian-zuo-2": {
+    "subject": [
+      "羁旅"
+    ],
+    "mood": [
+      "思乡",
+      "孤独",
+      "忧伤",
+      "怀才不遇"
+    ],
+    "scene": [
+      "江河",
+      "柳",
+      "风"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "xing-gong": {
+    "subject": [
+      "咏怀",
+      "怀古"
+    ],
+    "mood": [
+      "忧伤"
+    ],
+    "scene": [
+      "花",
+      "楼"
+    ],
+    "season": []
+  },
+  "xing-hua-tian-lü-si-di-fu-yuan-yang-pu": {
+    "subject": [
+      "送别"
+    ],
+    "mood": [
+      "离别",
+      "忧伤"
+    ],
+    "scene": [
+      "柳",
+      "江河",
+      "舟",
+      "花",
+      "鸟"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "xing-jing-hua-yin": {
+    "subject": [
+      "写景",
+      "咏怀"
+    ],
+    "mood": [
+      "旷达"
+    ],
+    "scene": [
+      "山川",
+      "雨"
+    ],
+    "season": []
+  },
+  "xing-lu-nan-san-shou-er": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "悲愤",
+      "怀才不遇"
+    ],
+    "scene": [
+      "鸟"
+    ],
+    "season": []
+  },
+  "xing-lu-nan-san-shou-san": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "旷达",
+      "悲愤",
+      "惜时"
+    ],
+    "scene": [
+      "风",
+      "酒"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "xing-lu-nan-san-shou-yi": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "悲愤",
+      "豪迈",
+      "怀才不遇"
+    ],
+    "scene": [
+      "酒",
+      "雪",
+      "山川",
+      "江河",
+      "舟",
+      "风"
+    ],
+    "season": []
+  },
+  "xiu-luan-feng-hua-fan-hua-fan-chu-jiang-mei": {
+    "subject": [
+      "咏物"
+    ],
+    "mood": [
+      "赞美",
+      "忧伤"
+    ],
+    "scene": [
+      "江河",
+      "花",
+      "风",
+      "月亮",
+      "灯"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "xuan-zhou-xie-tiao-lou-jian-bie-xiao-shu-shu-yun": {
+    "subject": [
+      "送别",
+      "咏怀"
+    ],
+    "mood": [
+      "悲愤",
+      "豪迈",
+      "怀才不遇"
+    ],
+    "scene": [
+      "楼",
+      "雁",
+      "风",
+      "酒",
+      "江河",
+      "舟",
+      "月亮"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "xun-lu-hong-jian-bu-yu": {
+    "subject": [
+      "叙事",
+      "写景"
+    ],
+    "mood": [
+      "闲适"
+    ],
+    "scene": [
+      "花",
+      "山川"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "xun-nan-xi-chang-shan-dao-ren-yin-ju": {
+    "subject": [
+      "写景",
+      "咏怀"
+    ],
+    "mood": [
+      "闲适"
+    ],
+    "scene": [
+      "山川",
+      "花",
+      "江河"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "xun-xi-shan-yin-zhe-bu-yu": {
+    "subject": [
+      "写景",
+      "叙事"
+    ],
+    "mood": [
+      "闲适",
+      "旷达"
+    ],
+    "scene": [
+      "山川",
+      "雨",
+      "风"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "xun-yin-zhe-bu-yu": {
+    "subject": [
+      "叙事",
+      "写景"
+    ],
+    "mood": [
+      "闲适"
+    ],
+    "scene": [
+      "山川"
+    ],
+    "season": []
+  },
+  "yan-er-mei-han-han-ri-jiao-zi-yan-fu": {
+    "subject": [
+      "写景"
+    ],
+    "mood": [
+      "闲适"
+    ],
+    "scene": [
+      "花",
+      "风"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "yan-ge-xing": {
+    "subject": [
+      "边塞"
+    ],
+    "mood": [
+      "悲愤",
+      "爱国",
+      "忧伤"
+    ],
+    "scene": [
+      "山川",
+      "雨",
+      "风",
+      "楼",
+      "月亮"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "yan-qing-dou-chun-xun-fei-qiong-guan": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "思念",
+      "忧伤",
+      "惜春"
+    ],
+    "scene": [
+      "鸟",
+      "花",
+      "雨",
+      "月亮",
+      "山川",
+      "雁"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "yan-qing-dou-xiu-wo-yuan-yang-zhu": {
+    "subject": [
+      "咏物"
+    ],
+    "mood": [
+      "爱情",
+      "忧伤"
+    ],
+    "scene": [
+      "花",
+      "灯"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "yan-shan-ting-cai-jian-bing-xiao": {
+    "subject": [
+      "咏物"
+    ],
+    "mood": [
+      "忧伤",
+      "思乡",
+      "悲愤"
+    ],
+    "scene": [
+      "花",
+      "雨",
+      "鸟"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "yan-shan-ting-yan-shan-ting-you-meng-chu-hui": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "思念",
+      "忧伤",
+      "孤独"
+    ],
+    "scene": [
+      "雨",
+      "花",
+      "楼"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "yang-zhou-man-huai-zuo-ming-dou": {
+    "subject": [
+      "怀古",
+      "咏怀"
+    ],
+    "mood": [
+      "忧伤",
+      "悲愤",
+      "爱国"
+    ],
+    "scene": [
+      "江河",
+      "花",
+      "月亮",
+      "楼",
+      "风"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "yao-chi": {
+    "subject": [
+      "怀古",
+      "游仙"
+    ],
+    "mood": [
+      "忧伤"
+    ],
+    "scene": [],
+    "season": []
+  },
+  "yao-hua-man-zhu-dian-bao": {
+    "subject": [
+      "咏物"
+    ],
+    "mood": [
+      "赞美",
+      "忧伤"
+    ],
+    "scene": [
+      "花",
+      "雪",
+      "月亮"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "yao-se-yuan": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "孤独",
+      "忧伤",
+      "思念"
+    ],
+    "scene": [
+      "雁",
+      "楼",
+      "月亮"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "ye-ban-le-dong-yun-an-dan-tian-qi": {
+    "subject": [
+      "羁旅",
+      "叙事"
+    ],
+    "mood": [
+      "思乡",
+      "忧伤",
+      "孤独"
+    ],
+    "scene": [
+      "舟",
+      "江河",
+      "山川",
+      "风",
+      "花",
+      "鸟"
+    ],
+    "season": [
+      "冬"
+    ]
+  },
+  "ye-bo-niu-zhu-huai-gu": {
+    "subject": [
+      "怀古",
+      "羁旅"
+    ],
+    "mood": [
+      "孤独",
+      "忧伤",
+      "怀才不遇"
+    ],
+    "scene": [
+      "舟",
+      "月亮",
+      "风"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "ye-fei-que-ye-fei-que-man-he-qiao-song-ren-chu": {
+    "subject": [
+      "送别"
+    ],
+    "mood": [
+      "离别",
+      "思念",
+      "孤独"
+    ],
+    "scene": [
+      "月亮",
+      "风"
+    ],
+    "season": []
+  },
+  "ye-gui-lu-men-shan-ge": {
+    "subject": [
+      "写景",
+      "田园"
+    ],
+    "mood": [
+      "闲适",
+      "旷达"
+    ],
+    "scene": [
+      "山川",
+      "江河",
+      "舟",
+      "月亮"
+    ],
+    "season": []
+  },
+  "ye-he-hua-liu-ming-he-qiao": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "忧伤",
+      "思念"
+    ],
+    "scene": [
+      "柳",
+      "楼",
+      "花",
+      "鸟",
+      "雨",
+      "酒"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "ye-he-hua-liu-suo-ying-hun": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "思念",
+      "爱情",
+      "忧伤"
+    ],
+    "scene": [
+      "柳",
+      "花",
+      "雨",
+      "月亮",
+      "灯"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "ye-heng-yue-miao-sui-su-yue-si-ti-men-lou": {
+    "subject": [
+      "写景",
+      "叙事",
+      "咏怀"
+    ],
+    "mood": [
+      "旷达"
+    ],
+    "scene": [
+      "山川",
+      "雨",
+      "月亮"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "ye-shang-shou-xiang-cheng-wen-di": {
+    "subject": [
+      "边塞"
+    ],
+    "mood": [
+      "思乡",
+      "忧伤"
+    ],
+    "scene": [
+      "月亮"
+    ],
+    "season": []
+  },
+  "ye-wang": {
+    "subject": [
+      "羁旅",
+      "咏怀"
+    ],
+    "mood": [
+      "思乡",
+      "忧伤",
+      "亲情"
+    ],
+    "scene": [
+      "雪",
+      "江河",
+      "山川"
+    ],
+    "season": [
+      "冬"
+    ]
+  },
+  "ye-you-gong-ren-qu-xi-lou-yan-yao": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "思念",
+      "忧伤",
+      "孤独"
+    ],
+    "scene": [
+      "楼",
+      "雁",
+      "月亮",
+      "雨",
+      "灯"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "ye-you-gong-ye-xia-xie-yang-zhao-shui": {
+    "subject": [
+      "羁旅"
+    ],
+    "mood": [
+      "思乡",
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "江河",
+      "风",
+      "楼",
+      "灯",
+      "柳"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "ye-yu-ji-bei": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "思念",
+      "孤独"
+    ],
+    "scene": [
+      "雨",
+      "灯"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "ye-yue": {
+    "subject": [
+      "写景"
+    ],
+    "mood": [
+      "闲适"
+    ],
+    "scene": [
+      "月亮"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "yi-cong-hua-ling-yi-cong-hua-shang-gao-huai-yuan-ji-shi-qiong": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "思念",
+      "爱情",
+      "忧伤"
+    ],
+    "scene": [
+      "花",
+      "柳",
+      "楼",
+      "月亮"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "yi-e-hong-gu-cheng-yin": {
+    "subject": [
+      "写景",
+      "羁旅"
+    ],
+    "mood": [
+      "思乡",
+      "忧伤"
+    ],
+    "scene": [
+      "花",
+      "雪",
+      "山川",
+      "柳",
+      "鸟",
+      "楼"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "yi-liang": {
+    "subject": [
+      "闺怨",
+      "写景"
+    ],
+    "mood": [],
+    "scene": [],
+    "season": [
+      "秋"
+    ]
+  },
+  "yi-shao-nian-wu-qiong-guan-liu": {
+    "subject": [
+      "送别"
+    ],
+    "mood": [
+      "离别",
+      "忧伤",
+      "惜时"
+    ],
+    "scene": [
+      "柳",
+      "舟",
+      "山川"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "yi-wang-sun-qi-qi-fang-cao-yi-wang-sun": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "花",
+      "柳",
+      "楼",
+      "雨",
+      "鸟"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "ying-ti-xu-can-han-zheng-qi-bing-jiu": {
+    "subject": [
+      "叙事",
+      "咏怀"
+    ],
+    "mood": [
+      "思念",
+      "忧伤",
+      "孤独"
+    ],
+    "scene": [
+      "雨",
+      "花",
+      "柳",
+      "舟",
+      "湖",
+      "楼",
+      "雁",
+      "灯"
+    ],
+    "season": [
+      "清明",
+      "春"
+    ]
+  },
+  "ying-tian-chang-tiao-feng-bu-nuan": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "花",
+      "鸟",
+      "雨",
+      "柳",
+      "酒"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "yong-huai-gu-ji-wu-shou-er": {
+    "subject": [
+      "怀古"
+    ],
+    "mood": [
+      "忧伤",
+      "赞美"
+    ],
+    "scene": [
+      "山川",
+      "楼"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "yong-huai-gu-ji-wu-shou-san": {
+    "subject": [
+      "怀古"
+    ],
+    "mood": [
+      "忧伤"
+    ],
+    "scene": [
+      "山川",
+      "月亮"
+    ],
+    "season": []
+  },
+  "yong-huai-gu-ji-wu-shou-si": {
+    "subject": [
+      "怀古"
+    ],
+    "mood": [
+      "忧伤"
+    ],
+    "scene": [
+      "山川",
+      "鸟"
+    ],
+    "season": []
+  },
+  "yong-huai-gu-ji-wu-shou-wu": {
+    "subject": [
+      "怀古"
+    ],
+    "mood": [
+      "赞美",
+      "忧伤"
+    ],
+    "scene": [],
+    "season": []
+  },
+  "yong-huai-gu-ji-wu-shou-yi": {
+    "subject": [
+      "怀古"
+    ],
+    "mood": [
+      "忧伤",
+      "孤独"
+    ],
+    "scene": [
+      "楼",
+      "山川",
+      "月亮"
+    ],
+    "season": []
+  },
+  "yong-yu-le-bi-yue-chu-qing": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "忧伤",
+      "思乡",
+      "爱国"
+    ],
+    "scene": [
+      "月亮",
+      "湖",
+      "灯",
+      "雨"
+    ],
+    "season": [
+      "元宵"
+    ]
+  },
+  "yong-yu-le-luo-ri-rong-jin": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "忧伤",
+      "孤独",
+      "思乡"
+    ],
+    "scene": [
+      "花",
+      "柳",
+      "灯"
+    ],
+    "season": [
+      "元宵"
+    ]
+  },
+  "yong-yu-le-ming-yue-ru-shuang": {
+    "subject": [
+      "怀古",
+      "咏怀"
+    ],
+    "mood": [
+      "旷达",
+      "忧伤",
+      "孤独"
+    ],
+    "scene": [
+      "月亮",
+      "风",
+      "楼",
+      "湖"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "yong-yu-le-qian-gu-jiang-shan": {
+    "subject": [
+      "怀古"
+    ],
+    "mood": [
+      "悲愤",
+      "爱国",
+      "豪迈"
+    ],
+    "scene": [
+      "楼",
+      "花",
+      "风",
+      "雨",
+      "江河"
+    ],
+    "season": []
+  },
+  "you-zi-yin": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "亲情",
+      "思念"
+    ],
+    "scene": [],
+    "season": []
+  },
+  "yu-gao-shi-xue-ju-ci-en-si-fu-tu": {
+    "subject": [
+      "写景",
+      "咏怀"
+    ],
+    "mood": [
+      "豪迈",
+      "旷达"
+    ],
+    "scene": [
+      "山川",
+      "风",
+      "鸟"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "yu-hu-die-wang-chu-yu-shou-yun-duan": {
+    "subject": [
+      "羁旅"
+    ],
+    "mood": [
+      "思乡",
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "雨",
+      "风",
+      "花",
+      "月亮",
+      "雁",
+      "鸟",
+      "楼"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "yu-hu-die-yu-hu-die-wan-yu-wei-cui-gong-shu": {
+    "subject": [
+      "羁旅"
+    ],
+    "mood": [
+      "忧伤",
+      "孤独"
+    ],
+    "scene": [
+      "雨",
+      "花",
+      "楼",
+      "风",
+      "雁",
+      "灯"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "yu-jia-ao-xiao-yu-lian-xian-feng-xi-xi": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "惜春",
+      "忧伤"
+    ],
+    "scene": [
+      "雨",
+      "风",
+      "柳",
+      "花",
+      "江河",
+      "酒"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "yu-jie-xing-fen-fen-duo-ye-piao-xiang-qi": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "思念",
+      "孤独",
+      "忧伤"
+    ],
+    "scene": [
+      "楼",
+      "月亮",
+      "灯",
+      "酒"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "yu-jie-xing-jie-nan-lü-shu-chun-rao-xu": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "花",
+      "楼",
+      "雨",
+      "柳"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "yu-jie-yuan": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "孤独",
+      "忧伤"
+    ],
+    "scene": [
+      "月亮"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "yu-jing-qiu-yan-shui-kuo": {
+    "subject": [
+      "羁旅",
+      "咏怀"
+    ],
+    "mood": [
+      "思乡",
+      "忧伤",
+      "孤独"
+    ],
+    "scene": [
+      "江河",
+      "风",
+      "雨",
+      "花",
+      "楼",
+      "月亮"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "yu-lin-ling-han-chan-qi-qie": {
+    "subject": [
+      "送别"
+    ],
+    "mood": [
+      "离别",
+      "爱情",
+      "忧伤"
+    ],
+    "scene": [
+      "柳",
+      "雨",
+      "酒",
+      "舟",
+      "月亮"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "yu-lou-chun-bie-hou-bu-zhi-jun-yuan-jin": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "思念",
+      "孤独",
+      "忧伤"
+    ],
+    "scene": [
+      "风",
+      "雨",
+      "灯",
+      "楼"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "yu-lou-chun-chi-tang-shui-lü-chun-wei-nuan": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "忧伤",
+      "惜时"
+    ],
+    "scene": [
+      "湖",
+      "花",
+      "楼",
+      "酒"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "yu-lou-chun-chun-feng-zhi-zai-yuan-xi-pan": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "思念",
+      "爱情"
+    ],
+    "scene": [
+      "花",
+      "风",
+      "湖"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "yu-lou-chun-dong-cheng-jian-jue-feng-guang-hao": {
+    "subject": [
+      "写景"
+    ],
+    "mood": [
+      "喜悦",
+      "惜时"
+    ],
+    "scene": [
+      "江河",
+      "柳",
+      "花",
+      "酒"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "yu-lou-chun-dong-feng-you-zuo-wu-qing-ji": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "惜春",
+      "忧伤"
+    ],
+    "scene": [
+      "花",
+      "风",
+      "楼"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "yu-lou-chun-lü-yang-fang-cao-chang-ting-lu": {
+    "subject": [
+      "送别"
+    ],
+    "mood": [
+      "离别",
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "柳",
+      "楼",
+      "雨",
+      "花"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "yu-lou-chun-nian-nian-yue-ma-chang-an-shi": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "豪迈",
+      "悲愤",
+      "爱国"
+    ],
+    "scene": [
+      "楼",
+      "酒",
+      "灯"
+    ],
+    "season": []
+  },
+  "yu-lou-chun-yan-hong-guo-hou-chun-gui-qu": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "惜时",
+      "忧伤",
+      "旷达"
+    ],
+    "scene": [
+      "鸟",
+      "花",
+      "酒"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "yu-mei-ren-fu-rong-luo-jin-tian-han-shui": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "思念",
+      "友情",
+      "忧伤"
+    ],
+    "scene": [
+      "花",
+      "楼",
+      "雨",
+      "雪"
+    ],
+    "season": [
+      "冬"
+    ]
+  },
+  "yu-mei-ren-luo-hua-yi-zuo-feng-qian-wu": {
+    "subject": [
+      "写景",
+      "宴饮"
+    ],
+    "mood": [
+      "惜春",
+      "闲适"
+    ],
+    "scene": [
+      "花",
+      "雨",
+      "酒"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "yu-mei-ren-qu-lan-gan-wai-tian-ru-shui": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "月亮",
+      "楼"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "yu-tai-ti-shi-er-shou-shi-yi": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "思念",
+      "喜悦"
+    ],
+    "scene": [],
+    "season": []
+  },
+  "yu-weng": {
+    "subject": [
+      "写景",
+      "咏怀"
+    ],
+    "mood": [
+      "闲适",
+      "孤独"
+    ],
+    "scene": [
+      "山川",
+      "江河",
+      "舟",
+      "月亮",
+      "风"
+    ],
+    "season": []
+  },
+  "yu-zhu-zi-deng-xian-shan": {
+    "subject": [
+      "怀古",
+      "写景"
+    ],
+    "mood": [
+      "忧伤",
+      "旷达"
+    ],
+    "scene": [
+      "山川",
+      "江河"
+    ],
+    "season": []
+  },
+  "yuan-qing": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "忧伤",
+      "孤独"
+    ],
+    "scene": [],
+    "season": []
+  },
+  "yue-xia-di-wan-li-gu-yun": {
+    "subject": [
+      "羁旅",
+      "咏怀"
+    ],
+    "mood": [
+      "思念",
+      "孤独",
+      "忧伤"
+    ],
+    "scene": [
+      "雨",
+      "灯",
+      "花",
+      "鸟"
+    ],
+    "season": []
+  },
+  "yue-xia-du-zhuo-si-shou-yi": {
+    "subject": [
+      "咏怀",
+      "宴饮"
+    ],
+    "mood": [
+      "孤独",
+      "旷达"
+    ],
+    "scene": [
+      "花",
+      "酒",
+      "月亮"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "yue-ye": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "思念",
+      "亲情",
+      "忧伤"
+    ],
+    "scene": [
+      "月亮"
+    ],
+    "season": []
+  },
+  "yue-ye-yi-she-di": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "思乡",
+      "亲情",
+      "忧伤"
+    ],
+    "scene": [
+      "月亮",
+      "雁",
+      "风"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "yun-yang-guan-yu-han-shen-su-bie": {
+    "subject": [
+      "送别"
+    ],
+    "mood": [
+      "友情",
+      "离别",
+      "忧伤"
+    ],
+    "scene": [
+      "江河",
+      "灯",
+      "雨"
+    ],
+    "season": []
+  },
+  "za-shi-san-shou-er": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "思乡"
+    ],
+    "scene": [
+      "花"
+    ],
+    "season": [
+      "冬"
+    ]
+  },
+  "za-shi-san-shou-san": {
+    "subject": [
+      "边塞",
+      "闺怨"
+    ],
+    "mood": [
+      "思乡",
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "月亮"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "za-shi-shi-san": {
+    "subject": [
+      "羁旅",
+      "写景"
+    ],
+    "mood": [
+      "思乡"
+    ],
+    "scene": [
+      "雨",
+      "柳",
+      "鸟"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "zai-yue-yong-chan": {
+    "subject": [
+      "咏物",
+      "咏怀"
+    ],
+    "mood": [
+      "忧伤",
+      "坚贞",
+      "怀才不遇"
+    ],
+    "scene": [
+      "风"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "zao-fa-bai-di-cheng": {
+    "subject": [
+      "叙事",
+      "写景"
+    ],
+    "mood": [
+      "喜悦",
+      "豪迈"
+    ],
+    "scene": [
+      "山川",
+      "江河",
+      "舟",
+      "鸟"
+    ],
+    "season": []
+  },
+  "zao-han-jiang-shang-you-huai": {
+    "subject": [
+      "羁旅"
+    ],
+    "mood": [
+      "思乡",
+      "孤独",
+      "忧伤"
+    ],
+    "scene": [
+      "雁",
+      "风",
+      "江河",
+      "舟"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "zao-lan-xiang-pan-si-xi-wan": {
+    "subject": [
+      "叙事"
+    ],
+    "mood": [
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "花",
+      "雨",
+      "风",
+      "月亮",
+      "酒"
+    ],
+    "season": [
+      "夏"
+    ]
+  },
+  "zao-qiu-san-shou-yi": {
+    "subject": [
+      "写景",
+      "咏怀"
+    ],
+    "mood": [
+      "忧伤",
+      "惜时"
+    ],
+    "scene": [
+      "风",
+      "雁",
+      "江河"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "zei-ping-hou-song-ren-bei-gui": {
+    "subject": [
+      "送别",
+      "叙事"
+    ],
+    "mood": [
+      "友情",
+      "忧伤",
+      "思乡"
+    ],
+    "scene": [
+      "山川",
+      "月亮",
+      "鸟"
+    ],
+    "season": []
+  },
+  "zei-tui-shi-guan-li": {
+    "subject": [
+      "叙事",
+      "讽喻"
+    ],
+    "mood": [
+      "悲愤",
+      "忧伤"
+    ],
+    "scene": [
+      "山川",
+      "江河"
+    ],
+    "season": []
+  },
+  "zeng-bie-er-shou-er": {
+    "subject": [
+      "送别"
+    ],
+    "mood": [
+      "爱情",
+      "离别",
+      "忧伤"
+    ],
+    "scene": [
+      "灯"
+    ],
+    "season": []
+  },
+  "zeng-bie-er-shou-yi": {
+    "subject": [
+      "送别"
+    ],
+    "mood": [
+      "爱情",
+      "赞美",
+      "离别"
+    ],
+    "scene": [
+      "花"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "zeng-meng-hao-ran": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "赞美",
+      "友情",
+      "旷达"
+    ],
+    "scene": [
+      "月亮",
+      "花",
+      "山川"
+    ],
+    "season": []
+  },
+  "zeng-nei-ren": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "孤独",
+      "忧伤"
+    ],
+    "scene": [
+      "月亮",
+      "灯",
+      "鸟"
+    ],
+    "season": []
+  },
+  "zeng-que-xia-pei-she-ren": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "怀才不遇",
+      "忧伤"
+    ],
+    "scene": [
+      "鸟",
+      "花",
+      "柳",
+      "雨"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "zeng-wei-ba-chu-shi": {
+    "subject": [
+      "叙事",
+      "宴饮"
+    ],
+    "mood": [
+      "友情",
+      "喜悦",
+      "忧伤",
+      "惜时"
+    ],
+    "scene": [
+      "灯",
+      "雨",
+      "酒",
+      "山川"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "zhang-tai-ye-si": {
+    "subject": [
+      "羁旅",
+      "咏怀"
+    ],
+    "mood": [
+      "思乡",
+      "孤独",
+      "忧伤"
+    ],
+    "scene": [
+      "灯",
+      "月亮",
+      "雨",
+      "风",
+      "雁"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "zhang-xiang-si": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "思念",
+      "爱情",
+      "孤独",
+      "忧伤"
+    ],
+    "scene": [
+      "灯",
+      "月亮",
+      "山川",
+      "江河"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "zhang-xiang-si-san-shou-er": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "思念",
+      "爱情",
+      "忧伤"
+    ],
+    "scene": [
+      "花",
+      "月亮",
+      "风"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "zhe-gu-tian-cai-xiu-yin-qin-peng-yu-zhong": {
+    "subject": [
+      "叙事"
+    ],
+    "mood": [
+      "爱情",
+      "喜悦",
+      "思念"
+    ],
+    "scene": [
+      "楼",
+      "月亮",
+      "花",
+      "风",
+      "灯",
+      "酒"
+    ],
+    "season": []
+  },
+  "zhe-gu-tian-chi-shang-hong-yi-ban-yi-lan": {
+    "subject": [
+      "羁旅"
+    ],
+    "mood": [
+      "思乡",
+      "忧伤"
+    ],
+    "scene": [
+      "湖",
+      "花",
+      "鸟",
+      "雨",
+      "月亮",
+      "柳"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "zhe-gu-tian-fei-shui-dong-liu-wu-jin-qi": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "爱情",
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "江河",
+      "鸟",
+      "花"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "zhe-gu-tian-yi-dian-can-hong-yu-jin-shi": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "离别",
+      "思念",
+      "忧伤"
+    ],
+    "scene": [
+      "雨",
+      "灯"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "zhe-gu-tian-zhen-dian-xi-tang-leng-yu-qiu": {
+    "subject": [
+      "写景"
+    ],
+    "mood": [
+      "闲适",
+      "忧伤"
+    ],
+    "scene": [
+      "湖",
+      "花",
+      "鸟",
+      "楼"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "zheng-yuan": {
+    "subject": [
+      "边塞"
+    ],
+    "mood": [
+      "思乡",
+      "忧伤",
+      "悲愤"
+    ],
+    "scene": [
+      "雪",
+      "江河",
+      "山川"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "zhi-de-er-zai-fu-zi-jing-jin-guang-men-chu-wen-dao-gui-feng-xiang-qian-yuan-chu-cong-zuo-shi-yi-yi-hua-zhou-yuan-yu-qin-gu-bie-yin-chu-ci-men-you-bei-wang-shi": {
+    "subject": [
+      "叙事",
+      "咏怀"
+    ],
+    "mood": [
+      "悲愤",
+      "忧伤",
+      "怀才不遇"
+    ],
+    "scene": [],
+    "season": []
+  },
+  "zhong-nan-bie-ye": {
+    "subject": [
+      "咏怀",
+      "田园"
+    ],
+    "mood": [
+      "闲适",
+      "旷达"
+    ],
+    "scene": [
+      "山川",
+      "江河"
+    ],
+    "season": []
+  },
+  "zhong-nan-shan": {
+    "subject": [
+      "写景"
+    ],
+    "mood": [
+      "闲适"
+    ],
+    "scene": [
+      "山川",
+      "江河"
+    ],
+    "season": []
+  },
+  "zhong-nan-wang-yu-xue": {
+    "subject": [
+      "写景"
+    ],
+    "mood": [
+      "闲适"
+    ],
+    "scene": [
+      "山川",
+      "雪"
+    ],
+    "season": [
+      "冬"
+    ]
+  },
+  "zhu-ma-zi-zhu-ma-er-deng-gu-lei-huang-liang": {
+    "subject": [
+      "羁旅",
+      "咏怀"
+    ],
+    "mood": [
+      "忧伤",
+      "孤独",
+      "惜时"
+    ],
+    "scene": [
+      "楼",
+      "雨",
+      "风",
+      "鸟",
+      "江河"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "zhu-ying-tai-jin-cai-you-xiang": {
+    "subject": [
+      "羁旅"
+    ],
+    "mood": [
+      "思乡",
+      "忧伤",
+      "惜春"
+    ],
+    "scene": [
+      "山川",
+      "花",
+      "雨",
+      "柳",
+      "鸟"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "zhu-ying-tai-jin-jian-hong-qing": {
+    "subject": [
+      "叙事",
+      "咏怀"
+    ],
+    "mood": [
+      "喜悦",
+      "惜时"
+    ],
+    "scene": [
+      "花",
+      "鸟",
+      "灯"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "zhu-ying-tai-ling-bao-chai-fen": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "思念",
+      "忧伤",
+      "惜春"
+    ],
+    "scene": [
+      "楼",
+      "柳",
+      "雨",
+      "花",
+      "鸟",
+      "灯"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "zhu-ying-yao-hong-ai-ai-chun-kong": {
+    "subject": [
+      "怀古",
+      "咏怀"
+    ],
+    "mood": [
+      "忧伤",
+      "思念"
+    ],
+    "scene": [
+      "楼",
+      "江河",
+      "柳",
+      "雁",
+      "舟",
+      "山川",
+      "雨"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "zhu-ying-yao-hong-shuang-que-zhong-tian": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "忧伤",
+      "孤独",
+      "爱国"
+    ],
+    "scene": [
+      "楼",
+      "灯",
+      "雁"
+    ],
+    "season": [
+      "元宵"
+    ]
+  },
+  "zi-he-nan-jing-luan-guan-nei-zu-ji-xiong-di-li-san-ge-zai-yi-chu-yin-wang-yue-you-gan-liao-shu-suo-huai-ji-shang-fu-liang-da-xiong-wu-qian-qi-xiong-wu-jiang-shi-wu-xiong-jian-shi-fu-li-ji-xia-gui-di-mei": {
+    "subject": [
+      "叙事",
+      "羁旅"
+    ],
+    "mood": [
+      "思乡",
+      "亲情",
+      "忧伤"
+    ],
+    "scene": [
+      "月亮",
+      "雁"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "zi-xia-kou-zhi-ying-wu-zhou-xi-wang-yue-yang-ji-yuan-zhong-cheng": {
+    "subject": [
+      "羁旅",
+      "咏怀"
+    ],
+    "mood": [
+      "思乡",
+      "孤独",
+      "忧伤",
+      "怀才不遇"
+    ],
+    "scene": [
+      "江河",
+      "湖",
+      "舟",
+      "鸟",
+      "风"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "zi-ye-si-shi-ge-si-shou-xia-ge": {
+    "subject": [
+      "叙事",
+      "写景"
+    ],
+    "mood": [
+      "赞美",
+      "喜悦"
+    ],
+    "scene": [
+      "湖",
+      "花",
+      "舟",
+      "月亮"
+    ],
+    "season": [
+      "夏"
+    ]
+  },
+  "zi-ye-wu-ge-chun-ge": {
+    "subject": [
+      "叙事",
+      "写景"
+    ],
+    "mood": [
+      "喜悦",
+      "赞美"
+    ],
+    "scene": [
+      "花",
+      "柳",
+      "江河"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "zi-ye-wu-ge-dong-ge": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "思念",
+      "爱情"
+    ],
+    "scene": [],
+    "season": [
+      "冬"
+    ]
+  },
+  "zi-ye-wu-ge-qiu-ge": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "思念",
+      "忧伤",
+      "爱国"
+    ],
+    "scene": [
+      "月亮",
+      "风"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "zi-ye-wu-ge-xia-ge": {
+    "subject": [
+      "叙事",
+      "写景"
+    ],
+    "mood": [
+      "赞美",
+      "喜悦"
+    ],
+    "scene": [
+      "湖",
+      "花",
+      "舟",
+      "月亮"
+    ],
+    "season": [
+      "夏"
+    ]
+  },
+  "zi-yu-xiang-man-jin-chong-yang": {
+    "subject": [
+      "羁旅",
+      "咏怀"
+    ],
+    "mood": [
+      "思乡",
+      "忧伤"
+    ],
+    "scene": [
+      "酒",
+      "风",
+      "雨"
+    ],
+    "season": [
+      "重阳",
+      "秋"
+    ]
+  },
+  "zou-ma-chuan-xing-feng-song-chu-shi-xi-zheng": {
+    "subject": [
+      "边塞"
+    ],
+    "mood": [
+      "豪迈",
+      "爱国"
+    ],
+    "scene": [
+      "雪",
+      "风",
+      "山川"
+    ],
+    "season": [
+      "秋"
+    ]
+  },
+  "zui-chui-bian-shuang-die-xiu-luo-qun": {
+    "subject": [
+      "叙事"
+    ],
+    "mood": [
+      "赞美",
+      "爱情"
+    ],
+    "scene": [
+      "花",
+      "柳"
+    ],
+    "season": [
+      "春"
+    ]
+  },
+  "zui-hua-yin-bo-wu-nong-yun-chou-yong-zhou": {
+    "subject": [
+      "闺怨"
+    ],
+    "mood": [
+      "思念",
+      "孤独"
+    ],
+    "scene": [
+      "花",
+      "酒",
+      "风"
+    ],
+    "season": [
+      "重阳"
+    ]
+  },
+  "zui-zhong-zhen-huan-xi-sha-bu-xin-fang-chun-yan-lao-ren": {
+    "subject": [
+      "咏怀"
+    ],
+    "mood": [
+      "惜春",
+      "旷达",
+      "喜悦"
+    ],
+    "scene": [
+      "花",
+      "酒"
+    ],
+    "season": [
+      "春"
+    ]
+  }
+}

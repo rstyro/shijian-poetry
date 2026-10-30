@@ -1,0 +1,18 @@
+{
+  "name": "shijian-poetry",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "content": "node scripts/build-content.mjs",
+    "docs:dev": "node scripts/build-content.mjs && vitepress dev",
+    "docs:build": "node scripts/build-content.mjs && vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "opencc-js": "^1.4.2",
+    "pinyin-pro": "^3.29.5",
+    "vitepress": "^1.6.4",
+    "vue": "^3.5.44"
+  }
+}
